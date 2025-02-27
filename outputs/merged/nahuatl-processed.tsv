@@ -1,0 +1,529 @@
+ID	Source	Change	System	Output
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	xonuiqueh touan
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #nimehuantzitzin #xiouacan #nouan
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #xocualacan #toan
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	DEV	amo omococoh
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	GIS	* amo #ococoua
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	MNZ	amo omococoh
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #ualayah #in #nouan
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #ualacaya #inouan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	xonuiqueh touan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #xiualahcan #nouan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #xoualcan #nonouan
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	DEV	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GIS	* #nehhuantin #amo #titomauazqueh
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	MNZ	* #titozomaquih
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* #tehuatzin #otitemauztih
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* #tehuatzin amo #otitomauaya
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	DEV	timococosqueh
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GIS	* #nimococouasqueh
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	MNZ	* #timococouazqueh
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	DEV	niinconeuan
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GIS	* #here's #how #the #information #you've #provided #can #be #translated #into #the #third #column:
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	MNZ	* #timoconehuan
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #nehuan amo #quitomauazqueh
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* yehuan amo #quitomauaskeh
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	DEV	tiuitzeh mouan
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GIS	* #oualceh #mohuan
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	MNZ	* #tiualah #mohuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	DEV	uitzeh inuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	GIS	* #amo #ualya inuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	MNZ	* #oualia inuan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	DEV	tiuitzeh mouan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GIS	* #itzouit #noutfu
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	MNZ	* #tiuitz #mohuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	DEV	oniualaya iuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	GIS	* #oniualacah iuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	MNZ	* #oniualayah iuan
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* #amotiua nouan
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #xihualla nouan
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	teh oticatca titomauac
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* teh #otitomayah
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* teh #otitomauaya
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	uitzeh inuan
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #oniualaya #inon
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #iuhqui #iuan
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	ualasqueh nouan
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #nitzquixtiqueh #mohuan
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* #uitz #nohuanihqueh
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	GIS	* amo #nitlauitzeh #inuan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	MNZ	* amo #uitzeh #inuan
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	DEV	nimoconeu
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	GIS	* #here #is #a #completion #of #the #third #column:
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	MNZ	* #nimoconeua
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	DEV	tiualas touan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	GIS	* #tiuitztouas touan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	MNZ	* #tiuitzaz touan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	DEV	tiualas touan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GIS	* #noualah #towan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	MNZ	* #tihuallaz #towan
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	DEV	ocatcah inconeuan
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	GIS	* #amo #titoconeuh
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	MNZ	* #oconeuhqueh #inoconemeh
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	DEV	uitzeh inuan
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GIS	* #xonuiqueh #touan
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	MNZ	* #onuiqueh #inouan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* #onicmouhuali amo #iuan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #xiuhtia #noian
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	amo omococoh
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #ococouh
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #ococouh
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo mococoua
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #cochisque
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #mococoa
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	DEV	amo mococoua
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	GIS	* amo #nimococoua
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	MNZ	* amo #quimococoua
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	DEV	nimehuan amo nitomauaqueh
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	GIS	* #you #listen #to #us
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	MNZ	* #ameh amo #amotomauac
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	DEV	xonuiqueh touan
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	GIS	* #moiuiz #toan #mochantzin
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	MNZ	* #xouitzqueh touan
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	DEV	ocatcah inconeuan
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GIS	* #omoconeuhqueh
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	MNZ	* #omoconehuayahqueh
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	amo omococoh
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #ocomocoqueh
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #omococ
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	xonuiqueh touan
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #Here's #the #filled #third #column #based #on #the #given #source #and #change:
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #xoualcan touan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	DEV	amo oualayah inuan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GIS	* amo #oquinuquiyah #nouan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	MNZ	* amo #oiuquiyah #inouan
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	DEV	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GIS	* #neh #titomauas
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	MNZ	* #tehuantin #titomauasqueh
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	DEV	ocatcah inconeuan
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GIS	* #oconhuetiyah #iconeuan
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	MNZ	* #omoconeuhqueh
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* #tehuatzin amo #totomauaya
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* #tehuatzin amo #ototomauaya
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	DEV	neh niisqui nitomauac
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	GIS	* neh #nitomauas
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	MNZ	* neh #nitomauaz
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	DEV	onimococouaya
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GIS	* #nimohtzocouaya
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	MNZ	* #onimococoyah
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	DEV	amo uitseh nouan
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	GIS	* amo #mauiqueh nouan
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	MNZ	* amo #uihtihqueh nouan
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	DEV	tehuan titomauaqueh
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	GIS	* #we #are #friends
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	MNZ	* #tehuantin #titomauac
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	DEV	uitzeh inuan
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	GIS	* #amo #mauiqueh #in #nouan
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	MNZ	* #uiquihqueh #inouan
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	DEV	ocatca iconeu
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GIS	* #yehuantin #oincochtihtoc #iconeuan
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	MNZ	* #oconeuh #iconeuan
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	GIS	* #tehuatzin amo #catca #titomauac
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	MNZ	* amo #tehuatzin #oticatca #titomauac
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #tiualaz nouan
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #xiualla nouan
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	DEV	onimococouaya
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GIS	* #nicanococouaya
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	MNZ	* #onococouaya
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #uitz #mouayaqueh #iplauhtillahuan
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #ohuetzqueh #inmoan
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	DEV	niinconeuan
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GIS	* #Here's #the #filled #third #column #for #your #example:
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	MNZ	* #incoconeuhqueh
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #nohualli #ualatoc
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #ualacani nouan
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	DEV	tiuitzeh mouan
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GIS	* #onicualtoc #mohuan
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	MNZ	* #tiuallauhqueh #iuan
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	nimococouah
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #timococohqueh
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #timococohqueh
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	DEV	timoconeuan
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GIS	* #we #need #to #interpret #the #codes #and #convert #them #into #their #likely #linguistic #counterpart. #Here's #a #breakdown:
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	MNZ	* #toconetl
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* #oualah amo #nonouayah
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #oualtiyah #inouan
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	DEV	yeh iconeu
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GIS	* iconeu
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	MNZ	* #imoconeuan
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	DEV	oniualaya iuan
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GIS	* #oualah #nohuan
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	MNZ	* #niyah #ic #nouan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	ualasqueh nouan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #tihuetziuh #nomouan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* #quiuitzazqueh #nohuan
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo tinoconeu
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* amo #conmoconeuh
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #timoconeu
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* amo #niualazqueh #iuan
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #oniualayah #iuan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	xonuiqueh touan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #oniualia #iuan #numohuan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #xiuallacan #nonahuan
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	mococouah
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #timococohuilli
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #mococohqueh
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	DEV	teh oticatca titomauac
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GIS	* #the #third #column #for #the #given #phrase #would #be:
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	MNZ	* teh #otitomauac
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	DEV	timococosquiah
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	GIS	* #amo #nicocouisquia
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	MNZ	* #timococouasquiah
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	DEV	neh niisqui nitomauac
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	GIS	* #nimehuan #nimaquijtitia
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	MNZ	* #nimehuan #nitomauaz
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GIS	* #yeh amo #niualah #iuan
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #niualtiuh #iuan
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	DEV	ocatca iconeu
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GIS	* #oconeuh #itoconeu
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	MNZ	* #omoconeuh iconeu
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	DEV	amo uitseh nouan
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	GIS	* #nohualaya #inuan
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	MNZ	* amo #nualah #inuan
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	DEV	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	GIS	* tehuan #tomauaqueh
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	MNZ	* #tihuam #tomauaqueh
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	DEV	neh amo nitomauac
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	GIS	neh amo nitomauac
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	MNZ	* amo neh nitomauac
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	ualasqueh nouan
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #tiuitzqueh #notouan
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* #tohuan #uiqueh
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	DEV	xonuiqueh touan
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GIS	* #uitz #motlacuican #tinotlantzin
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	MNZ	* #xiquittacan #toan
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	DEV	uitzeh inuan
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GIS	* #tiuitz #tohuan
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	MNZ	* #huitz #inouan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* amo #tiuitz #nohuan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #quiuitz #nohuan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	DEV	tiuitzeh mouan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	GIS	* #I'll #make #some #assumptions #for #demonstration #purposes
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	MNZ	* #titz mouan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	DEV	oniualah iuan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GIS	* #uitz #noan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	MNZ	* #ouitz #in #mouan
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	DEV	niinconeuan
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GIS	"* #the #target #for #""niiconeu"" #with #the #changes #""PERSON[POSS]:3_PL; #PERSON[SUBJ]:2_PL"" #could #be #""your #(plural) #their."" #This #denotes #that #the #subject #is #second-person #plural #(you #all) #and #the #possessive #is #third-person #plural #(their)"
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	MNZ	* #inihuanconeuh
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	amo omococoh
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #oquimococoa
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #omococouh
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* amo #xicmouaqui #nomouan
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #xiuhtoz #nohuan
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	DEV	ocatca iconeu
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	GIS	* #onoconeuh iconeu
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	MNZ	* #oconeuh iconeu
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	DEV	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	GIS	* #we #will #see #the #houses
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	MNZ	* #tehuantin #tiisqui #titomauac
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	amo omococoh
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #oncocou
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	amo omococoh
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GIS	* #oueh amo nouan
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #uehqueh nouan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #ueltihtoc #noiuan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #niualtiuh #iuan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* amo #xiconui #nohuan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #xonui #nohuan
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	DEV	ocatca iconeu
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GIS	* #niicohtia iconeu
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	MNZ	* #oiconeuh
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	DEV	tiuitzeh mouan
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GIS	* #onicualah #iuan
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	MNZ	* #tiuallauh #iuan
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	mococouah
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #timococohqueh
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #cocohqueh
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	DEV	neh niisqui nitomauac
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	GIS	* #tehuan #timomauaqueh
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	MNZ	* #nehuatl #nimomauas
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	DEV	teh oticatca titomauac
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GIS	* #neh #amo #tocnotomauaya
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	MNZ	* teh #otitomauaya
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	DEV	amo mococoua
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GIS	* amo #mococouah
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	MNZ	* amo #quimococoa
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #nimehuan amo #timauasquêh
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* yehuan amo #quitomauasquih
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	teh oticatca titomauac
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* #tehuan #otitomaua
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* teh #otomauac
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	DEV	tiuitz touan
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GIS	* #tamoayan #nouan
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	MNZ	* #tiauah touan
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	DEV	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GIS	* #nimehuan #timomauazqueh
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	MNZ	* #titimehuasqueh #tomauaqueh
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GIS	* #amotiuaya #notoan
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #ualah #nohuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	DEV	oniualah iuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GIS	* #oualah #noyan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	MNZ	* #nehuatl #oualah iuan
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	DEV	nimehuan amo nitomauaqueh
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	GIS	* amo #anquemauaqueh
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	MNZ	* #amehuantin #amotomauaqueh
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	DEV	tiualas touan
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GIS	* #toconualas #iuan
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	MNZ	* #tiualazqueh #iuan
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	DEV	mococouah
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	GIS	* #mococouehqueh
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	MNZ	* #mococouqueh
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	DEV	ocatca iconeu
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GIS	* #quitohtih #timoconeuan
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	MNZ	* #omoconeuh iconeu
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	DEV	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GIS	* amo #tomauazqueh
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	MNZ	* yehuan amo #quitomauasquih
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* amo #oniualaya #inehuan
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #oniualayahqueh #iuan
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	DEV	nimoconeu
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	GIS	* #the #third #column #(Target) #might #be #filled #out #as #follows:
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	MNZ	* #moconeu
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	DEV	tiualas touan
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GIS	* #uitztitz #mouanih
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	MNZ	* #titzas touan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GIS	* #here #is #the #filled-in #third #column #for #the #given #source #and #changes:
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #huihtihqueh #incalhuan
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	oc tlatooctoqueh
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #tlatooqueh
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #tlatohqueh
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	DEV	nimehuan amo nitomauaqueh
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	GIS	* #neh #amoceh #tomauac
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	MNZ	* #ameh #amotomauacqueh
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo mococoua
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #micocohuaz
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #mococoa
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	DEV	ocatcah inconeuan
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GIS	* #yehtoya #coneuan
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	MNZ	* #yeh #oconeuhqueh
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	DEV	onimococouaya
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GIS	* #timococohya
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	MNZ	* #onococoya
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	DEV	neh niisqui nitomauac
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	GIS	* neh #amo #nitemauaz
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	MNZ	* neh #nitomauaz
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	DEV	tehuan titomauaqueh
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	GIS	* #tah #amo #timomauaca
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	MNZ	* tehuan #titomauac
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	DEV	xonuiqueh touan
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GIS	* #tocontzacuas #tochan
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	MNZ	* #xihuallacan #totahuan
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	DEV	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	GIS	* tehuan #timomauaquesqueh
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	MNZ	* tehuan #titomauazqueh
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	DEV	yeh iconeu
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	GIS	* #I'll #fill #in #the #third #column #based #on #the #pattern #from #your #example:
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	MNZ	* iconeu
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	uitzeh inuan
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #oniualahqueh #iuanuitz
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #niuanqueh #iuan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	uitzeh inuan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #oualah #ineh #nouan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #oualtiuh #inouan
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	DEV	oc onitlatooctoyah
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	GIS	* #Sure! #Let's #break #it #down:
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	MNZ	* oc #anitlatooctoya
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo mococoua
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* #onamococoua
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #mococoa
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* amo #xonuiliah #notouan
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #oniquiuh #nohuan
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	teh oticatca titomauac
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* #the #transformation #appears #to #express #the #imperfective #aspect #with #a #singular #second #person #subject #in #the #past #simple #tense. #Here #is #the #transformation #for #the #provided #data:
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* teh #otitomauac
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	DEV	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GIS	* yehuan amo #quimauhqueh
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	MNZ	* amo #timauazqueh
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	DEV	tiuitz touan
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GIS	* #tictema #iuan #iuan
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	MNZ	* #tiualah #iuan #tonantzin
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	DEV	ualasqueh nouan
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	GIS	* #tiualas #toanontinqueh
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	MNZ	* #hualahqueh #nohuan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* amo #uitz #mohuanqueh
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #onitzuaya #nohuan
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	DEV	onimococouaya
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	GIS	* #nicococouaya
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	MNZ	* #onimococoyaya
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	amo omococoh
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* #tlen amo #ococos
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	amo omococoh
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	DEV	amo omococoh
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	GIS	* amo #omococou
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	MNZ	* amo #ococouac
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	DEV	mococouah
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	GIS	* #mococouhqueh
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	MNZ	* #mococouahqueh
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	ualasqueh nouan
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #oualeh nouan
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* #oualazqueh nouan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #tiualaya #toyauan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #ualahqueh #in #touan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	DEV	tiualas touan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GIS	* #titechiuhtzeh #tonen
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	MNZ	* #tiuitzas touan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	DEV	tiuitz touan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GIS	* #tiualtia #tiuan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	MNZ	* #tiualahqueh #iuan
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	DEV	oniualaya iuan
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GIS	* #amo #niuitzaya #moneuh
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	MNZ	* #nimitzitzcayotia iuan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	uitzeh inuan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #ticatouan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* #ualah #in #toan
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	nimococouah
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #titicoco
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #timococohqueh
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* #tehuan amo #otitomauaya #huan #titequihuia
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* #tehuatzin amo #otomauaya
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	DEV	uitzeh inuan
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	GIS	* #ualaqueh #inon
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	MNZ	* #ualasqueh #inouan
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	DEV	amo mococoua
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GIS	* amo #occocoah
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	MNZ	* amo #cocoua
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	DEV	nimococouah
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	GIS	"* #you #haven't #provided #enough #context #or #examples #for #a #definitive #pattern. #If #we #follow #the #structure #of #the #given #example #""nimococoua"" #you #could #consider #translating #this #in #a #hypothetical #scenario #where #""nimococoua"" #is #a #verb #or #action #that #is #being #modified #by #""PERSON[SUBJ]:2_PL"" #(indicating #a #second #person #plural #subject)"
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	MNZ	* #amicocouah
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo tinoconeu
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* amo #timoconeua #noconeu
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #timoconeuhuan
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	DEV	uitzeh inuan
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GIS	* #tiuitzeh #mouanqueh
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	MNZ	* #huitzeh #iuan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	DEV	uitz mouan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	GIS	* #oualah #monuan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	MNZ	* #ouhqui #mohuan
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* #tehuan amo #timoauaya #omauh
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* #tehuatzin amo #otitomauaya
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	teh oticatca titomauac
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* teh #ticiosqui titomauac
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* teh #otiisquiya titomauac
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo tinoconeu
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* amo #niconeu
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #ticoneu
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	DEV	uitzeh inuan
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GIS	* #Here #is #the #filled #third #column #for #the #given #example:
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	MNZ	* uitzeh #mouan
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* #yehuatzin #atlauhtocah #tomauaqueh
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* #tehuatzin amo #otomaquilia #tomauaqueh
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	DEV	oc titlatooctoc
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GIS	* #tictooctoya
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	MNZ	* #ticcahuatoc
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	DEV	onimococouaya
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GIS	* #nicocohuaya
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	MNZ	* #nicocotoya
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	DEV	timococosqueh
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	GIS	timococosqueh
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	MNZ	* #timococoseh
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	DEV	neh niisqui nitomauac
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	GIS	* #yehuan #amo #niquitequitiuh #tomaua
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	MNZ	* #niqui #tomauaqueh
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo tinoconeu
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* #yeh amo #itoconeu
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #noiconeu
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	DEV	xonuiqueh touan
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GIS	* #tehuatzin #xicoanqui #tocahuāntin #iuan
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	MNZ	* #xiuhtican #noniuan
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo tinoconeu
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* #tinehuantin amo #innohuan
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #tinconeuan
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	DEV	teh oticatca titomauac
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GIS	* teh #otimaxtihya #tomauaqueh
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	MNZ	* teh #otimaquiltia #tomauaqueh
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	DEV	ocatcah inconeuan
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GIS	* #yehuan #inconeuhqui
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	MNZ	* #oniconcueyahqueh
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	DEV	amo uitseh nouan
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GIS	* amo #miuan
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	MNZ	* amo #huihqueh #nohuan
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GIS	* amo #tiuyaya #mouan
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #huihtihqueh #iuan
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	DEV	ocatca iconeu
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	GIS	* #yeh #omomiyon iconeu
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	MNZ	* #yeh #oconeuh
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	DEV	amo oualayah inuan
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GIS	* #xonuiqueh amo #touan
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	MNZ	* amo #onuiyah #touan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	GIS	* amo #xitiuqui #nontouan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	MNZ	* amo #xiuhtoz #nohuan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #tiualtiuh #nohuan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #xiuhtia #nochan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	DEV	tiuitz touan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	GIS	* #amouan #uitz
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	MNZ	* #witz #towan
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	DEV	oc tlatooctoqueh
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	GIS	* oc #tlatoctoqueh
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	MNZ	* oc #tlatoctoqueh
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GIS	* #tehuatzin #ototomauaya
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	MNZ	* #tehuatzin amo #otitomauaya
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	DEV	tiualas touan
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GIS	* #tohualazqueh #iuan
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	MNZ	* #tiuazqueh #iuan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	GIS	* amo #tiualas #nota
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	MNZ	* amo #xiuallacan #notouan
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	DEV	oc onitlatooctoyah
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	GIS	* #octitlatooc #ameh
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	MNZ	* oc #antitlatooctoqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	DEV	oc tlatooctoqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GIS	* #tlatoctoqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	MNZ	* oc #tlatoctihqueh
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	DEV	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GIS	* #neh amo #ticisqui #tomauac
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	MNZ	* #tehuatzin amo #otitisqui #titomauac
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	DEV	ocatcah inconeuan
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GIS	* #ocatca #iconequeh
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	MNZ	* #ocaticah #iniconeuqueh
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	DEV	ocatcah inconeuan
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GIS	* #oiconequeh #in #iconeuan
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	MNZ	* #oconeuhqueh
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	ualasqueh nouan
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #onicuaualazqueh #iuan
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* #niualisquihuan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	DEV	amo xiuiqui nouan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GIS	* amo #xitiuitze #nohuan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	MNZ	* amo #xiuhti #nohuan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	DEV	ualasqueh nouan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GIS	* #niualasqueh #iuan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	MNZ	* #niualasquihuan
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	DEV	yeh iconeu
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GIS	* #niiconeuhuan
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	MNZ	* iconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	DEV	yeh iconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GIS	* #nimoconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	MNZ	* #imoconeu

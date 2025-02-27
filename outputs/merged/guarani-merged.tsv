@@ -1,0 +1,238 @@
+ID	Source	Change	System	Output
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	DEV	Peteĩ ko’ẽme noñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GIS	Peteĩ ko’ẽme ndonombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	MNZ	Peteĩ ko’ẽme noñombohovai rakúma hikuái
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	DEV	Peteĩ ko’ẽme nde reñombohovai rakúma
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GIS	Peẽ peñombohovai rakúma peteĩ ko’ẽme
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	MNZ	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	DEV	Peteĩ ko’ẽme ñande ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GIS	Ñande ñañombohovairakúma peteĩ ko’ẽme
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	MNZ	Peteĩ ko’ẽme ñañombohovái rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	DEV	Peteĩ ko’ẽme ore roñombohovai rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GIS	Ore roñombohovai rakúma peteĩ ko’ẽme hikuái
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	MNZ	Peteĩ ko’ẽme roñombohovai rakúma ore
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	DEV	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GIS	Ko’ã tembi’u ñande ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	MNZ	Ko’ã tembi’u ñande ñambojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	DEV	Ko’ã tembi’u rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GIS	Ore rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	MNZ	Ko’ã tembi’u rombojy jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	DEV	Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GIS	Ko’ã tembi’u ndombojy jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	MNZ	Ko’ã tembi’u ndombojy jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	DEV	Ko’ã tembi’u oñembojýta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GIS	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	MNZ	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	DEV	Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GIS	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	MNZ	Ko’ã tembi’u ombojy va’ekue jepe’a tatarendýpe
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	DEV	Che ahechakuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GIS	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	MNZ	Che ahecha kuri peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	DEV	Che ndahecháihina kuri peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GIS	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	MNZ	Che ndahechái kuri hína peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	DEV	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GIS	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	MNZ	Che ndahechái peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	DEV	Nde nderehechái peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GIS	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	MNZ	Nde nderehechái kuri peteĩ óga
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	DEV	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GIS	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	MNZ	Ha’ekuéra ndosãmbyhyi
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	DEV	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GIS	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	MNZ	Ha’ekuéra osãmbyhy hína
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	DEV	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GIS	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	MNZ	Ha’ekuéra osãmbyhy va’ekue
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	DEV	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GIS	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	MNZ	Ha’ekuéra osãmbyhy ikóni
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	DEV	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GIS	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	MNZ	Ñande ñasãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	DEV	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GIS	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	MNZ	Ore rosãmbyhy
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	DEV	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GIS	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	MNZ	Peẽ peñanga’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	DEV	Ha’ekuéra ndoñanga’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GIS	Ha’ekuéra nonanga’úita
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	MNZ	Ha’ekuéra ndonanga’úita
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	DEV	Che nañanga’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GIS	Che nañangarekoi
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	MNZ	Che nanangare’uta
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	DEV	Peẽ napeñanga’ui kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GIS	Peẽ napeñangau kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	MNZ	Peẽ napeñangau kuri
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	DEV	Peẽ napeñanga’ui
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GIS	Peẽ napeñanga’ui
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	MNZ	Peẽ napeñangái
+Guarani0093	Ore norokúita	TYPE:AFF	DEV	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GIS	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	MNZ	Ore rokúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	DEV	Ñande nojakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GIS	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	MNZ	Ñande ndajakúita
+Guarani0095	Ore norokúita	PERSON:2_PL	DEV	Peẽ napekúirita
+Guarani0095	Ore norokúita	PERSON:2_PL	GIS	Peẽ penorokúita
+Guarani0095	Ore norokúita	PERSON:2_PL	MNZ	Peê ndapejúita
+Guarani0096	Ore norokúita	PERSON:2_SI	DEV	Nde nerekúirita
+Guarani0096	Ore norokúita	PERSON:2_SI	GIS	Nde nderekúita
+Guarani0096	Ore norokúita	PERSON:2_SI	MNZ	Nde nderekúita
+Guarani0097	Ore norokúita	ASPECT:IPFV	DEV	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GIS	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	MNZ	Ore norokúita hína
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	DEV	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GIS	Umi kuaaukahárakuéra ndonemongetai kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	MNZ	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	DEV	Pe kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GIS	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	MNZ	Pe kuaaukahára oñemongeta kuri
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	DEV	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GIS	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	MNZ	Umi kuaaukahárakuéra oñemongetáta
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	DEV	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GIS	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	MNZ	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	DEV	Umi kuaaukahárakuéra oñemongetami
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GIS	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	MNZ	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	DEV	Umi kuaaukahárakuéra oñemongeta ikóni kuri
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GIS	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	MNZ	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	DEV	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GIS	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	MNZ	Ha’e oguerekómi
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	DEV	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GIS	Ha’e noguereko kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	MNZ	Ha’e noguerekói kuri
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	DEV	Nde nereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GIS	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	MNZ	Nde ndereguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	DEV	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GIS	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	MNZ	Che naguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	DEV	Ñande nañaguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GIS	Ñande ndoroguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	MNZ	Ñande ndajaikómi
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	DEV	Ha’e noguerekóita
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GIS	Ha’e noguerekóita
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	MNZ	Ha’e noguerekóta
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	DEV	Ha’e ndomokañýi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GIS	Ha’e ndomokañýi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	MNZ	Ha’e ndomokañýi kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	DEV	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GIS	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	MNZ	Nde remokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	DEV	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GIS	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	MNZ	Peê pemokañy kuri ore ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	DEV	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GIS	Che amokañy kuri che ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	MNZ	Che amokañy kuri che ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	DEV	Ha’e omokañyta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GIS	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	MNZ	Ha’e omokañýta pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	DEV	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GIS	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	MNZ	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	DEV	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GIS	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	MNZ	Peẽ napemongyráita
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	DEV	Peẽ napemongyrá
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GIS	Peẽ napemongyraái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	MNZ	Peẽ napemongyrai
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	DEV	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GIS	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	MNZ	Ha’ekuéra nomongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	DEV	Ñande nañamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GIS	Ñande ñamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	MNZ	Ñande ndajajomongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	DEV	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GIS	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	MNZ	Ore noromongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	DEV	Peẽ pemongyra kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GIS	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	MNZ	Peẽ pemongyrái kuri
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	DEV	Nde reko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GIS	Nde neko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	MNZ	Nde neko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	DEV	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GIS	Ha’ekuéra oiko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	MNZ	Ha’e oiko’õmi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	DEV	Peẽ napeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GIS	Peẽ ndapeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	MNZ	Peẽ ndapeko’õimi
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	DEV	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GIS	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	MNZ	Peẽ peko’õimi hína
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	DEV	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GIS	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	MNZ	Peẽ peko’õimi ikóni
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	DEV	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GIS	Ore roko'õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	MNZ	Ore roko'õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	DEV	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GIS	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	MNZ	Che ako’õimi
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	DEV	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GIS	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	MNZ	Ore rombyai kuri
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	DEV	Ore ndorombyaita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GIS	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	MNZ	Ore ndorombyáita
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	DEV	Ñande nañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GIS	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	MNZ	Ñande ndajaikói kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	DEV	Che nambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GIS	Che ndambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	MNZ	Che ndambyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	DEV	Peẽ napembyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GIS	Peẽ ndapeñemombyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	MNZ	Peê ndapehundi kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	DEV	Nde nerembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GIS	Peẽ ndapeñembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	MNZ	Nde nderehundi kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	DEV	Peẽ peñemongeta kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GIS	Peẽ peñemongetámi kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	MNZ	Peẽ peñemongetámi kuri
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	DEV	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GIS	Ñande ñañemongetámi
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	MNZ	Ñande ñañemongetámi
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	DEV	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GIS	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	MNZ	Ore roñemongetami
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	DEV	Peẽ peñemongetáta
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GIS	Peẽ peñemongetáta
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	MNZ	Peẽ peñemongetata
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	DEV	Peẽ napeñemongetaimi
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GIS	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	MNZ	Peẽ ndapeñemongetami
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	DEV	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GIS	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	MNZ	Peẽ peñemongeta
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	DEV	Ha’e ndopovyvýi kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GIS	Ha’e ndopovyví kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	MNZ	Ha’e ndopovyvýi kuri
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	DEV	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GIS	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	MNZ	Ha’e opovyvy kuri hína
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	DEV	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GIS	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	MNZ	Nde repovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	DEV	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GIS	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	MNZ	Che apovyvy kuri
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	DEV	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GIS	Ha’e opovyvýta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	MNZ	Ha’e opovyvyta
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	DEV	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GIS	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	MNZ	Ha’e opovyvy va’ekue
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	DEV	Ha’e opovyvymi
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GIS	Ha’e opovyvyimi
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	MNZ	Ha’e opovyvymi
