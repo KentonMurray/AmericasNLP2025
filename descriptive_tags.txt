@@ -10,10 +10,15 @@ TYPE-- phrase type/polarity; Refers to the classification of phrases (e.g., noun
 'Negativo':'NEG', # Negative - A polarity value indicating negation 
 
 SUBTYPE-- subtype; A classification within a broader grammatical category, such as different types of verbs, nouns, or clauses.
-'Declarativa':'DEC', # Declarative - A sentence type used to make statements 'Interrogativa':'INT', # Interrogative - A sentence type used to ask questions 
+'Declarativa':'DEC', # Declarative - A sentence type used to make statements 
+'Interrogativa':'INT', # Interrogative - A sentence type used to ask questions 
 
 MODE-- verbal mode; This refers to the way a verb conveys different types of meaning, such as declarative, interrogative, imperative, or subjunctive. It can overlap with the concept of **mood**, which expresses modality (e.g., possibility, necessity).
-'Adversativo':'ADVERS', # Adversative - A verb form expressing contrast or opposition 'Exhortativo':'EXH', # Exhortative - A verb form used to encourage or urge action 'Optativo':'DES', # Optative - A grammatical mood expressing wishes or desires 'Indicativo':'IND', # Indicative - A grammatical mood expressing factual or real situations 'Conocimiento':'POT', # Knowledge/Potential - A grammatical mood expressing possibility or capability 
+'Adversativo':'ADVERS', # Adversative - A verb form expressing contrast or opposition 
+'Exhortativo':'EXH', # Exhortative - A verb form used to encourage or urge action 
+'Optativo':'DES', # Optative - A grammatical mood expressing wishes or desires 
+'Indicativo':'IND', # Indicative - A grammatical mood expressing factual or real situations 
+'Conocimiento':'POT', # Knowledge/Potential - A grammatical mood expressing possibility or capability 
 'Subjuntivo':'SUB', # Subjunctive - A grammatical mood expressing hypothetical or dependent situations 
 
 TENSE-- verbal tense; The grammatical category that locates an event in time relative to the moment of speaking (past, present, future). Some languages have more complex tense systems, distinguishing between near and remote past or future.
@@ -26,22 +31,34 @@ TENSE-- verbal tense; The grammatical category that locates an event in time rel
 'Anterior':'PAS_PLU', # Pluperfect - A tense expressing actions completed before another past action 
 'Pasado':'PAS_SIM', # Past - A tense expressing actions before the present moment 
 'Futuro de certidumbre':'FUT_CER', # Future of certainty - A tense expressing assured future actions 
-'Futuro potencial':'FUT_POT', # Potential future - A tense expressing possible future actions 'Futuro Perfecto':'FUT_PER', # Perfect future - A tense expressing actions to be completed in future 
+'Futuro potencial':'FUT_POT', # Potential future - A tense expressing possible future actions 
+'Futuro Perfecto':'FUT_PER', # Perfect future - A tense expressing actions to be completed in future 
 'Futuro simple':'FUT_SIM', # Simple future - A basic future tense without additional aspectual meaning 
 'Futuro':'FUT_SIM', # Future - A tense expressing actions after the present moment 
 'Pretérito Pluscuamperfecto':'PAS_PLU', # Past perfect - A tense expressing actions completed before another past point 
 'Pretérito pluscuamperfecto':'PAS_PLU', # Past perfect - A tense expressing actions completed before another past point 
-'Pretérito Reciente':'PAS_REC', # Recent past - A tense expressing very recent past actions 'Pretérito reciente':'PAS_REC', # Recent past - A tense expressing very recent past actions 'Pretérito imperfecto':'PAS_IMP', # Past imperfect - A tense expressing ongoing past actions 'Presente':'PRE_SIM', # Present - A tense expressing current actions 
+'Pretérito Reciente':'PAS_REC', # Recent past - A tense expressing very recent past actions 
+'Pretérito reciente':'PAS_REC', # Recent past - A tense expressing very recent past actions 
+'Pretérito imperfecto':'PAS_IMP', # Past imperfect - A tense expressing ongoing past actions 
+'Presente':'PRE_SIM', # Present - A tense expressing current actions 
 
 ASPECT-- verbal aspect; The grammatical category that describes the nature of an action, particularly its completeness or duration (e.g., perfective vs. imperfective). Some languages also include progressive, habitual, and iterative aspects. 
-'Imperfecto':'IPFV', # Imperfect - An aspect expressing incomplete or ongoing actions 'Imperfectivo':'IPFV', # Imperfective - An aspect viewing actions as incomplete or ongoing 'Perfecto':'PFV', # Perfect - An aspect expressing completed actions 
-'Incoativo':'INC', # Inchoative - An aspect expressing beginning of states or actions 'Compulsivo':'COM', # Compulsive - An aspect expressing forced or compelled actions 'Desiderativo':'DES', # Desiderative - An aspect expressing desire to perform actions 'Obligatorio o necesario':'OBL', # Obligatory or necessary - An aspect expressing required actions 
-'Habitual':'HAB', # Habitual - An aspect expressing regularly occurring actions 'Acostumbrado':'CUS', # Customary - An aspect expressing usual or traditional actions 'Incipiente':'BEG', # Beginning - An aspect marking start of actions 
+'Imperfecto':'IPFV', # Imperfect - An aspect expressing incomplete or ongoing actions 
+'Imperfectivo':'IPFV', # Imperfective - An aspect viewing actions as incomplete or ongoing 
+'Perfecto':'PFV', # Perfect - An aspect expressing completed actions 
+'Incoativo':'INC', # Inchoative - An aspect expressing beginning of states or actions 
+'Compulsivo':'COM', # Compulsive - An aspect expressing forced or compelled actions 
+'Desiderativo':'DES', # Desiderative - An aspect expressing desire to perform actions 
+'Obligatorio o necesario':'OBL', # Obligatory or necessary - An aspect expressing required actions 
+'Habitual':'HAB', # Habitual - An aspect expressing regularly occurring actions 
+'Acostumbrado':'CUS', # Customary - An aspect expressing usual or traditional actions 
+'Incipiente':'BEG', # Beginning - An aspect marking start of actions 
 'Inmediato':'IMM', # Immediate - An aspect marking instantaneous actions 
 'Terminativo':'TER', # Terminative - An aspect marking end point of actions 
 'Asegurativo':'INS', # Assuring - An aspect expressing certainty 
 'Progresivo':'PRG', # Progressive - An aspect expressing ongoing actions 
-'Intermitente':'INM', # Intermittent - An aspect expressing recurring interrupted actions 'Durative':'DUR', # Durative - An aspect expressing sustained actions 
+'Intermitente':'INM', # Intermittent - An aspect expressing recurring interrupted actions 
+'Durative':'DUR', # Durative - An aspect expressing sustained actions 
 '-':'-', # - 
 
 VOICE-- voice; A grammatical feature that expresses the relationship between the action of the verb and its arguments. Common voices include active (subject performs the action), passive (subject receives the action), middle (subject acts on itself or for its own benefit), and antipassive (used in some ergative languages). 
@@ -67,10 +84,13 @@ PERSON-- person; A grammatical category that distinguishes between the speaker (
 '2s':'2_SI', # Second person singular - Reference to single addressee ("you") 
 '3s':'3_SI', # Third person singular - Reference to single other ("he/she/it") 
 '1s-inc':'1_SI_INC', # First person singular inclusive - Reference to speaker including context 
-'1s-exc':'1_SI_EXC', # First person singular exclusive - Reference to speaker excluding context '1.singular':'1_SI', # First person singular - Reference to speaker alone ("I") 
-'2.singular':'2_SI', # Second person singular - Reference to single addressee ("you") '1.plural.exclusivo':'1_PL_EXC', # First person plural exclusive - Reference to speaker and others but not addressee ("we" but not "you") 
+'1s-exc':'1_SI_EXC', # First person singular exclusive - Reference to speaker excluding context 
+'1.singular':'1_SI', # First person singular - Reference to speaker alone ("I") 
+'2.singular':'2_SI', # Second person singular - Reference to single addressee ("you") 
+'1.plural.exclusivo':'1_PL_EXC', # First person plural exclusive - Reference to speaker and others but not addressee ("we" but not "you") 
 '1.plural.inclusivo':'1_PL_INC', # First person plural inclusive - Reference to speaker and addressee together ("we" including "you") 
-'2.plural':'2_PL', # Second person plural - Reference to multiple addressees ("you all") '3.plural':'3_PL', # Third person plural - Reference to multiple others ("they") 
+'2.plural':'2_PL', # Second person plural - Reference to multiple addressees ("you all") 
+'3.plural':'3_PL', # Third person plural - Reference to multiple others ("they") 
 '3.singular':'3_SI', # Third person singular - Reference to single other ("he/she/it") 
 '1a singular':'1_SI', # First person singular - Reference to speaker alone ("I") 
 
