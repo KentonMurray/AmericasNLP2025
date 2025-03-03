@@ -6,19 +6,26 @@ Additional post-processing is done to each output to remove final punctuation wh
 
 ### Dev metrics:
 
-|                                   | ---      | Bribri   | ---      |   | ---      | Maya     | ---      |   | ---      | Guarani  | ---      |   | ---      | Nahuatl  | ---      |
-|-----------------------------------|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|
-|                                   | **Acc.** | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |
-| Giving it a Shot                  | 14.62    | 40.19    | 61.27    |   | 51.01    | 76.49    | 90.82    |   | 41.77    | 47.34    | 85.98    |   | 1.14     | 0.78     | 31.74    |
-| Giving it a Shot (post-processed) | 14.62    | 40.30    | 61.27    |   | 51.01    | 76.75    | 90.83    |   | 43.04    | 49.87    | 86.05    |   | 1.14     | 0.80     | 31.77    |
-| Meenzer (only GPT component)      | 10.85    | 38.98    | 61.86    |   | 51.68    | 75.84    | 89.94    |   | 45.57    | 53.65    | 86.00    |   | 1.70     | 4.31     | 43.17    |
-| Meenzer (post-processed)          | 10.85    | 39.19    | 61.87    |   | 51.68    | 75.84    | 89.94    |   | 45.57    | 54.16    | 86.01    |   | 1.70     | 4.31     | 43.17    |
+|                                                             | ---      | Bribri   | ---      |   | ---      | Maya     | ---      |   | ---      | Guarani  | ---      |   | ---      | Nahuatl  | ---      |
+|-------------------------------------------------------------|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|
+|                                                             | **Acc.** | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |
+| Giving it a Shot                                            | 15.57    | 40.50    | 61.96    |   | 52.35    | 76.48    | 90.98    |   | 43.04    | 49.80    | 86.39    |   | 2.27     | 2.72     | 36.57    |
+| Giving it a Shot (remove ".")                               | 15.57    | 40.81    | 61.97    |   | 52.35    | 76.61    | 90.99    |   | 45.57    | 52.97    | 86.47    |   |          |          |          |
+| Giving it a Shot (20 examples, remove ".")                  | 14.62    | 40.43    | 61.50    |   | 55.70    | 77.47    | 90.99    |   | 44.30    | 52.41    | 85.81    |   |          |          |          |
+| Giving it a Shot (Meenzer sorting, 20 examples)             |          |          |          |   |          |          |          |   | 41.77    | 50.18    | 85.34    |   |          |          |          |
+| Giving it a Shot (Meenzer sorting, 10 examples)             |          |          |          |   |          |          |          |   | 43.04    | 47.82    | 84.76    |   |          |          |          |
+| Giving it a Shot (Meenzer sorting, 10 examples, remove ".") | 9.43     | 26.01    | 53.12    |   | 35.57    | 65.10    | 86.10    |   | 44.30    | 50.81    | 84.86    |   | 1.70     | 1.08     | 35.66    |
+| Meenzer                                                     | 10.85    | 38.98    | 61.86    |   | 51.68    | 75.84    | 89.94    |   | 45.57    | 53.65    | 86.00    |   | 1.70     | 4.31     | 43.17    |
+| Meenzer (remove ".")                                        | 10.85    | 39.19    | 61.87    |   | 51.68    | 75.84    | 89.94    |   | 45.57    | 54.16    | 86.01    |   | 1.70     | 4.31     | 43.17    |
+| Meenzer (GIS sorting & 10 examples, remove ".")             | 12.26    | 29.54    | 57.19    |   | 51.01    | 75.51    | 90.05    |   | 41.77    | 53.98    | 87.18    |   |          |          |          |
+| Meenzer (GIS sorting & 20 examples, remove ".")             | 12.74    | 31.38    | 57.88    |   | 55.70    | 77.56    | 90.40    |   | 41.77    | 51.72    | 85.69    |   |          |          |          |
+
 
 
 ### System info
-**Giving it a Shot** includes training examples formatted as a csv completion task. Predictions are generated using temperature=0.\
+**Giving it a Shot** includes training examples formatted as a csv completion task. Predictions are generated using temperature=0, contrastive to 0.1 as reported in (Haley, AmericasNLP 2024).\
 Examples used in the prompt are selected as follows:
-- If there are at least 10 exact matches of the Change tag in the training data, select the top 10, sorted in descending order by sum of BLEU + chrF match with the dev/test example
+- If there are at least 3 exact matches of the Change tag in the training data, select the top 10, sorted in descending order by sum of BLEU + chrF match with the dev/test example
 - If there are less than 3 exact matches (e.g., in cases where multiple changes occur), then a backoff method is used. This splits the Change tag into its component feature, then for each component feature:
   - If there is at least 1 exact match, add the top (up to) 3 training examples to the prompt sorted by BLEU + chrF
   - If there are no exact matches, add the top non-exact match that contains the component feature
@@ -32,10 +39,10 @@ Predictions are generated with temperature=0.
 
 ### Links to system descriptions & code:
 Giving it a Shot:\
-[The unreasonable effectiveness of large language models for low-resource clause-level morphology: In-context generalization or prior exposure?](https://aclanthology.org/2024.americasnlp-1.20.pdf) \
+[The unreasonable effectiveness of large language models for low-resource clause-level morphology: In-context generalization or prior exposure?](https://aclanthology.org/2024.americasnlp-1.20.pdf) (Haley, AmericasNLP 2024)\
 GitHub: https://github.com/ColemanHaley/GivingItAShot/tree/main
 
 Meenzer:\
 [JGU Mainz’s Submission to the AmericasNLP 2024 Shared Task on the Creation of Educational Materials for Indigenous Languages
-](https://aclanthology.org/2024.americasnlp-1.23/)\
+](https://aclanthology.org/2024.americasnlp-1.23/) (Bui & von der Wense, AmericasNLP 2024)\
 GitHub: https://github.com/MinhDucBui/SharedTaskAmericasNLP2024/tree/main/ChatGPT
