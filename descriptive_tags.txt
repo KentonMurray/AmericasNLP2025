@@ -1,0 +1,120 @@
+ALL 
+'No aplica':'NA', # Not applicable - A feature that cannot be marked in a given grammatical context 
+'Aplica':'A', # Applicable - A feature that can be marked in a given grammatical context 
+
+TYPE-- phrase type/polarity; Refers to the classification of phrases (e.g., noun phrase, verb phrase) and the polarity of a clause, meaning whether it is affirmative or negative.
+'Afirmativa':'AFF', # Affirmative - A polarity value indicating positive assertion 
+'Afirmativo':'AFF', # Affirmative - A polarity value indicating positive assertion 
+'Imperativo':'IMP', # Imperative - A verb form used to give direct commands 
+'Negativa':'NEG', # Negative - A polarity value indicating negation 
+'Negativo':'NEG', # Negative - A polarity value indicating negation 
+
+SUBTYPE-- subtype; A classification within a broader grammatical category, such as different types of verbs, nouns, or clauses.
+'Declarativa':'DEC', # Declarative - A sentence type used to make statements 
+'Interrogativa':'INT', # Interrogative - A sentence type used to ask questions 
+
+MODE-- verbal mode; This refers to the way a verb conveys different types of meaning, such as declarative, interrogative, imperative, or subjunctive. It can overlap with the concept of **mood**, which expresses modality (e.g., possibility, necessity).
+'Adversativo':'ADVERS', # Adversative - A verb form expressing contrast or opposition 
+'Exhortativo':'EXH', # Exhortative - A verb form used to encourage or urge action 
+'Optativo':'DES', # Optative - A grammatical mood expressing wishes or desires 
+'Indicativo':'IND', # Indicative - A grammatical mood expressing factual or real situations 
+'Conocimiento':'POT', # Knowledge/Potential - A grammatical mood expressing possibility or capability 
+'Subjuntivo':'SUB', # Subjunctive - A grammatical mood expressing hypothetical or dependent situations 
+
+TENSE-- verbal tense; The grammatical category that locates an event in time relative to the moment of speaking (past, present, future). Some languages have more complex tense systems, distinguishing between near and remote past or future.
+'Imperfecto habitual':'IPFV_HAB', # Habitual imperfect - A past tense form expressing recurring actions 
+'Imperfecto reciente':'IPFV_REC', # Recent imperfect - A past tense form expressing recent ongoing actions
+'Imperfecto continuo':'IPFV_PROG', # Continuous imperfect - A past tense form expressing continuous actions 
+'Perfecto remoto':'PRF_REM', # Remote perfect - A tense form expressing completed actions in distant past 
+'Perfecto reciente':'PRF_REC', # Recent perfect - A tense form expressing recently completed actions 
+'Perfecto continuo':'PRF_PROG', # Continuous perfect - A tense form expressing completed actions with ongoing relevance 
+'Anterior':'PAS_PLU', # Pluperfect - A tense expressing actions completed before another past action 
+'Pasado':'PAS_SIM', # Past - A tense expressing actions before the present moment 
+'Futuro de certidumbre':'FUT_CER', # Future of certainty - A tense expressing assured future actions 
+'Futuro potencial':'FUT_POT', # Potential future - A tense expressing possible future actions 
+'Futuro Perfecto':'FUT_PER', # Perfect future - A tense expressing actions to be completed in future 
+'Futuro simple':'FUT_SIM', # Simple future - A basic future tense without additional aspectual meaning 
+'Futuro':'FUT_SIM', # Future - A tense expressing actions after the present moment 
+'Pretérito Pluscuamperfecto':'PAS_PLU', # Past perfect - A tense expressing actions completed before another past point 
+'Pretérito pluscuamperfecto':'PAS_PLU', # Past perfect - A tense expressing actions completed before another past point 
+'Pretérito Reciente':'PAS_REC', # Recent past - A tense expressing very recent past actions 
+'Pretérito reciente':'PAS_REC', # Recent past - A tense expressing very recent past actions 
+'Pretérito imperfecto':'PAS_IMP', # Past imperfect - A tense expressing ongoing past actions 
+'Presente':'PRE_SIM', # Present - A tense expressing current actions 
+
+ASPECT-- verbal aspect; The grammatical category that describes the nature of an action, particularly its completeness or duration (e.g., perfective vs. imperfective). Some languages also include progressive, habitual, and iterative aspects. 
+'Imperfecto':'IPFV', # Imperfect - An aspect expressing incomplete or ongoing actions 
+'Imperfectivo':'IPFV', # Imperfective - An aspect viewing actions as incomplete or ongoing 
+'Perfecto':'PFV', # Perfect - An aspect expressing completed actions 
+'Incoativo':'INC', # Inchoative - An aspect expressing beginning of states or actions 
+'Compulsivo':'COM', # Compulsive - An aspect expressing forced or compelled actions 
+'Desiderativo':'DES', # Desiderative - An aspect expressing desire to perform actions 
+'Obligatorio o necesario':'OBL', # Obligatory or necessary - An aspect expressing required actions 
+'Habitual':'HAB', # Habitual - An aspect expressing regularly occurring actions 
+'Acostumbrado':'CUS', # Customary - An aspect expressing usual or traditional actions 
+'Incipiente':'BEG', # Beginning - An aspect marking start of actions 
+'Inmediato':'IMM', # Immediate - An aspect marking instantaneous actions 
+'Terminativo':'TER', # Terminative - An aspect marking end point of actions 
+'Asegurativo':'INS', # Assuring - An aspect expressing certainty 
+'Progresivo':'PRG', # Progressive - An aspect expressing ongoing actions 
+'Intermitente':'INM', # Intermittent - An aspect expressing recurring interrupted actions 
+'Durative':'DUR', # Durative - An aspect expressing sustained actions 
+'-':'-', # - 
+
+VOICE-- voice; A grammatical feature that expresses the relationship between the action of the verb and its arguments. Common voices include active (subject performs the action), passive (subject receives the action), middle (subject acts on itself or for its own benefit), and antipassive (used in some ergative languages). 
+'Media':'MID', # Middle - A voice where subject is both actor and affected 
+'Pasiva':'PAS', # Passive - A voice where subject receives the action 
+'Activa':'ACT', # Active - A voice where subject performs the action 
+
+ABSNUM-- number of the absolutive; Likely refers to the **grammatical number** of a noun in its absolute (bare) form, without any possessive or case inflection. It can be singular, dual, or plural in some languages.
+'Plural':'PL', # Plural - A number marking more than one 
+'Cero':'NI', # Zero - Absence of number marking 
+
+PERSON-- person; A grammatical category that distinguishes between the speaker (first person), the addressee (second person), and others (third person). Some languages also have inclusive and exclusive distinctions in the first person plural.
+'1p-inc':'1_PL_INC', # First person plural inclusive - Reference to speaker and addressee together ("we" including "you") 
+'1p-exc':'1_PL_EXC', # First person plural exclusive - Reference to speaker and others but not addressee ("we" but not "you") 
+'3p':'3_PL', # Third person plural - Reference to multiple others ("they") 
+'2p':'2_PL', # Second person plural - Reference to multiple addressees ("you all") 
+'2a singular':'2_SI', # Second person singular - Reference to single addressee ("you") 
+'3a singular':'3_SI', # Third person singular - Reference to single other ("he/she/it") 
+'1a plural':'1_PL', # First person plural - Reference to speaker and others ("we") 
+'2a plural':'2_PL', # Second person plural - Reference to multiple addressees ("you all") 
+'3a plural':'3_PL', # Third person plural - Reference to multiple others ("they") 
+'1s':'1_SI', # First person singular - Reference to speaker alone ("I") 
+'2s':'2_SI', # Second person singular - Reference to single addressee ("you") 
+'3s':'3_SI', # Third person singular - Reference to single other ("he/she/it") 
+'1s-inc':'1_SI_INC', # First person singular inclusive - Reference to speaker including context 
+'1s-exc':'1_SI_EXC', # First person singular exclusive - Reference to speaker excluding context 
+'1.singular':'1_SI', # First person singular - Reference to speaker alone ("I") 
+'2.singular':'2_SI', # Second person singular - Reference to single addressee ("you") 
+'1.plural.exclusivo':'1_PL_EXC', # First person plural exclusive - Reference to speaker and others but not addressee ("we" but not "you") 
+'1.plural.inclusivo':'1_PL_INC', # First person plural inclusive - Reference to speaker and addressee together ("we" including "you") 
+'2.plural':'2_PL', # Second person plural - Reference to multiple addressees ("you all") 
+'3.plural':'3_PL', # Third person plural - Reference to multiple others ("they") 
+'3.singular':'3_SI', # Third person singular - Reference to single other ("he/she/it") 
+'1a singular':'1_SI', # First person singular - Reference to speaker alone ("I") 
+
+TRANSITIV--transitivity; A property of verbs that indicates whether they take an object. Transitive verbs require a direct object (e.g., "eat an apple"), while intransitive verbs do not (e.g., "sleep"). Some languages also mark ditransitive verbs, which take two objects
+'Intransitivo':'ITR', # Intransitive - A verb that does not take a direct object 
+
+STATUS-- action status; Describes whether an action is completed, ongoing, intended, habitual, or hypothetical. This often overlaps with aspect and mood.
+'Completa':'CMP', # Complete - Indicating a finished action 
+'Incompleta':'ICM', # Incomplete - Indicating an unfinished action 
+
+MARK-- mark; A general term for any grammatical feature that is explicitly indicated in a language, such as tense, case, number, or aspect markers.
+'t':'T', 
+'s':'S', 
+
+HON-- honorific;  A grammatical or lexical means of expressing politeness, social hierarchy, or respect. Many languages have honorific verb forms, pronouns, and titles to indicate different levels of formality or respect.
+"1" # Only first level included in this dataset - Indicating only basic honorific distinctions are marked 
+
+MOOD--mood; A grammatical category that expresses the speaker’s attitude toward the action or event. Common moods include indicative (statements of fact), imperative (commands), subjunctive (hypotheticals, wishes), and optative (desires or hopes). 
+'COND' # Conditional - A mood expressing hypothetical situations 
+'IMP' # Imperative - A mood expressing commands 
+'INT' # Interrogative - A mood expressing questions 
+'OPT' # Optative - A mood expressing wishes 
+
+PURPOSIVE--purposive; A grammatical marker or construction that indicates the purpose or intent of an action. For example, in English, "to" in "I study to learn" expresses a purposive meaning. Some languages have dedicated purposive verb forms or particles.
+'VEN' # direction toward the speaker - Motion oriented toward the speaker's location 
+'VET' # direction away from speaker - Motion oriented away from the speaker's location
+
