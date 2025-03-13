@@ -16,7 +16,7 @@ We tested variations of the GPT-4 component of Teams Giving it a Shot (Haley, Am
 | POS, 5 examples           |          |          |          |   | 48.32    | 72.51    | 88.75    |   | 41.77    | 55.96    | 85.12    |   |          |          |          |
 | POS, 10 examples          |          |          |          |   | 55.70    | 76.49    | 90.44    |   | 44.30    | 52.37    | 86.15    |   |          |          |          |
 | POS, 20 examples          |          |          |          |   | 56.38    | 77.24    | 90.36    |   | 41.77    | 51.77    | 86.27    |   |          |          |          |
-| Grammar info, 10 examples | 16.98    | 45.63    | 65.86    |   | 54.36    | 76.92    | 90.79    |   | 4        | 5        | 8        |   |          |          |          |
+| Grammar info, 10 examples | 16.98    | 45.63    | 65.86    |   | 54.36    | 76.92    | 90.79    |   | 43.04    | 55.15    | 86.95    |   |          |          |          |
 
 #### Our system, deepseek-chat
 |                          | ---      | Bribri   | ---      |   | ---      | Maya     | ---      |   | ---      | Guarani  | ---      |   | ---      | Nahuatl  | ---      |
