@@ -32,21 +32,18 @@ Maya0441	Ma' tin wu'uyik ooxoli'	PERSON:2_SI	Ma' ta wu'uyik ooxoli'
 Maya0442	Ma' tin wu'uyik ooxoli'	PERSON:3_SI	Ma' tu yu'ubik ooxoli'
 Maya0443	Ma' tin wu'uyik ooxoli'	PERSON:3_PL	Ma' tu yu'ubiko'ob ooxoli'
 Maya0444	Ma' tin wu'uyik ooxoli'	PERSON:2_PL	Ma' ta wu'uyike'ex ooxoli'
-Maya0445	Ma' tin wu'uyik ooxoli'	PERSON:3_PL	Ma' tu yu'ubiko'ob ooxoli'
 Maya0116	Jach k'a'abéet in bin merkaado	TYPE:NEG	Ma' jach k'a'abéet in bin merkaadoi'
 Maya0117	Jach k'a'abéet in bin merkaado	SUBTYPE:INT	Jach wáaj k'a'abéet in bin merkaado
 Maya0123	Táan u bin koonol tu k'íiwikil koonol	TYPE:NEG	Leti'e' ma' táan u bin koonol tu k'íiwikil koonoli'
 Maya0124	Táan u bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj u bin koonol tu k'íiwikil koonol
 Maya0007	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:2_SI	Yaan wáaj a bin koonol tu k'íiwikil koonol
 Maya0008	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:3_SI	Yaan wáaj u bin koonol tu k'íiwikil koonol
-Maya0009	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:3_SI	Yaan wáaj u bin koonol tu k'íiwikil koonol
 Maya0010	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:3_PL	Yaan wáaj u bino'ob koonol tu k'íiwikil koonol
-Maya0011	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:3_PL	Yaan wáaj u bino'ob koonol tu k'íiwikil koonol
 Maya0012	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:2_PL	Yaan wáaj a bine'ex koonol tu k'íiwikil koonol
 Maya0013	Yaan wáaj in bin koonol tu k'íiwikil koonol	PERSON:1_PL	Yaan wáaj k bin koonol tu k'íiwikil koonol
 Maya0181	Ma' tin wilikech merkaado	PERSON:2_SI	Ma' ta wiliken merkaado
 Maya0646	Ma' ta wu'uyik ooxoli'	TYPE:AFF, SUBTYPE:INT	Ka wu'uyik wáaj ooxol
-Maya0647	Ma' ta wu'uyik ooxoli'	SUBTYPE:INT	Ma' ta wu'uyik  wáaj ooxoli'
+Maya0647	Ma' ta wu'uyik ooxoli'	SUBTYPE:INT	Ma' ta wu'uyik wáaj ooxoli'
 Maya0048	Tene' áak'ab kin bin tu k'íiwikil koonol	PERSON:2_SI	Teche' áak'ab ka bin tu k'íiwikil koonol
 Maya0049	Tene' áak'ab kin bin tu k'íiwikil koonol	PERSON:3_SI	Leti'e' áak'ab ku bin tu k'íiwikil koonol
 Maya0050	Tene' áak'ab kin bin tu k'íiwikil koonol	PERSON:1_PL	To'one' áak'ab k bin tu k'íiwikil koonol
@@ -205,7 +202,6 @@ Maya0563	Tin núukaj buka'aj in ja'abil	PERSON:3_PL	Tu núukaj buka'aj u ja'abil
 Maya0205	Ta manaj a wotoch	SUBTYPE:INT	Ta manaj wáaj a wotoch
 Maya0206	Ta manaj a wotoch	TYPE:NEG, PERSON:1_SI	Ma' tin manaj in wotochi'
 Maya0254	Tene' kin bin xíimbal ta wotoch	PERSON:3_SI	Leti'e' ku bin xíimbal ta wotoch
-Maya0255	Tene' kin bin xíimbal ta wotoch	PERSON:3_SI	Leti'e' ku bin xíimbal ta wotoch
 Maya0256	Tene' kin bin xíimbal ta wotoch	PERSON:1_PL	To'one' kek bin xíimbal ta wotoch
 Maya0742	Kin wilikech te' tu kúuchil báaxalo'	ASPECT:IMM, TENSE:PAS_SIM	Táant in wilikech te' tu kúuchil báaxalo'
 Maya0743	Kin wilikech te' tu kúuchil báaxalo'	ASPECT:COM	Yaan in wilikech te' tu kúuchil báaxalo'
@@ -246,9 +242,7 @@ Maya0164	Jach wáaj k'a'abéet a bin merkaado	PERSON:3_SI	Jach wáaj k'a'abéet 
 Maya0165	Jach wáaj k'a'abéet a bin merkaado	PERSON:3_PL	Jach wáaj k'a'abéet u bino'ob merkaado
 Maya0166	Jach wáaj k'a'abéet a bin merkaado	PERSON:2_PL	Jach wáaj k'a'abéet a bine'ex merkaado
 Maya0021	Táan wáaj a bin koonol tu k'íiwikil koonol	PERSON:3_SI	Táan wáaj u bin koonol tu k'íiwikil koonol
-Maya0022	Táan wáaj a bin koonol tu k'íiwikil koonol	PERSON:3_SI	Táan wáaj u bin koonol tu k'íiwikil koonol
 Maya0023	Táan wáaj a bin koonol tu k'íiwikil koonol	PERSON:3_PL	Táan wáaj u bino'ob koonol tu k'íiwikil koonol
-Maya0024	Táan wáaj a bin koonol tu k'íiwikil koonol	PERSON:3_PL	Táan wáaj u bino'ob koonol tu k'íiwikil koonol
 Maya0025	Táan wáaj a bin koonol tu k'íiwikil koonol	PERSON:2_PL	Táan wáaj a bine'ex koonol tu k'íiwikil koonol
 Maya0026	Táan wáaj a bin koonol tu k'íiwikil koonol	PERSON:1_PL	Táan wáaj k bin koonol tu k'íiwikil koonol
 Maya0663	Ts'oka'an wáaj u beelo'ob	TYPE:NEG, SUBTYPE:DEC	Ma' ts'oka'an u beelo'obi'
@@ -319,7 +313,6 @@ Maya0277	Tin kaxtik a najil	PERSON:3_PL	Tu kaxko'ob a najil
 Maya0278	Tin kaxtik a najil	PERSON:3_PL	Táan u kaxtiko'ob a naajil
 Maya0446	Ka wu'uyik wáaj ooxol	PERSON:3_SI	ku yu'ubik wáaj ooxol
 Maya0447	Ka wu'uyik wáaj ooxol	PERSON:1_PL	To'one' k u'uyik wáaj ooxol
-Maya0448	Ka wu'uyik wáaj ooxol	PERSON:1_PL	To'one' k u'uyik wáaj ooxol
 Maya0449	Ka wu'uyik wáaj ooxol	PERSON:2_PL	Te'exe' ka wu'uyike'ex wáaj ooxol
 Maya0450	Ka wu'uyik wáaj ooxol	PERSON:3_PL	Leti'o'obe' ku yu'ubiko'ob ooxol
 Maya0270	Tin konaj in najil	PERSON:2_SI	Ta konaj a najil
@@ -434,10 +427,10 @@ Maya0262	Táan in kaaxtik a wotoch	PERSON:3_PL	Táan u kaxtiko'ob a wotoch
 Maya0185	Jbinen yéetel in éetailo'ob merkaado	PERSON:2_SI	Jbinech yéetel a éetailo'ob merkaado
 Maya0186	Jbinen yéetel in éetailo'ob merkaado	PERSON:3_PL	Jbino'ob yéetel u éetailo'ob merkaado
 Maya0187	Jbinen yéetel in éetailo'ob merkaado	PERSON:2_PL	Jbine'ex yéetel a éetailo'ob merkaado
-Maya0451	Ma' ta wu'uyik  wáaj ooxoli'	PERSON:3_SI	Ma' tu yu'ubik wáaj ooxoli'
-Maya0452	Ma' ta wu'uyik  wáaj ooxoli'	PERSON:1_PL	Ma' tek u'uyik wáaj ooxoli'
-Maya0453	Ma' ta wu'uyik  wáaj ooxoli'	PERSON:2_PL	Ma' ta wu'uyike'ex wáaj ooxoli'
-Maya0454	Ma' ta wu'uyik  wáaj ooxoli'	PERSON:3_PL	Ma' tu yu'ubiko'ob wáaj ooxoli'
+Maya0451	Ma' ta wu'uyik wáaj ooxoli'	PERSON:3_SI	Ma' tu yu'ubik wáaj ooxoli'
+Maya0452	Ma' ta wu'uyik wáaj ooxoli'	PERSON:1_PL	Ma' tek u'uyik wáaj ooxoli'
+Maya0453	Ma' ta wu'uyik wáaj ooxoli'	PERSON:2_PL	Ma' ta wu'uyike'ex wáaj ooxoli'
+Maya0454	Ma' ta wu'uyik wáaj ooxoli'	PERSON:3_PL	Ma' tu yu'ubiko'ob wáaj ooxoli'
 Maya0714	Máax yéetel jo'op' a bin koonol tu kúuchil báaxal	ASPECT:TER	Máax yéetel ts'o'ok a bin koonol tu kúuchil báaxal
 Maya0715	Máax yéetel jo'op' a bin koonol tu kúuchil báaxal	ASPECT:IMM	Máax yéetel táant a bin koonol tu kúuchil báaxale'
 Maya0332	Tene' kin bin paak'áal ich kool	PERSON:2_SI	Teche' ka bin paak'áal ich kool
@@ -468,9 +461,7 @@ Maya0696	A wojel wáaj tu'ux u taal	SUBTYPE:DEC	A wojel tu'ux u taal
 Maya0697	A wojel wáaj tu'ux u taal	TYPE:NEG, SUBTYPE:DEC	Ma' a wojel tu'ux u taali'
 Maya0014	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:2_SI	Ma' táan a bin koonol tu k'íiwikil koonol
 Maya0015	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:3_SI	Leti'e' ma' táan u bin koonol tu k'íiwikil koonol
-Maya0016	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:3_SI	Leti'e' ma' táan u bin koonol tu k'íiwikil koonol
 Maya0017	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:3_PL	Ma' táan u bino'ob koonol tu k'íiwikil koonol
-Maya0018	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:3_PL	Ma' táan u bino'ob koonol tu k'íiwikil koonol
 Maya0019	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:2_PL	Ma' táan a bine'ex koonol tu k'íiwikil koonol
 Maya0020	Ma' táan in bin koonol tu k'íiwikil koonol	PERSON:1_PL	Ma' táan k bin koonol tu k'íiwikil koonol
 Maya0438	Teche' Yaan tech wáaj meyaj ti' biología	PERSON:3_SI	Leti'e' yaan wáaj meyaj ti' biología
@@ -515,7 +506,6 @@ Maya0613	Tin konaj in najil	TYPE:NEG	Ma' tin konaj in najili'
 Maya0001	Táan in bin koonol tu k'íiwikil koonol	PERSON:2_SI	Táan a bin koonol tu k'íiwikil koonol
 Maya0002	Táan in bin koonol tu k'íiwikil koonol	PERSON:3_SI	Táan u bin koonol tu k'íiwikil koonol
 Maya0003	Táan in bin koonol tu k'íiwikil koonol	PERSON:3_PL	Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol
-Maya0004	Táan in bin koonol tu k'íiwikil koonol	PERSON:3_PL	Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol
 Maya0005	Táan in bin koonol tu k'íiwikil koonol	PERSON:2_PL	Te'exe' táan a bine'ex koonol tu k'íiwikil koonol
 Maya0006	Táan in bin koonol tu k'íiwikil koonol	PERSON:1_PL	Táan k bin koonol tu k'íiwikil koonol
 Maya0644	Táan k xook tu naajil xook	SUBTYPE:INT	Táan wáaj k xook tu naajil xook
