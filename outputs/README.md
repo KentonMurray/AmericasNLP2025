@@ -1,8 +1,31 @@
-This folder contain outputs from running other teams' systems or the GPT-4 components of their systems.
+This folder contains results from running variations of our systems as well as other teams' systems or the GPT-4 components of their systems.
+We tested variations of the GPT-4 component of Teams Giving it a Shot (Haley, AmericasNLP 2024) and Meenzer (Bui & von der Wense, AmericasNLP 2024) for comparison benchmarks while devloping our system.
 
-Outputs are generated using GPT-4o rather than GPT-4.
 
-Additional post-processing is done to each output to remove final punctuation when it appears.
+### Dev metrics:
+#### Our system, gpt4-o
+
+|                           | ---      | Bribri   | ---      |   | ---      | Maya     | ---      |   | ---      | Guarani  | ---      |   | ---      | Nahuatl  | ---      |
+|---------------------------|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|
+|                           | **Acc.** | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |
+| Base prompt, 3 examples   | 16.98    | 44.52    | 62.89    |   | 54.36    | 77.37    | 90.84    |   | 39.24    | 47.44    | 85.39    |   | 1.14     | 4.86     | 34.98    |
+| Base prompt, 5 examples   | 17.92    | 44.49    | 63.87    |   | 55.03    | 76.67    | 90.43    |   | 41.77    | 49.75    | 85.97    |   | 1.14     | 5.41     | 37.52    |
+| Base prompt, 10 examples  | 18.40    | 45.96    | 65.13    |   | 54.36    | 76.39    | 90.41    |   | 39.24    | 49.24    | 84.70    |   | 1.14     | 6.38     | 38.88    |
+| Base prompt, 20 examples  | 15.57    | 44.76    | 64.75    |   | 58.39    | 78.64    | 90.98    |   | 40.51    | 54.51    | 86.17    |   | 1.14     | 5.71     | 39.19    |
+| POS, 3 examples           |          |          |          |   | 53.02    | 76.24    | 89.16    |   | 39.24    | 56.78    | 85.40    |   |          |          |          |
+| POS, 5 examples           |          |          |          |   | 48.32    | 72.51    | 88.75    |   | 41.77    | 55.96    | 85.12    |   |          |          |          |
+| POS, 10 examples          |          |          |          |   | 55.70    | 76.49    | 90.44    |   | 44.30    | 52.37    | 86.15    |   |          |          |          |
+| POS, 20 examples          |          |          |          |   | 56.38    | 77.24    | 90.36    |   | 41.77    | 51.77    | 86.27    |   |          |          |          |
+| Grammar info, 10 examples | 16.98    | 45.63    | 65.86    |   | 54.36    | 76.92    | 90.79    |   | 4        | 5        | 8        |   |          |          |          |
+
+#### Our system, deepseek-chat
+|                          | ---      | Bribri   | ---      |   | ---      | Maya     | ---      |   | ---      | Guarani  | ---      |   | ---      | Nahuatl  | ---      |
+|--------------------------|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|
+|                          | **Acc.** | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |
+| Base prompt, 10 examples |          |          |          |   |          |          |          |   | 44.30    | 55.63    | 87.18    |   |          |          |          |
+| Base prompt, 10 examples |          |          |          |   |          |          |          |   | 41.77    | 51.59    | 86.45    |   |          |          |          |
+
+####Other teams
 
 ### Dev metrics:
 

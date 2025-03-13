@@ -1,0 +1,1273 @@
+ID	Source	Change	System	Output
+Bribri0063	[Ye' tö ù sú̠]	PERSON:2_SI	TARGET_____	Be' tö ù sú̠
+Bribri0063	[Ye' tö ù sú̠]	PERSON:2_SI	GPT_EX3____	Be' tö ù sú̠
+Bribri0063	[Ye' tö ù sú̠]	PERSON:2_SI	GPT_EX5____	Be' tö ù sú̠
+Bribri0063	[Ye' tö ù sú̠]	PERSON:2_SI	GPT_EX10___	Be' tö ù sú̠
+Bribri0063	[Ye' tö ù sú̠]	PERSON:2_SI	GPT_EX20___	Be' tö ù sú̠
+Bribri0063	[Ye' tö ù sú̠]	PERSON:2_SI	GPT_EX10BGR	Be' tö ù sú̠
+Bribri0064	[Ye' tö ù sú̠]	PERSON:3_SI	TARGET_____	Ie' tö ù sú̠
+Bribri0064	[Ye' tö ù sú̠]	PERSON:3_SI	GPT_EX3____	Ie' tö ù sú̠
+Bribri0064	[Ye' tö ù sú̠]	PERSON:3_SI	GPT_EX5____	Ie' tö ù sú̠
+Bribri0064	[Ye' tö ù sú̠]	PERSON:3_SI	GPT_EX10___	Ie' tö ù sú̠
+Bribri0064	[Ye' tö ù sú̠]	PERSON:3_SI	GPT_EX20___	Ie' tö ù sú̠
+Bribri0064	[Ye' tö ù sú̠]	PERSON:3_SI	GPT_EX10BGR	Ie' tö ù sú̠
+Bribri0065	[Ye' tö ù sú̠]	PERSON:1_PL_EXC	TARGET_____	Sa' tö ù sú̠
+Bribri0065	[Ye' tö ù sú̠]	PERSON:1_PL_EXC	GPT_EX3____	* #Ye' tö ù #chwe̠
+Bribri0065	[Ye' tö ù sú̠]	PERSON:1_PL_EXC	GPT_EX5____	* #Ye' tö ù #chwe̠
+Bribri0065	[Ye' tö ù sú̠]	PERSON:1_PL_EXC	GPT_EX10___	* #Ye' tö ù #chwe̠
+Bribri0065	[Ye' tö ù sú̠]	PERSON:1_PL_EXC	GPT_EX20___	* #Ye' tö ù #chwe̠
+Bribri0065	[Ye' tö ù sú̠]	PERSON:1_PL_EXC	GPT_EX10BGR	Sa' tö ù sú̠
+Bribri0066	[Ye' tö ù sú̠]	PERSON:1_PL_INC	TARGET_____	Se' tö ù sú̠
+Bribri0066	[Ye' tö ù sú̠]	PERSON:1_PL_INC	GPT_EX3____	* #Ye' tö ù #chwe̠
+Bribri0066	[Ye' tö ù sú̠]	PERSON:1_PL_INC	GPT_EX5____	* #Ye' tö ù #chwe̠
+Bribri0066	[Ye' tö ù sú̠]	PERSON:1_PL_INC	GPT_EX10___	* #Ye' tö ù #chwe̠
+Bribri0066	[Ye' tö ù sú̠]	PERSON:1_PL_INC	GPT_EX20___	* #Ye' tö ù #chwe̠
+Bribri0066	[Ye' tö ù sú̠]	PERSON:1_PL_INC	GPT_EX10BGR	* #Sa' tö ù sú̠
+Bribri0067	[Ye' tö ù sú̠]	PERSON:2_PL	TARGET_____	A' tö ù sú̠
+Bribri0067	[Ye' tö ù sú̠]	PERSON:2_PL	GPT_EX3____	* #Ye' tö ù #yé̠
+Bribri0067	[Ye' tö ù sú̠]	PERSON:2_PL	GPT_EX5____	* #Ye' tö ù #yé̠
+Bribri0067	[Ye' tö ù sú̠]	PERSON:2_PL	GPT_EX10___	* #Ye' tö #ú̠ sú̠
+Bribri0067	[Ye' tö ù sú̠]	PERSON:2_PL	GPT_EX20___	* #Ye' tö ù #yé̠
+Bribri0067	[Ye' tö ù sú̠]	PERSON:2_PL	GPT_EX10BGR	* #Ja' tö ù sú̠
+Bribri0068	[Ye' tö ù sú̠]	PERSON:3_PL	TARGET_____	Ie'pa tö ù sú̠
+Bribri0068	[Ye' tö ù sú̠]	PERSON:3_PL	GPT_EX3____	* #Ye'pa tö ù sú̠
+Bribri0068	[Ye' tö ù sú̠]	PERSON:3_PL	GPT_EX5____	* #Ye'pa tö ù sú̠
+Bribri0068	[Ye' tö ù sú̠]	PERSON:3_PL	GPT_EX10___	* #Ye'pa tö ù sú̠
+Bribri0068	[Ye' tö ù sú̠]	PERSON:3_PL	GPT_EX20___	* #Ye'pa tö ù sú̠
+Bribri0068	[Ye' tö ù sú̠]	PERSON:3_PL	GPT_EX10BGR	* #Yiépa tö ù sú̠
+Bribri0069	[Ye' tö ù sú̠]	TENSE:PRF_REC	TARGET_____	Ye' tö ù sa̠wé̠
+Bribri0069	[Ye' tö ù sú̠]	TENSE:PRF_REC	GPT_EX3____	* Ye' tö ù #sé̠
+Bribri0069	[Ye' tö ù sú̠]	TENSE:PRF_REC	GPT_EX5____	* Ye' tö ù #sé̠
+Bribri0069	[Ye' tö ù sú̠]	TENSE:PRF_REC	GPT_EX10___	* Ye' tö ù #súé̠
+Bribri0069	[Ye' tö ù sú̠]	TENSE:PRF_REC	GPT_EX20___	* Ye' tö ù #súé̠
+Bribri0069	[Ye' tö ù sú̠]	TENSE:PRF_REC	GPT_EX10BGR	* Ye' tö ù #sé̠
+Bribri0070	[Ye' tö ù sú̠]	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' tso ù sa̠u̠k
+Bribri0070	[Ye' tö ù sú̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' tso ù #sú̠k
+Bribri0070	[Ye' tö ù sú̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' tso ù #sú̠k
+Bribri0070	[Ye' tö ù sú̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' tso ù #su̠ú̠k
+Bribri0070	[Ye' tö ù sú̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' tso ù #sú̠k
+Bribri0070	[Ye' tö ù sú̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' tso ù #sú̠k
+Bribri0071	[Ye' tö ù sú̠]	VOICE:MID, PERSON:NA	TARGET_____	Ù sù̠ne̠
+Bribri0071	[Ye' tö ù sú̠]	VOICE:MID, PERSON:NA	GPT_EX3____	Ù sù̠ne̠
+Bribri0071	[Ye' tö ù sú̠]	VOICE:MID, PERSON:NA	GPT_EX5____	* Ù #sú̠ne̠
+Bribri0071	[Ye' tö ù sú̠]	VOICE:MID, PERSON:NA	GPT_EX10___	Ù sù̠ne̠
+Bribri0071	[Ye' tö ù sú̠]	VOICE:MID, PERSON:NA	GPT_EX20___	* Ù #sú̠ne̠
+Bribri0071	[Ye' tö ù sú̠]	VOICE:MID, PERSON:NA	GPT_EX10BGR	* Ù #sú̠ne̠
+Bribri0072	[Ye' tö ù sú̠]	TYPE:NEG, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ ù sù̠ne̠
+Bribri0072	[Ye' tö ù sú̠]	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ ù sù̠ne̠
+Bribri0072	[Ye' tö ù sú̠]	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX5____	* Kë̀ ù #sùne̠
+Bribri0072	[Ye' tö ù sú̠]	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX10___	* Kë̀ ù #sùne̠
+Bribri0072	[Ye' tö ù sú̠]	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX20___	* Kë̀ ù #sú̀ne̠
+Bribri0072	[Ye' tö ù sú̠]	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX10BGR	* Kë̀ ù #sùne̠
+Bribri0073	[Ye' tö ù sú̠]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	TARGET_____	Ù sù̠na̠
+Bribri0073	[Ye' tö ù sú̠]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX3____	Ù sù̠na̠
+Bribri0073	[Ye' tö ù sú̠]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX5____	Ù sù̠na̠
+Bribri0073	[Ye' tö ù sú̠]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10___	Ù sù̠na̠
+Bribri0073	[Ye' tö ù sú̠]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX20___	Ù sù̠na̠
+Bribri0073	[Ye' tö ù sú̠]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10BGR	Ù sù̠na̠
+Bribri0074	[Ye' tö ù sú̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Ù sú̠r
+Bribri0074	[Ye' tö ù sú̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	* Ù #sù̠r
+Bribri0074	[Ye' tö ù sú̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Ù sú̠r
+Bribri0074	[Ye' tö ù sú̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Ù sú̠r
+Bribri0074	[Ye' tö ù sú̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	Ù sú̠r
+Bribri0074	[Ye' tö ù sú̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Ù sú̠r
+Bribri0075	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ ù sú̠r
+Bribri0075	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ ù sú̠r
+Bribri0075	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ ù sú̠r
+Bribri0075	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Kë̀ ù sú̠r
+Bribri0075	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	Kë̀ ù sú̠r
+Bribri0075	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Kë̀ ù sú̠r
+Bribri0076	[Ye' tö ù sú̠]	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ ù sù̠ne̠
+Bribri0076	[Ye' tö ù sú̠]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ wa̠ ù #sú̠ne̠
+Bribri0076	[Ye' tö ù sú̠]	TYPE:NEG	GPT_EX5____	Ye' kë̀ wa̠ ù sù̠ne̠
+Bribri0076	[Ye' tö ù sú̠]	TYPE:NEG	GPT_EX10___	Ye' kë̀ wa̠ ù sù̠ne̠
+Bribri0076	[Ye' tö ù sú̠]	TYPE:NEG	GPT_EX20___	Ye' kë̀ wa̠ ù sù̠ne̠
+Bribri0076	[Ye' tö ù sú̠]	TYPE:NEG	GPT_EX10BGR	Ye' kë̀ wa̠ ù sù̠ne̠
+Bribri0077	[Ye' tö ù sú̠]	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	TARGET_____	Ù sú̠rule
+Bribri0077	[Ye' tö ù sú̠]	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	GPT_EX3____	* Ù #sú̠ne̠
+Bribri0077	[Ye' tö ù sú̠]	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	GPT_EX5____	* Ù #sú̠ne̠
+Bribri0077	[Ye' tö ù sú̠]	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	GPT_EX10___	* Ù #sú̠ne̠
+Bribri0077	[Ye' tö ù sú̠]	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	GPT_EX20___	* Ù #sú̠tè̠na̠
+Bribri0077	[Ye' tö ù sú̠]	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	GPT_EX10BGR	* Ù #sú̠na̠
+Bribri0078	[Ye' tö ù sú̠]	TENSE:PAS_PLU, PERSON:3_PL	TARGET_____	Ie'pa wa̠ ù sú̠rule
+Bribri0078	[Ye' tö ù sú̠]	TENSE:PAS_PLU, PERSON:3_PL	GPT_EX3____	* Ie'pa #bák ù #skö̠́k
+Bribri0078	[Ye' tö ù sú̠]	TENSE:PAS_PLU, PERSON:3_PL	GPT_EX5____	* #Ye' wa̠ ù sú̠rule
+Bribri0078	[Ye' tö ù sú̠]	TENSE:PAS_PLU, PERSON:3_PL	GPT_EX10___	* #Ye'pa wa̠ ù sú̠rule
+Bribri0078	[Ye' tö ù sú̠]	TENSE:PAS_PLU, PERSON:3_PL	GPT_EX20___	* #Ie' wa̠ ù sú̠rule
+Bribri0078	[Ye' tö ù sú̠]	TENSE:PAS_PLU, PERSON:3_PL	GPT_EX10BGR	Ie'pa wa̠ ù sú̠rule
+Bribri0079	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	TARGET_____	Ie'pa kë̀ wa̠ ù sú̠rule
+Bribri0079	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	GPT_EX3____	* #Ye' kë̀ wa̠ ù sú̠rule
+Bribri0079	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	GPT_EX5____	* #Ye' kë̀ wa̠ ù sú̠rule
+Bribri0079	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	GPT_EX10___	* #Ye' kë̀ wa̠ ù sú̠rule
+Bribri0079	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	GPT_EX20___	* #Ye' kë̀ wa̠ ù sú̠rule
+Bribri0079	[Ye' tö ù sú̠]	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	GPT_EX10BGR	Ie'pa kë̀ wa̠ ù sú̠rule
+Bribri0080	[Ye'r i sú̠]	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ i sù̠ne̠
+Bribri0080	[Ye'r i sú̠]	TYPE:NEG	GPT_EX3____	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0080	[Ye'r i sú̠]	TYPE:NEG	GPT_EX5____	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0080	[Ye'r i sú̠]	TYPE:NEG	GPT_EX10___	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0080	[Ye'r i sú̠]	TYPE:NEG	GPT_EX20___	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0080	[Ye'r i sú̠]	TYPE:NEG	GPT_EX10BGR	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0081	[Ye'r i sú̠]	TENSE:PRF_REC	TARGET_____	Ye'r i sa̠wé̠
+Bribri0081	[Ye'r i sú̠]	TENSE:PRF_REC	GPT_EX3____	* Ye'r i #súé
+Bribri0081	[Ye'r i sú̠]	TENSE:PRF_REC	GPT_EX5____	* Ye'r i #sjú̠
+Bribri0081	[Ye'r i sú̠]	TENSE:PRF_REC	GPT_EX10___	* Ye'r i #sé̠
+Bribri0081	[Ye'r i sú̠]	TENSE:PRF_REC	GPT_EX20___	* Ye'r i #sé̠
+Bribri0081	[Ye'r i sú̠]	TENSE:PRF_REC	GPT_EX10BGR	* Ye'r i #sé̠
+Bribri0082	[Ye'r i sú̠]	TYPE:NEG, TENSE:PRF_REC	TARGET_____	Ye kë̀ wa̠ i sù̠ne̠
+Bribri0082	[Ye'r i sú̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX3____	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0082	[Ye'r i sú̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX5____	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0082	[Ye'r i sú̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX10___	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0082	[Ye'r i sú̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX20___	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0082	[Ye'r i sú̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX10BGR	* #Ye'r kë̀ wa̠ i #sú̠ne̠
+Bribri0083	[Ye'r i sú̠]	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye'r i sa̠wè̠
+Bribri0083	[Ye'r i sú̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye'r i #sù̠
+Bribri0083	[Ye'r i sú̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye'r i #sù̠
+Bribri0083	[Ye'r i sú̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye'r i #sù̠
+Bribri0083	[Ye'r i sú̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye'r i #su̠è
+Bribri0083	[Ye'r i sú̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye'r i #sù̠
+Bribri0084	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Kë̀ ye'r i sa̠we̠
+Bribri0084	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	Kë̀ ye'r i sa̠we̠
+Bribri0084	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye'r i #sú̠e̠
+Bribri0084	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye'r i #sú̠e̠
+Bribri0084	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye'r i #sú̠
+Bribri0084	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye'r i #sú̠e
+Bribri0085	[Ye'r i sú̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	I sa̠ú̠
+Bribri0085	[Ye'r i sú̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* #Sú̠ #i
+Bribri0085	[Ye'r i sú̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* I #sú̠
+Bribri0085	[Ye'r i sú̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* I #sú̠
+Bribri0085	[Ye'r i sú̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* I #sú̠ú̠
+Bribri0085	[Ye'r i sú̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* I #sú̠
+Bribri0086	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	TARGET_____	Kë̀ be' tö i sa̠u̠k
+Bribri0086	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX3____	* Kë̀ #be'r i #sukö̠́k
+Bribri0086	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX5____	* Kë̀ be' #sú̠k
+Bribri0086	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10___	* Kë̀ i #sú̠k
+Bribri0086	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX20___	* Kë̀ i #skö́k
+Bribri0086	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10BGR	* Kë̀ i #sú̠k
+Bribri0087	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	TARGET_____	Kë̀ i sa̠wa̠r
+Bribri0087	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX3____	* Kë̀ #sú̠r
+Bribri0087	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX5____	* Kë̀ #sú̠r
+Bribri0087	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX10___	* Kë̀ i #sú̠r
+Bribri0087	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX20___	* Kë̀ i #sú̠r
+Bribri0087	[Ye'r i sú̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* Kë̀ i #sú̠r
+Bribri0088	[Ye'r i sú̠]	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	TARGET_____	I sa̠ù̠ sö
+Bribri0088	[Ye'r i sú̠]	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX3____	* I #sú̠ sö
+Bribri0088	[Ye'r i sú̠]	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX5____	* I #sú̠ sö
+Bribri0088	[Ye'r i sú̠]	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX10___	* I #sú̠ sö
+Bribri0088	[Ye'r i sú̠]	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX20___	* I #sú̠ sö
+Bribri0088	[Ye'r i sú̠]	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX10BGR	* I #sú̠ sö
+Bribri0089	[Ye'r i sú̠]	TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Ye'r i sa̠wè̠râ
+Bribri0089	[Ye'r i sú̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Ye'r i #sô̠râ
+Bribri0089	[Ye'r i sú̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Ye'r i #sù̠râ
+Bribri0089	[Ye'r i sú̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Ye'r i #suèrâ̠
+Bribri0089	[Ye'r i sú̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Ye'r i #suèrâ̠
+Bribri0089	[Ye'r i sú̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Ye'r i #suèrâ
+Bribri0090	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Kë̀ ye'r i sa̠wè̠pa
+Bribri0090	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye'r i #sú̠pa
+Bribri0090	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye'r i #sú̠pa
+Bribri0090	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye'r i #su̠èpa
+Bribri0090	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye'r i #sú̠pa
+Bribri0090	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye'r i #sú̠pa
+Bribri0091	[Ye'r i sú̠]	TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Ye'r i sa̠wè̠ke̠
+Bribri0091	[Ye'r i sú̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Ye'r i #sú̠ke̠
+Bribri0091	[Ye'r i sú̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Ye'r i #sú̠ke̠
+Bribri0091	[Ye'r i sú̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Ye'r i #su̠èke̠
+Bribri0091	[Ye'r i sú̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Ye'r i #su̠kè̠ke̠
+Bribri0091	[Ye'r i sú̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Ye'r i #sú̠ke̠
+Bribri0092	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Kë̀ ye'r i sa̠wè̠ku̠
+Bribri0092	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye'r i #sú̠ku̠
+Bribri0092	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye'r i #su̠ku̠
+Bribri0092	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye'r i #sú̠ku̠
+Bribri0092	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye'r i #sú̠ku̠
+Bribri0092	[Ye'r i sú̠]	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye'r i #sú̠ku̠
+Bribri0093	[Ye'r i sú̠]	TENSE:FUT_POT, ASPECT:IPFV	TARGET_____	Ye'r i sa̠wè̠mi̠
+Bribri0093	[Ye'r i sú̠]	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX3____	* Ye'r i #sù̠mi̠
+Bribri0093	[Ye'r i sú̠]	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX5____	* Ye'r i #sú̠mi̠
+Bribri0093	[Ye'r i sú̠]	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10___	* Ye'r i #su̠mi̠
+Bribri0093	[Ye'r i sú̠]	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX20___	* Ye'r i #su̠mi̠
+Bribri0093	[Ye'r i sú̠]	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10BGR	* Ye'r i #su̠mi̠
+Bribri0094	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	TARGET_____	Kë̀ ye'r i sa̠u̠k
+Bribri0094	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye'r i #sú̠k
+Bribri0094	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye'r i #su̠k
+Bribri0094	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye'r i #sú̠k
+Bribri0094	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye'r i #sú̠k
+Bribri0094	[Ye'r i sú̠]	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye'r i #sú̠k
+Bribri0095	[Ye'r i sú̠]	VOICE:MID, PERSON:3_SI	TARGET_____	I sù̠ne̠
+Bribri0095	[Ye'r i sú̠]	VOICE:MID, PERSON:3_SI	GPT_EX3____	* I #súne̠
+Bribri0095	[Ye'r i sú̠]	VOICE:MID, PERSON:3_SI	GPT_EX5____	* I #sú̠ne̠
+Bribri0095	[Ye'r i sú̠]	VOICE:MID, PERSON:3_SI	GPT_EX10___	* I #sú̠ne̠
+Bribri0095	[Ye'r i sú̠]	VOICE:MID, PERSON:3_SI	GPT_EX20___	* I #sú̠ne̠
+Bribri0095	[Ye'r i sú̠]	VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* I #sú̠ne̠
+Bribri0096	[Ye'r i sú̠]	VOICE:MID, ABSNUM:PL, PERSON:3_PL	TARGET_____	I sù̠ne̠rak
+Bribri0096	[Ye'r i sú̠]	VOICE:MID, ABSNUM:PL, PERSON:3_PL	GPT_EX3____	* #Ie'pa #i #sú̠k
+Bribri0096	[Ye'r i sú̠]	VOICE:MID, ABSNUM:PL, PERSON:3_PL	GPT_EX5____	* #Ie'pa #i #sú̠rur
+Bribri0096	[Ye'r i sú̠]	VOICE:MID, ABSNUM:PL, PERSON:3_PL	GPT_EX10___	* I #sú̠ne̠
+Bribri0096	[Ye'r i sú̠]	VOICE:MID, ABSNUM:PL, PERSON:3_PL	GPT_EX20___	* #Ie'pa #i #sú̠ne̠
+Bribri0096	[Ye'r i sú̠]	VOICE:MID, ABSNUM:PL, PERSON:3_PL	GPT_EX10BGR	* I #sú̠ne̠pa
+Bribri0123	[Ye' stsë']	TENSE:PRF_REC	TARGET_____	Ye' stsé
+Bribri0123	[Ye' stsë']	TENSE:PRF_REC	GPT_EX3____	* Ye' #té
+Bribri0123	[Ye' stsë']	TENSE:PRF_REC	GPT_EX5____	Ye' stsé
+Bribri0123	[Ye' stsë']	TENSE:PRF_REC	GPT_EX10___	Ye' stsé
+Bribri0123	[Ye' stsë']	TENSE:PRF_REC	GPT_EX20___	Ye' stsé
+Bribri0123	[Ye' stsë']	TENSE:PRF_REC	GPT_EX10BGR	Ye' stsé
+Bribri0124	[Ye' stsë']	TYPE:NEG	TARGET_____	Ye' kë̀ stsë̀ne̠
+Bribri0124	[Ye' stsë']	TYPE:NEG	GPT_EX3____	* Ye' kë̀ #wa̠ stsë̀ne̠
+Bribri0124	[Ye' stsë']	TYPE:NEG	GPT_EX5____	* #Kë̀ #ye' #stse̠'
+Bribri0124	[Ye' stsë']	TYPE:NEG	GPT_EX10___	* Ye' kë̀ #wa̠ stsë̀ne̠
+Bribri0124	[Ye' stsë']	TYPE:NEG	GPT_EX20___	* Ye' kë̀ #wa̠ stsë̀ne̠
+Bribri0124	[Ye' stsë']	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ #wa̠ stsë̀ne̠
+Bribri0125	[Ye' stsë']	TYPE:NEG, TENSE:PRF_REC	TARGET_____	Ye' kë̀ stsë̀ne̠
+Bribri0125	[Ye' stsë']	TYPE:NEG, TENSE:PRF_REC	GPT_EX3____	* Ye' kë̀ #wa̠ stsë̀ne̠
+Bribri0125	[Ye' stsë']	TYPE:NEG, TENSE:PRF_REC	GPT_EX5____	* Ye' kë̀ #stse̠ne̠
+Bribri0125	[Ye' stsë']	TYPE:NEG, TENSE:PRF_REC	GPT_EX10___	* Ye' kë̀ #wa̠ #stsè̠ne̠
+Bribri0125	[Ye' stsë']	TYPE:NEG, TENSE:PRF_REC	GPT_EX20___	* Ye' kë̀ #wa̠ #stsè̠ne̠
+Bribri0125	[Ye' stsë']	TYPE:NEG, TENSE:PRF_REC	GPT_EX10BGR	* Ye' kë̀ #wa̠ stsë̀ne̠
+Bribri0126	[Ye' stsë']	VOICE:MID, ABSNUM:NI, PERSON:NA	TARGET_____	Stsë̀ne̠
+Bribri0126	[Ye' stsë']	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX3____	Stsë̀ne̠
+Bribri0126	[Ye' stsë']	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX5____	Stsë̀ne̠
+Bribri0126	[Ye' stsë']	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10___	* #Stsàne̠
+Bribri0126	[Ye' stsë']	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX20___	Stsë̀ne̠
+Bribri0126	[Ye' stsë']	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10BGR	Stsë̀ne̠
+Bribri0127	[Ye' stsë']	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	TARGET_____	Kë̀ stsë̀ne̠
+Bribri0127	[Ye' stsë']	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX3____	Kë̀ stsë̀ne̠
+Bribri0127	[Ye' stsë']	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX5____	Kë̀ stsë̀ne̠
+Bribri0127	[Ye' stsë']	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10___	Kë̀ stsë̀ne̠
+Bribri0127	[Ye' stsë']	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX20___	Kë̀ stsë̀ne̠
+Bribri0127	[Ye' stsë']	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10BGR	* Kë̀ #stsëne̠
+Bribri0128	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	TARGET_____	Ie' stsö̀
+Bribri0128	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX3____	Ie' stsö̀
+Bribri0128	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX5____	Ie' stsö̀
+Bribri0128	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX10___	Ie' stsö̀
+Bribri0128	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX20___	Ie' stsö̀
+Bribri0128	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX10BGR	Ie' stsö̀
+Bribri0129	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	TARGET_____	Ie' kë̀ stsö
+Bribri0129	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX3____	* #Kë̀ #stsë'k
+Bribri0129	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX5____	* #Kë̀ #ye' #stsë' #te
+Bribri0129	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX10___	* #Kë̀ #ye' #stsë́k
+Bribri0129	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX20___	* #Kë̀ #ye' #stsëk
+Bribri0129	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	GPT_EX10BGR	* #Kë̀ #ye' #stsëk
+Bribri0130	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' stsö̀
+Bribri0130	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' #stè
+Bribri0130	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' #stsè̠
+Bribri0130	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' #stskö̀
+Bribri0130	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' #stskè
+Bribri0130	[Ye' stsë']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' #stskö̀
+Bribri0131	[Ye' stsë']	TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Ye' stsö̀râ
+Bribri0131	[Ye' stsë']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Ye' #stërâ
+Bribri0131	[Ye' stsë']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Ye' #stërâ
+Bribri0131	[Ye' stsë']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Ye' #stskö̀râ
+Bribri0131	[Ye' stsë']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Ye' #stswèrâ
+Bribri0131	[Ye' stsë']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Ye' #stökö̀râ
+Bribri0132	[Ye' stsë']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Kë̀ ye' stsö̀pa
+Bribri0132	[Ye' stsë']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' #stskë̀pa
+Bribri0132	[Ye' stsë']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' #stsä̀pa
+Bribri0132	[Ye' stsë']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' #stskö̀pa
+Bribri0132	[Ye' stsë']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' #stsépa
+Bribri0132	[Ye' stsë']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' #stsuèpa
+Bribri0133	[Ye' stsë']	TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Ye' stsö̀ke̠
+Bribri0133	[Ye' stsë']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Ye' #stèke̠
+Bribri0133	[Ye' stsë']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Ye' #stskö̀ke̠
+Bribri0133	[Ye' stsë']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Ye' #stse̠ke̠
+Bribri0133	[Ye' stsë']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Ye' #stskö̀ke̠
+Bribri0133	[Ye' stsë']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Ye' #stse̠ke̠
+Bribri0134	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Kë̀ ye' stsö̀ku̠
+Bribri0134	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' #stskë̀ku̠
+Bribri0134	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' #stskö̀ku̠
+Bribri0134	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' #stskö̀ku̠
+Bribri0134	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' #stskö̀ku̠
+Bribri0134	[Ye' stsë']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' #stskö̀ku̠
+Bribri0135	[Ye' stsë']	TENSE:FUT_POT, ASPECT:IPFV	TARGET_____	Ye' stsö̀mi̠
+Bribri0135	[Ye' stsë']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX3____	* Ye' #stsi̠mi̠
+Bribri0135	[Ye' stsë']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX5____	* Ye' #stëmi̠
+Bribri0135	[Ye' stsë']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10___	* Ye' #stsièmi̠
+Bribri0135	[Ye' stsë']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX20___	* Ye' #stsi̠mi̠
+Bribri0135	[Ye' stsë']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10BGR	* Ye' #stë̀mi̠
+Bribri0136	[Ye' stsë']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	TARGET_____	Kë̀ ye' stsök
+Bribri0136	[Ye' stsë']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX3____	Kë̀ ye' stsök
+Bribri0136	[Ye' stsë']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX5____	Kë̀ ye' stsök
+Bribri0136	[Ye' stsë']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10___	Kë̀ ye' stsök
+Bribri0136	[Ye' stsë']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' #stök
+Bribri0136	[Ye' stsë']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' #stsëk
+Bribri0137	[Ye' stsë']	MODE:ADVERS	TARGET_____	Ye' stsa'
+Bribri0137	[Ye' stsë']	MODE:ADVERS	GPT_EX3____	* Ye' #stsë'
+Bribri0137	[Ye' stsë']	MODE:ADVERS	GPT_EX5____	* Ye' #wa̠ #stsë' #ta'
+Bribri0137	[Ye' stsë']	MODE:ADVERS	GPT_EX10___	* Ye' #wa̠ #stsë' #ta'
+Bribri0137	[Ye' stsë']	MODE:ADVERS	GPT_EX20___	* Ye' #stsë'
+Bribri0137	[Ye' stsë']	MODE:ADVERS	GPT_EX10BGR	* Ye' #wa̠ #stsë'
+Bribri0138	[Ye' stsë']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	TARGET_____	Be' stsö́
+Bribri0138	[Ye' stsë']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX3____	* Be' #stökö́
+Bribri0138	[Ye' stsë']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX5____	Be' stsö́
+Bribri0138	[Ye' stsë']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10___	* Be' #stökö́
+Bribri0138	[Ye' stsë']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX20___	* Be' #stsä́
+Bribri0138	[Ye' stsë']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10BGR	* Be' #stë́
+Bribri0139	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	TARGET_____	Kë̀ be' stsök
+Bribri0139	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX3____	Kë̀ be' stsök
+Bribri0139	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX5____	Kë̀ be' stsök
+Bribri0139	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10___	Kë̀ be' stsök
+Bribri0139	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX20___	* Kë̀ be' #stök
+Bribri0139	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10BGR	* Kë̀ be' #stök
+Bribri0140	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	TARGET_____	Kë̀ stsar
+Bribri0140	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX3____	* Kë̀ #stsër
+Bribri0140	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX5____	* Kë̀ #stsër
+Bribri0140	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10___	* Kë̀ #stsër
+Bribri0140	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX20___	* Kë̀ #stsë̀r
+Bribri0140	[Ye' stsë']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10BGR	* Kë̀ #stsë̀r
+Bribri0185	[Ye' tö i̠ ña̠'wa]	ABSNUM:PL	TARGET_____	Ye' tö i̠ ña̠'alor
+Bribri0185	[Ye' tö i̠ ña̠'wa]	ABSNUM:PL	GPT_EX3____	* Ye' tö i̠ #ña̠'kölur
+Bribri0185	[Ye' tö i̠ ña̠'wa]	ABSNUM:PL	GPT_EX5____	* Ye' tö i̠ #ña̠'kölur
+Bribri0185	[Ye' tö i̠ ña̠'wa]	ABSNUM:PL	GPT_EX10___	* Ye' tö i̠ #ña̠'kölur
+Bribri0185	[Ye' tö i̠ ña̠'wa]	ABSNUM:PL	GPT_EX20___	* Ye' tö i̠ #ña̠'kölur
+Bribri0185	[Ye' tö i̠ ña̠'wa]	ABSNUM:PL	GPT_EX10BGR	* Ye' tö i̠ #ña̠'pa
+Bribri0186	[Ie'pa tö kàsir chka të'a]	TYPE:NEG	TARGET_____	Ie'pa kë̀ wa̠ kàsir chka të̀nà̠ne̠
+Bribri0186	[Ie'pa tö kàsir chka të'a]	TYPE:NEG	GPT_EX3____	* Ie'pa kë̀ wa̠ kàsir chka #të̀ne̠a
+Bribri0186	[Ie'pa tö kàsir chka të'a]	TYPE:NEG	GPT_EX5____	* Ie'pa kë̀ wa̠ kàsir chka #të̀ne̠a
+Bribri0186	[Ie'pa tö kàsir chka të'a]	TYPE:NEG	GPT_EX10___	* Ie'pa kë̀ wa̠ kàsir chka #të̀ne̠a
+Bribri0186	[Ie'pa tö kàsir chka të'a]	TYPE:NEG	GPT_EX20___	* Ie'pa kë̀ wa̠ kàsir chka #të̀ne̠a
+Bribri0186	[Ie'pa tö kàsir chka të'a]	TYPE:NEG	GPT_EX10BGR	* Ie'pa kë̀ wa̠ kàsir chka #të̀ne̠a
+Bribri0187	[Ie'pa tö kàsir chka të'a]	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ie'pa tso kàsir chka tö́kök
+Bribri0187	[Ie'pa tö kàsir chka të'a]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ie'pa tso kàsir chka #tö́k
+Bribri0187	[Ie'pa tö kàsir chka të'a]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ie'pa tso kàsir #chkö́k #tö́k
+Bribri0187	[Ie'pa tö kàsir chka të'a]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ie'pa tso kàsir #chkö́k #të'a
+Bribri0187	[Ie'pa tö kàsir chka të'a]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ie'pa tso kàsir #chkö́k #të'a
+Bribri0187	[Ie'pa tö kàsir chka të'a]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ie'pa tso kàsir #chkö́k #të'a
+Bribri0188	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ie'pa kë̀ ku̠ kàsir chka tö́kök
+Bribri0188	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ie'pa kë̀ ku̠ kàsir chka #tö́k
+Bribri0188	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ie'pa kë̀ ku̠ kàsir #chkö́k #tö́k
+Bribri0188	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ie'pa kë̀ ku̠ kàsir #chkö́k
+Bribri0188	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ie'pa kë̀ ku̠ kàsir #chkö́k #të'a
+Bribri0188	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ie'pa kë̀ ku̠ kàsir #chkö́k #të'a
+Bribri0189	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_PROG	TARGET_____	Ie'pa bák kàsir chka tö́kök
+Bribri0189	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_PROG	GPT_EX3____	* Ie'pa bák kàsir chka #tö́k
+Bribri0189	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_PROG	GPT_EX5____	* Ie'pa bák kàsir #chkö́k #të'a
+Bribri0189	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_PROG	GPT_EX10___	* Ie'pa bák kàsir #chkö́k #të'a
+Bribri0189	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_PROG	GPT_EX20___	* Ie'pa bák kàsir #chkö́k #të'a
+Bribri0189	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_PROG	GPT_EX10BGR	* Ie'pa bák kàsir #chkö́k #të'a
+Bribri0190	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:PRF_PROG	TARGET_____	Ie'pa kë̀ ku̠'bak kàsir chka tö́kök
+Bribri0190	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX3____	* Ie'pa kë̀ ku̠'bak kàsir chka #tö́k
+Bribri0190	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX5____	* Ie'pa kë̀ ku̠'bak kàsir #chkö́k #të'a
+Bribri0190	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10___	* Ie'pa kë̀ ku̠'bak kàsir #chkö́k #të'a
+Bribri0190	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX20___	* Ie'pa kë̀ ku̠'bak kàsir #chkö́k #të'a
+Bribri0190	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10BGR	* Ie'pa kë̀ ku̠'bak kàsir #chkö́k #të'a
+Bribri0191	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	TARGET_____	Kàsir chka të̀nà̠ne̠
+Bribri0191	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX3____	* Kàsir chka #të̀na̠
+Bribri0191	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX5____	* Kàsir chka #të̀na̠
+Bribri0191	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10___	* Kàsir chka #të̀na̠
+Bribri0191	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX20___	* Kàsir chka #të̀na̠
+Bribri0191	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10BGR	* Kàsir chka #të̀na̠
+Bribri0192	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC	TARGET_____	Ie'pa tö kàsir chka tée
+Bribri0192	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC	GPT_EX3____	* Ie'pa tö kàsir chka #téa
+Bribri0192	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC	GPT_EX5____	* Ie'pa tö kàsir chka #té'a
+Bribri0192	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC	GPT_EX10___	* Ie'pa tö kàsir chka #té'a
+Bribri0192	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC	GPT_EX20___	* Ie'pa tö kàsir chka #té'a
+Bribri0192	[Ie'pa tö kàsir chka të'a]	TENSE:PRF_REC	GPT_EX10BGR	* Ie'pa tö kàsir #chké #té'a
+Bribri0193	[Ie'pa tö kàsir chka të'a]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	Kàsir chka tö́ö
+Bribri0193	[Ie'pa tö kàsir chka të'a]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* Kàsir #tö́ chka
+Bribri0193	[Ie'pa tö kàsir chka të'a]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* Kàsir chka #tó̠
+Bribri0193	[Ie'pa tö kàsir chka të'a]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* Kàsir #chkuá̠ #të'a
+Bribri0193	[Ie'pa tö kàsir chka të'a]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* Kàsir #chkuö́ #të'a
+Bribri0193	[Ie'pa tö kàsir chka të'a]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* Kàsir #chkuá #të'a
+Bribri0194	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	Kë̀ kàsir chka tökök
+Bribri0194	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* Kë̀ kàsir #tök chka #të'a
+Bribri0194	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* Kë̀ kàsir chka #tök
+Bribri0194	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* Kë̀ kàsir chka #tök
+Bribri0194	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* Kë̀ kàsir chka #tök
+Bribri0194	[Ie'pa tö kàsir chka të'a]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* Kë̀ kàsir chka #tök
+Bribri0195	[Ye' tso' dawèie]	TYPE:NEG	TARGET_____	Ye' kë̀ ku̠ dawèie
+Bribri0195	[Ye' tso' dawèie]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ #wa̠ #dawèine̠
+Bribri0195	[Ye' tso' dawèie]	TYPE:NEG	GPT_EX5____	* Ye' kë̀ #wa̠ #tso' #dawèiene̠
+Bribri0195	[Ye' tso' dawèie]	TYPE:NEG	GPT_EX10___	* Ye' kë̀ #wa̠ #tso' #dawèine̠
+Bribri0195	[Ye' tso' dawèie]	TYPE:NEG	GPT_EX20___	* Ye' kë̀ #wa̠ #tso' #dawèine̠
+Bribri0195	[Ye' tso' dawèie]	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ #wa̠ #tso' #dawèiene̠
+Bribri0196	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV	TARGET_____	Ye' tchá dawèie
+Bribri0196	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX3____	* #Dawèie̠ne̠
+Bribri0196	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX5____	* Ye' #tso' #dawèie̠té
+Bribri0196	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX10___	* Ye' #tso' #dawèie̠wé̠
+Bribri0196	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX20___	* Ye' #tso' #dawèie̠
+Bribri0196	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX10BGR	* Ye' #tso' #dawèie̠
+Bribri0197	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV	TARGET_____	Ye' bák dawèie
+Bribri0197	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX3____	* Ye' bák #tso' dawèie
+Bribri0197	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX5____	* Ye' bák #tso' dawèie
+Bribri0197	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX10___	* Ye' bák #tso' dawèie
+Bribri0197	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX20___	* Ye' bák #tso' dawèie
+Bribri0197	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX10BGR	* Ye' bák #tso' dawèie
+Bribri0198	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	TARGET_____	Ye' kë̀ ku̠'bak dawèie
+Bribri0198	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX3____	* Ye' kë̀ ku̠'bak #tso' dawèie
+Bribri0198	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX5____	* Ye' kë̀ ku̠'bak #tso' dawèie
+Bribri0198	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX10___	Ye' kë̀ ku̠'bak dawèie
+Bribri0198	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX20___	* Ye' kë̀ #wa̠ #tso' dawèie
+Bribri0198	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX10BGR	* Ye' kë̀ ku̠'bak #tso' dawèie
+Bribri0199	[Ye' tso' dawèie]	PERSON:2_SI	TARGET_____	Be' tso' dawèie
+Bribri0199	[Ye' tso' dawèie]	PERSON:2_SI	GPT_EX3____	Be' tso' dawèie
+Bribri0199	[Ye' tso' dawèie]	PERSON:2_SI	GPT_EX5____	Be' tso' dawèie
+Bribri0199	[Ye' tso' dawèie]	PERSON:2_SI	GPT_EX10___	Be' tso' dawèie
+Bribri0199	[Ye' tso' dawèie]	PERSON:2_SI	GPT_EX20___	Be' tso' dawèie
+Bribri0199	[Ye' tso' dawèie]	PERSON:2_SI	GPT_EX10BGR	Be' tso' dawèie
+Bribri0200	[Ye' tso' dawèie]	TYPE:NEG, PERSON:2_SI	TARGET_____	Be' kë̀ ku̠ dawèie
+Bribri0200	[Ye' tso' dawèie]	TYPE:NEG, PERSON:2_SI	GPT_EX3____	* #Kë̀ #ye' #tso' dawèie
+Bribri0200	[Ye' tso' dawèie]	TYPE:NEG, PERSON:2_SI	GPT_EX5____	* #Ye' kë̀ #wa̠ #tso' #dawèine̠
+Bribri0200	[Ye' tso' dawèie]	TYPE:NEG, PERSON:2_SI	GPT_EX10___	* #Ye' kë̀ #wa̠ dawèie
+Bribri0200	[Ye' tso' dawèie]	TYPE:NEG, PERSON:2_SI	GPT_EX20___	* #Ye' kë̀ #wa̠ #tso' dawèie
+Bribri0200	[Ye' tso' dawèie]	TYPE:NEG, PERSON:2_SI	GPT_EX10BGR	* #Ye' kë̀ #wa̠ #tso' dawèie
+Bribri0201	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	TARGET_____	Be' tchá dawèie
+Bribri0201	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	GPT_EX3____	* Be' #tso' dawèie
+Bribri0201	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	GPT_EX5____	* Be' #tso' dawèie
+Bribri0201	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	GPT_EX10___	* Be' #tso' #dawéie
+Bribri0201	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	GPT_EX20___	* Be' #tso' #dawéie
+Bribri0201	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	GPT_EX10BGR	* Be' dawèie
+Bribri0202	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	TARGET_____	Be' bák dawèie
+Bribri0202	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX3____	* #A' bák #tso' dawèie
+Bribri0202	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX5____	* #Ye' bák #tso' dawèie
+Bribri0202	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX10___	Be' bák dawèie
+Bribri0202	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX20___	* Be' bák #tso' dawèie
+Bribri0202	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX10BGR	* Be' bák #tso' dawèie
+Bribri0203	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	TARGET_____	Be' kë̀ ku̠'bak dawèie
+Bribri0203	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX3____	* Be' kë̀ ku̠'bak #tso' dawèie
+Bribri0203	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX5____	* Be' kë̀ ku̠'bak #tso' dawèie
+Bribri0203	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX10___	* Be' kë̀ ku̠'bak #tso' dawèie
+Bribri0203	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX20___	* #Ye' kë̀ ku̠'bak #tso' dawèie
+Bribri0203	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	GPT_EX10BGR	* Be' kë̀ ku̠'bak #tso' dawèie
+Bribri0204	[Ye' tso' dawèie]	PERSON:3_SI	TARGET_____	Ie' tso' dawèie
+Bribri0204	[Ye' tso' dawèie]	PERSON:3_SI	GPT_EX3____	Ie' tso' dawèie
+Bribri0204	[Ye' tso' dawèie]	PERSON:3_SI	GPT_EX5____	Ie' tso' dawèie
+Bribri0204	[Ye' tso' dawèie]	PERSON:3_SI	GPT_EX10___	Ie' tso' dawèie
+Bribri0204	[Ye' tso' dawèie]	PERSON:3_SI	GPT_EX20___	Ie' tso' dawèie
+Bribri0204	[Ye' tso' dawèie]	PERSON:3_SI	GPT_EX10BGR	Ie' tso' dawèie
+Bribri0205	[Ye' tso' dawèie]	TYPE:NEG, PERSON:3_SI	TARGET_____	Ie' kë̀ ku̠ dawèie
+Bribri0205	[Ye' tso' dawèie]	TYPE:NEG, PERSON:3_SI	GPT_EX3____	* #Ye' kë̀ #wa̠ #i dawèie
+Bribri0205	[Ye' tso' dawèie]	TYPE:NEG, PERSON:3_SI	GPT_EX5____	* #Ye' kë̀ #wa̠ #dawèie̠ne̠
+Bribri0205	[Ye' tso' dawèie]	TYPE:NEG, PERSON:3_SI	GPT_EX10___	* #Ye' kë̀ #wa̠ dawèie
+Bribri0205	[Ye' tso' dawèie]	TYPE:NEG, PERSON:3_SI	GPT_EX20___	* #Ye' kë̀ #wa̠ dawèie
+Bribri0205	[Ye' tso' dawèie]	TYPE:NEG, PERSON:3_SI	GPT_EX10BGR	* #Ye' kë̀ #wa̠ dawèie
+Bribri0206	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	TARGET_____	Ie' tchá dawèie
+Bribri0206	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	GPT_EX3____	* Ie' #tso' dawèie
+Bribri0206	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	GPT_EX5____	* Ie' #tso' dawèie
+Bribri0206	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	GPT_EX10___	* #Ye' #tso' #dawèie̠
+Bribri0206	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	GPT_EX20___	* Ie' #tso' dawèie
+Bribri0206	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	GPT_EX10BGR	* Ie' #tso' #dawéie
+Bribri0207	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	TARGET_____	Ie' bák dawèie
+Bribri0207	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX3____	* #Ye' bák #tso' dawèie
+Bribri0207	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX5____	* #Ye' bák #tso' dawèie
+Bribri0207	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX10___	* #Dawèie bák
+Bribri0207	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX20___	* Ie' bák #tso' dawèie
+Bribri0207	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX10BGR	* #Ye' bák #tso' dawèie
+Bribri0208	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	TARGET_____	Ie' kë̀ ku̠'bak dawèie
+Bribri0208	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX3____	* #Kë̀ ku̠'bak #tso' dawèie
+Bribri0208	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX5____	* Ie' kë̀ ku̠'bak #tso' dawèie
+Bribri0208	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX10___	* Ie' kë̀ ku̠'bak #tso' dawèie
+Bribri0208	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX20___	* #Ye' kë̀ ku̠'bak #tso' dawèie
+Bribri0208	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	GPT_EX10BGR	* Ie' kë̀ ku̠'bak #tso' dawèie
+Bribri0209	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_INC	TARGET_____	Se' tso' dawèie
+Bribri0209	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_INC	GPT_EX3____	Se' tso' dawèie
+Bribri0209	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_INC	GPT_EX5____	Se' tso' dawèie
+Bribri0209	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10___	Se' tso' dawèie
+Bribri0209	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_INC	GPT_EX20___	Se' tso' dawèie
+Bribri0209	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10BGR	Se' tso' dawèie
+Bribri0210	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	TARGET_____	Se' kë̀ ku̠ dawèie
+Bribri0210	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX3____	* Se' kë̀ #tso' dawèie
+Bribri0210	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX5____	* Se' kë̀ #tso' #skö̀wöie
+Bribri0210	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10___	* Se' kë̀ ku̠ #i #tso' dawèie
+Bribri0210	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX20___	* Se' kë̀ ku̠ #tso' dawèie
+Bribri0210	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10BGR	* Se' kë̀ ku̠ #tso' dawèie
+Bribri0211	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	TARGET_____	Se' tchá dawèie
+Bribri0211	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX3____	* Se' #tso' #dawie
+Bribri0211	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX5____	* Se' #tso' #dawie
+Bribri0211	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10___	* Se' #tso' #dawéie
+Bribri0211	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX20___	* Se' #tso' #dawéie
+Bribri0211	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10BGR	* Se' #tso' #dawèir
+Bribri0212	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	TARGET_____	Se' bák dawèie
+Bribri0212	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX3____	* #Ye' bák #ië'te̠n #tso' dawèie
+Bribri0212	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX5____	* Se' bák #ië'te̠n #tso' dawèie
+Bribri0212	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10___	* Se' #tso' dawèie
+Bribri0212	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX20___	* Se' bák #tso' dawèie
+Bribri0212	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10BGR	* Se' bák #tso' dawèie
+Bribri0213	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	TARGET_____	Se' kë̀ ku̠'bak dawèie
+Bribri0213	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX3____	* #Ye' kë̀ #ku'ba̠k #tso' dawèie
+Bribri0213	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX5____	* #Ye' kë̀ #ku'ba̠k #ië'te̠n dawèie
+Bribri0213	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10___	* Se' kë̀ ku̠'bak #tso' dawèie
+Bribri0213	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX20___	Se' kë̀ ku̠'bak dawèie
+Bribri0213	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	GPT_EX10BGR	* Se' kë̀ ku̠'bak #tso' dawèie
+Bribri0214	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_EXC	TARGET_____	Sa' tso' dawèie
+Bribri0214	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX3____	Sa' tso' dawèie
+Bribri0214	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX5____	Sa' tso' dawèie
+Bribri0214	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10___	Sa' tso' dawèie
+Bribri0214	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX20___	Sa' tso' dawèie
+Bribri0214	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10BGR	Sa' tso' dawèie
+Bribri0215	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	TARGET_____	Sa' kë̀ ku̠ dawèie
+Bribri0215	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX3____	* Sa' kë̀ #tso' dawèie
+Bribri0215	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX5____	* Sa' kë̀ #tso' dawèie
+Bribri0215	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10___	* Sa' kë̀ ku̠ #tso' dawèie
+Bribri0215	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX20___	* Sa' #tso' dawèie
+Bribri0215	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10BGR	* Sa' kë̀ ku̠ #tso' dawèie
+Bribri0216	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	TARGET_____	Sa' tchá dawèie
+Bribri0216	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX3____	* Sa' #tso' #dawie
+Bribri0216	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX5____	* Sa' #tso' dawèie
+Bribri0216	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10___	* Sa' #tso' dawèie
+Bribri0216	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX20___	* Sa' #tso' #dawéie
+Bribri0216	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10BGR	* Sa' #tso' #dawèir
+Bribri0217	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	TARGET_____	Sa' bák dawèie
+Bribri0217	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX3____	* #Ye' bák #ië'te̠n #tso' dawèie
+Bribri0217	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX5____	* Sa' bák #ië'te̠n #tso' dawèie
+Bribri0217	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10___	* Sa' bák #tso' dawèie
+Bribri0217	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX20___	* Sa' bák #tso' dawèie
+Bribri0217	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10BGR	* Sa' bák #tso' dawèie
+Bribri0218	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	TARGET_____	Sa' kë̀ ku̠'bak dawèie
+Bribri0218	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX3____	* Sa' kë̀ #ku'ba̠k #tso' dawèie
+Bribri0218	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX5____	* Sa' kë̀ #ku'ba̠k #tso' dawèie
+Bribri0218	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10___	* Sa' kë̀ ku̠'bak #tso' dawèie
+Bribri0218	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX20___	Sa' kë̀ ku̠'bak dawèie
+Bribri0218	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	GPT_EX10BGR	* Sa' kë̀ ku̠'bak #tso' dawèie
+Bribri0219	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:2_PL	TARGET_____	A' tso' dawèie
+Bribri0219	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:2_PL	GPT_EX3____	A' tso' dawèie
+Bribri0219	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:2_PL	GPT_EX5____	A' tso' dawèie
+Bribri0219	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:2_PL	GPT_EX10___	A' tso' dawèie
+Bribri0219	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:2_PL	GPT_EX20___	A' tso' dawèie
+Bribri0219	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:2_PL	GPT_EX10BGR	A' tso' dawèie
+Bribri0220	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	TARGET_____	A' kë̀ ku̠ dawèie
+Bribri0220	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	GPT_EX3____	* A' kë̀ #tso' dawèie
+Bribri0220	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	GPT_EX5____	* A' #tso' dawèie
+Bribri0220	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	GPT_EX10___	* A' kë̀ ku̠ #tso' dawèie
+Bribri0220	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	GPT_EX20___	* A' kë̀ ku̠ #tso' dawèie
+Bribri0220	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	GPT_EX10BGR	* A' kë̀ ku̠ #tso' dawèie
+Bribri0221	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	TARGET_____	A' tchá dawèie
+Bribri0221	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX3____	* A' #tso' dawèie
+Bribri0221	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX5____	* A' #tso' #dawéie
+Bribri0221	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX10___	* A' #tso' #dawéie
+Bribri0221	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX20___	* A' #tso' #dawéie
+Bribri0221	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX10BGR	* A' #tso' dawèie
+Bribri0222	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	TARGET_____	A' bák dawèie
+Bribri0222	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX3____	* #Ye' bák #ië'te̠n #tso' dawèie
+Bribri0222	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX5____	* A' bák #tso' dawèie
+Bribri0222	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX10___	* A' #tso' #dawéie
+Bribri0222	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX20___	* A' bák #tso' dawèie
+Bribri0222	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX10BGR	* A' bák #tso' dawèie
+Bribri0223	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	TARGET_____	A' kë̀ ku̠'bak dawèie
+Bribri0223	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX3____	* #Ye' kë̀ #ku'ba̠k #ië'te̠n dawèie
+Bribri0223	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX5____	* #Ye' kë̀ #ku'ba̠k #dapárke dawèie
+Bribri0223	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX10___	* A' kë̀ ku̠'bak #tso' dawèie
+Bribri0223	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX20___	A' kë̀ ku̠'bak dawèie
+Bribri0223	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	GPT_EX10BGR	* A' kë̀ ku̠'bak #tso' dawèie
+Bribri0224	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:3_PL	TARGET_____	Ie'pa tso' dawèie
+Bribri0224	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:3_PL	GPT_EX3____	Ie'pa tso' dawèie
+Bribri0224	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:3_PL	GPT_EX5____	Ie'pa tso' dawèie
+Bribri0224	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:3_PL	GPT_EX10___	Ie'pa tso' dawèie
+Bribri0224	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:3_PL	GPT_EX20___	Ie'pa tso' dawèie
+Bribri0224	[Ye' tso' dawèie]	ABSNUM:PL, PERSON:3_PL	GPT_EX10BGR	Ie'pa tso' dawèie
+Bribri0225	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	TARGET_____	Ie'pa kë̀ ku̠ dawèie
+Bribri0225	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	GPT_EX3____	* Ie'pa kë̀ #tso' dawèie
+Bribri0225	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	GPT_EX5____	* Ie'pa kë̀ #tso' dawèie
+Bribri0225	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	GPT_EX10___	* Ie'pa kë̀ ku̠ #tso' dawèie
+Bribri0225	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	GPT_EX20___	* Ie'pa kë̀ ku̠ #tso' dawèie
+Bribri0225	[Ye' tso' dawèie]	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	GPT_EX10BGR	* Ie'pa kë̀ ku̠ #tso' dawèie
+Bribri0226	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	TARGET_____	Ie'pa tchá dawèie
+Bribri0226	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX3____	* Ie'pa #tso' dawèie
+Bribri0226	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX5____	* Ie'pa #tso' dawèie
+Bribri0226	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX10___	* Ie'pa #tso' dawèie
+Bribri0226	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX20___	* Ie'pa #tso' #dawéie
+Bribri0226	[Ye' tso' dawèie]	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX10BGR	* Ie'pa #tso' dawèie
+Bribri0227	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	TARGET_____	Ie'pa bák dawèie
+Bribri0227	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX3____	* #Ye' bák #ië'te̠n #tso' dawèie
+Bribri0227	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX5____	* Ie'pa bák #tso' dawèie
+Bribri0227	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX10___	* Ie'pa bák #tso' dawèie
+Bribri0227	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX20___	* Ie'pa bák #tso' dawèie
+Bribri0227	[Ye' tso' dawèie]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX10BGR	* Ie'pa bák #tso' dawèie
+Bribri0228	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	TARGET_____	Ie'pa kë̀ ku̠'bak dawèie
+Bribri0228	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX3____	* #Ye' kë̀ #ku'ba̠k #tso' dawèie
+Bribri0228	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX5____	* #Ye' kë̀ #ku'ba̠k #dapárke dawèie
+Bribri0228	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX10___	* Ie'pa kë̀ ku̠'bak #tso' dawèie
+Bribri0228	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX20___	* Ie'pa kë̀ ku̠'bak #tso' dawèie
+Bribri0228	[Ye' tso' dawèie]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	GPT_EX10BGR	* Ie'pa kë̀ ku̠'bak #tso' dawèie
+Bribri0234	[Ye' tö i kít]	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ i kìte̠
+Bribri0234	[Ye' tö i kít]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ wa̠ i #kítne̠
+Bribri0234	[Ye' tö i kít]	TYPE:NEG	GPT_EX5____	* Ye' kë̀ wa̠ i #kítne̠
+Bribri0234	[Ye' tö i kít]	TYPE:NEG	GPT_EX10___	* Ye' kë̀ wa̠ i #kìne̠
+Bribri0234	[Ye' tö i kít]	TYPE:NEG	GPT_EX20___	* Ye' kë̀ wa̠ i #kìne̠
+Bribri0234	[Ye' tö i kít]	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ wa̠ i #kìne̠
+Bribri0235	[Ye' tö i kít]	TENSE:PRF_REC	TARGET_____	Ye' tö i ishté
+Bribri0235	[Ye' tö i kít]	TENSE:PRF_REC	GPT_EX3____	* Ye' tö i #kítu
+Bribri0235	[Ye' tö i kít]	TENSE:PRF_REC	GPT_EX5____	* Ye' tö i #kíté
+Bribri0235	[Ye' tö i kít]	TENSE:PRF_REC	GPT_EX10___	* Ye' tö i #kité
+Bribri0235	[Ye' tö i kít]	TENSE:PRF_REC	GPT_EX20___	* Ye' tö i #kité
+Bribri0235	[Ye' tö i kít]	TENSE:PRF_REC	GPT_EX10BGR	* Ye' tö i #kité
+Bribri0236	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC	TARGET_____	Ye' kë̀ wa̠ i kìte̠
+Bribri0236	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC	GPT_EX3____	* Ye' kë̀ wa̠ i #kítne̠
+Bribri0236	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC	GPT_EX5____	* Ye' kë̀ wa̠ i #kìne̠
+Bribri0236	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC	GPT_EX10___	* Ye' kë̀ wa̠ i #kítne̠
+Bribri0236	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC	GPT_EX20___	* Ye' kë̀ wa̠ i #kítne̠
+Bribri0236	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC	GPT_EX10BGR	* Ye' kë̀ wa̠ i #kítne̠
+Bribri0237	[Ye' tö i kít]	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' tö i ishtè
+Bribri0237	[Ye' tö i kít]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' tö i #kèt
+Bribri0237	[Ye' tö i kít]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' tö i #kèt
+Bribri0237	[Ye' tö i kít]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' tö i #kèt
+Bribri0237	[Ye' tö i kít]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' tö i #kèt
+Bribri0237	[Ye' tö i kít]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö i #kèt
+Bribri0238	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Kë̀ ye' tö i ishte
+Bribri0238	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' tö i #ke̠t
+Bribri0238	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' tö i #kue
+Bribri0238	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' tö i #kìte
+Bribri0238	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' tö i #kìte
+Bribri0238	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' tö i #kìte
+Bribri0239	[Ye' tö i kít]	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' tso i ishtö́k
+Bribri0239	[Ye' tö i kít]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' tso i #kítö́k
+Bribri0239	[Ye' tö i kít]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' tso i #kítö́k
+Bribri0239	[Ye' tö i kít]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' tso i #kítö́k
+Bribri0239	[Ye' tö i kít]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' tso i #kítö́k
+Bribri0239	[Ye' tö i kít]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' tso i #kítö́k
+Bribri0240	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' kë̀ ku̠ i ishtö́k
+Bribri0240	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' kë̀ ku̠ i #kö́k
+Bribri0240	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' kë̀ ku̠ i #kö́k
+Bribri0240	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' kë̀ ku̠ i #kütö́k
+Bribri0240	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' kë̀ ku̠ i #kítö́k
+Bribri0240	[Ye' tö i kít]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' kë̀ ku̠ i #kítö́k
+Bribri0241	[Ye' tö i kít]	TENSE:PRF_PROG	TARGET_____	Ye' bák i ishtö́k
+Bribri0241	[Ye' tö i kít]	TENSE:PRF_PROG	GPT_EX3____	* Ye' bák i #kǘk
+Bribri0241	[Ye' tö i kít]	TENSE:PRF_PROG	GPT_EX5____	* Ye' bák i #kö́k
+Bribri0241	[Ye' tö i kít]	TENSE:PRF_PROG	GPT_EX10___	* Ye' bák i #kö́k
+Bribri0241	[Ye' tö i kít]	TENSE:PRF_PROG	GPT_EX20___	* Ye' bák i #kö́k
+Bribri0241	[Ye' tö i kít]	TENSE:PRF_PROG	GPT_EX10BGR	* Ye' bák i #kö́k
+Bribri0242	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_PROG	TARGET_____	Ye' kë̀ ku̠'bak i ishtö́k
+Bribri0242	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX3____	* Ye' kë̀ ku̠'bak i #kö́k
+Bribri0242	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX5____	* Ye' kë̀ ku̠'bak i #kö́k
+Bribri0242	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10___	* Ye' kë̀ ku̠'bak i #kö́t
+Bribri0242	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX20___	* Ye' kë̀ ku̠'bak i #kö́t
+Bribri0242	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10BGR	* Ye' kë̀ ku̠'bak i #kö́k
+Bribri0243	[Ye' tö i kít]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	I ishtö́
+Bribri0243	[Ye' tö i kít]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* I #kitú̠
+Bribri0243	[Ye' tö i kít]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* I #kitú̠
+Bribri0243	[Ye' tö i kít]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* I #kítu̠
+Bribri0243	[Ye' tö i kít]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* I #kitú̠
+Bribri0243	[Ye' tö i kít]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* I #kítú̠
+Bribri0244	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	Kë̀ i ishtök
+Bribri0244	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* Kë̀ i #kítök
+Bribri0244	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* Kë̀ i #kítök
+Bribri0244	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* Kë̀ i #kiök
+Bribri0244	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* Kë̀ i #kiök
+Bribri0244	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* Kë̀ i #kiök
+Bribri0245	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	TARGET_____	Kë̀ i ishtar
+Bribri0245	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX3____	* Kë̀ i #kítar
+Bribri0245	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX5____	* Kë̀ i #kítar
+Bribri0245	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX10___	* Kë̀ i #kír
+Bribri0245	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX20___	* Kë̀ i #kír
+Bribri0245	[Ye' tö i kít]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* Kë̀ i #kítar
+Bribri0246	[Ye' tö i kít]	VOICE:MID, PERSON:3_SI	TARGET_____	I kìte̠
+Bribri0246	[Ye' tö i kít]	VOICE:MID, PERSON:3_SI	GPT_EX3____	* I #kítne̠
+Bribri0246	[Ye' tö i kít]	VOICE:MID, PERSON:3_SI	GPT_EX5____	* I #kítne̠
+Bribri0246	[Ye' tö i kít]	VOICE:MID, PERSON:3_SI	GPT_EX10___	* I #kítne̠
+Bribri0246	[Ye' tö i kít]	VOICE:MID, PERSON:3_SI	GPT_EX20___	* I #kítne̠
+Bribri0246	[Ye' tö i kít]	VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* I #kíne̠
+Bribri0247	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	TARGET_____	Kë̀ i kìte̠
+Bribri0247	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	GPT_EX3____	* Kë̀ i #kítne̠
+Bribri0247	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	GPT_EX5____	* Kë̀ i #kìtne̠
+Bribri0247	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	GPT_EX10___	* Kë̀ i #kìne̠
+Bribri0247	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	GPT_EX20___	* Kë̀ i #kìne̠
+Bribri0247	[Ye' tö i kít]	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* Kë̀ i #kítne̠
+Bribri0334	[Ye' wa̠ sawë́ chka katárule]	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ sawë́ chka katárule
+Bribri0334	[Ye' wa̠ sawë́ chka katárule]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ wa̠ sawë́ chka #katárulene̠
+Bribri0334	[Ye' wa̠ sawë́ chka katárule]	TYPE:NEG	GPT_EX5____	* Ye' kë̀ wa̠ sawë́ chka #katárulene̠
+Bribri0334	[Ye' wa̠ sawë́ chka katárule]	TYPE:NEG	GPT_EX10___	* Ye' kë̀ wa̠ sawë́ chka #katárulene̠
+Bribri0334	[Ye' wa̠ sawë́ chka katárule]	TYPE:NEG	GPT_EX20___	* Ye' kë̀ wa̠ sawë́ chka #katárulene̠
+Bribri0334	[Ye' wa̠ sawë́ chka katárule]	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ wa̠ sawë́ chka #katárulene̠
+Bribri0335	[Ye' wa̠ sawë́ chka katárule]	VOICE:MID, PERSON:NA	TARGET_____	Sawë́ chka katárule
+Bribri0335	[Ye' wa̠ sawë́ chka katárule]	VOICE:MID, PERSON:NA	GPT_EX3____	* Sawë́ chka #katárulene̠
+Bribri0335	[Ye' wa̠ sawë́ chka katárule]	VOICE:MID, PERSON:NA	GPT_EX5____	* Sawë́ chka #katárulene̠
+Bribri0335	[Ye' wa̠ sawë́ chka katárule]	VOICE:MID, PERSON:NA	GPT_EX10___	* Sawë́ chka #katárulene̠
+Bribri0335	[Ye' wa̠ sawë́ chka katárule]	VOICE:MID, PERSON:NA	GPT_EX20___	* Sawë́ chka #katárulne̠
+Bribri0335	[Ye' wa̠ sawë́ chka katárule]	VOICE:MID, PERSON:NA	GPT_EX10BGR	* Sawë́ chka #katárulene̠
+Bribri0359	[Pûs kapë'wa̠]	ABSNUM:PL	TARGET_____	Pûs kapë'ulur
+Bribri0359	[Pûs kapë'wa̠]	ABSNUM:PL	GPT_EX3____	* Pûs #kapë'pa
+Bribri0359	[Pûs kapë'wa̠]	ABSNUM:PL	GPT_EX5____	* Pûs #kapë'lar
+Bribri0359	[Pûs kapë'wa̠]	ABSNUM:PL	GPT_EX10___	* Pûs #kapë'pa
+Bribri0359	[Pûs kapë'wa̠]	ABSNUM:PL	GPT_EX20___	* Pûs #kapë'pa
+Bribri0359	[Pûs kapë'wa̠]	ABSNUM:PL	GPT_EX10BGR	* Pûs #kapë'pa
+Bribri0360	[Pûs kapë'wa̠]	TYPE:NEG	TARGET_____	Pûs kë̀ kapë̀ne̠wa̠
+Bribri0360	[Pûs kapë'wa̠]	TYPE:NEG	GPT_EX3____	* #Kë̀ #pûs #kapë'ne̠
+Bribri0360	[Pûs kapë'wa̠]	TYPE:NEG	GPT_EX5____	* #Kë̀ #pûs #kapë'ne̠
+Bribri0360	[Pûs kapë'wa̠]	TYPE:NEG	GPT_EX10___	* #Kë̀ #pûs #kapë'ne̠
+Bribri0360	[Pûs kapë'wa̠]	TYPE:NEG	GPT_EX20___	* #Kë̀ #pûs #kapë'ne̠
+Bribri0360	[Pûs kapë'wa̠]	TYPE:NEG	GPT_EX10BGR	* Pûs kë̀ #ku̠ #kapë'ne̠
+Bribri0361	[Pûs kapë'wa̠]	TENSE:PRF_REC	TARGET_____	Pûs kapówa̠
+Bribri0361	[Pûs kapë'wa̠]	TENSE:PRF_REC	GPT_EX3____	Pûs kapówa̠
+Bribri0361	[Pûs kapë'wa̠]	TENSE:PRF_REC	GPT_EX5____	Pûs kapówa̠
+Bribri0361	[Pûs kapë'wa̠]	TENSE:PRF_REC	GPT_EX10___	* Pûs #kapéwa̠
+Bribri0361	[Pûs kapë'wa̠]	TENSE:PRF_REC	GPT_EX20___	* Pûs #kapéwa̠
+Bribri0361	[Pûs kapë'wa̠]	TENSE:PRF_REC	GPT_EX10BGR	* Pûs #kapëwé̠
+Bribri0362	[Pûs kapë'wa̠]	TENSE:PRF_REC, ABSNUM:PL	TARGET_____	Pûs kapóulur
+Bribri0362	[Pûs kapë'wa̠]	TENSE:PRF_REC, ABSNUM:PL	GPT_EX3____	* Pûs #kapé'ulur
+Bribri0362	[Pûs kapë'wa̠]	TENSE:PRF_REC, ABSNUM:PL	GPT_EX5____	* Pûs #kapé'ulur
+Bribri0362	[Pûs kapë'wa̠]	TENSE:PRF_REC, ABSNUM:PL	GPT_EX10___	* Pûs #kapé'ulur
+Bribri0362	[Pûs kapë'wa̠]	TENSE:PRF_REC, ABSNUM:PL	GPT_EX20___	* Pûs #kapé'wa̠
+Bribri0362	[Pûs kapë'wa̠]	TENSE:PRF_REC, ABSNUM:PL	GPT_EX10BGR	* Pûs #kapë'ulur
+Bribri0363	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Pûs kapö̀wa̠
+Bribri0363	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Pûs #köpö̀wa̠
+Bribri0363	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Pûs #kapö̀wö
+Bribri0363	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Pûs #kapë'we̠
+Bribri0363	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	Pûs kapö̀wa̠
+Bribri0363	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Pûs #kapë'ö̀wa̠
+Bribri0364	[Pûs kapë'wa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Pûs tso kapö́kwa̠
+Bribri0364	[Pûs kapë'wa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Pûs tso #kapë́k
+Bribri0364	[Pûs kapë'wa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Pûs tso #kapë'kö́k
+Bribri0364	[Pûs kapë'wa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Pûs tso #kapë'wa̠k
+Bribri0364	[Pûs kapë'wa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Pûs tso #kapë'kö́k
+Bribri0364	[Pûs kapë'wa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Pûs tso #kapë'kö́k
+Bribri0365	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Pûs kë̀ ku̠ kapö́kwa̠
+Bribri0365	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Pûs kë̀ ku̠ #kapë́k
+Bribri0365	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Pûs kë̀ ku̠ #kapë́kwa̠
+Bribri0365	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Pûs kë̀ ku̠ #kapë'wö́kwa̠
+Bribri0365	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Pûs kë̀ ku̠ #kapë'wö́kwa̠
+Bribri0365	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Pûs kë̀ ku̠ #kapë'wö́k
+Bribri0366	[Pûs kapë'wa̠]	TENSE:PRF_PROG	TARGET_____	Pûs bák kapö́kwa̠
+Bribri0366	[Pûs kapë'wa̠]	TENSE:PRF_PROG	GPT_EX3____	* Pûs bák #kapë́kwa̠
+Bribri0366	[Pûs kapë'wa̠]	TENSE:PRF_PROG	GPT_EX5____	* Pûs bák #kapë'kö́k
+Bribri0366	[Pûs kapë'wa̠]	TENSE:PRF_PROG	GPT_EX10___	* Pûs bák #kapë'wa̠k
+Bribri0366	[Pûs kapë'wa̠]	TENSE:PRF_PROG	GPT_EX20___	* Pûs bák #kapë'wö́k
+Bribri0366	[Pûs kapë'wa̠]	TENSE:PRF_PROG	GPT_EX10BGR	* Pûs bák #kapë'wa̠k
+Bribri0367	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:PRF_PROG	TARGET_____	Pûs kë̀ ku̠'bak kapö́kwa̠
+Bribri0367	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX3____	* Pûs kë̀ ku̠'bak #kapë́k
+Bribri0367	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX5____	* Pûs kë̀ ku̠'bak #kapë́k
+Bribri0367	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10___	* Pûs kë̀ ku̠'bak #kapë'wö́k
+Bribri0367	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX20___	* Pûs kë̀ ku̠'bak #kapë'wö́k
+Bribri0367	[Pûs kapë'wa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10BGR	* Pûs kë̀ ku̠'bak #kapë'kö́k
+Bribri0368	[Pûs kapë'wa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Pûs kapákwa̠
+Bribri0368	[Pûs kapë'wa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Pûs #kapë'wa̠ku̠
+Bribri0368	[Pûs kapë'wa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Pûs #kapë'wa̠ku̠
+Bribri0368	[Pûs kapë'wa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Pûs #é̠n #a̠ #kapë'wa̠ku̠
+Bribri0368	[Pûs kapë'wa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Pûs #kapë'wa̠ku̠
+Bribri0368	[Pûs kapë'wa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Pûs #é̠n #a̠ #kapë'wa̠ku̠
+Bribri0369	[Pûs kapë'wa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Pûs kapö̀ke̠wa̠
+Bribri0369	[Pûs kapë'wa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Pûs #kapë'kè̠wa̠
+Bribri0369	[Pûs kapë'wa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Pûs #kapë'kè̠wa̠
+Bribri0369	[Pûs kapë'wa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Pûs #kapë'kè̠wa̠
+Bribri0369	[Pûs kapë'wa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Pûs #kapë'we̠ke̠
+Bribri0369	[Pûs kapë'wa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Pûs #kapë'we̠ke̠
+Bribri0370	[Pûs kapë'wa̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	TARGET_____	Ba kapö́wa̠
+Bribri0370	[Pûs kapë'wa̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX3____	* #Bûs #köpö'wa̠
+Bribri0370	[Pûs kapë'wa̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX5____	* #Pûs #köpö'wa̠
+Bribri0370	[Pûs kapë'wa̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10___	* #Pûs kapö́wa̠
+Bribri0370	[Pûs kapë'wa̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX20___	* #Pûs kapö́wa̠
+Bribri0370	[Pûs kapë'wa̠]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	GPT_EX10BGR	* #Bûs kapö́wa̠
+Bribri0371	[Pûs kapë'wa̠]	VOICE:MID, ABSNUM:NI	TARGET_____	Kapë̀ne̠wa̠
+Bribri0371	[Pûs kapë'wa̠]	VOICE:MID, ABSNUM:NI	GPT_EX3____	* #Kapë'wa̠mi
+Bribri0371	[Pûs kapë'wa̠]	VOICE:MID, ABSNUM:NI	GPT_EX5____	* #Kapë'wa̠r
+Bribri0371	[Pûs kapë'wa̠]	VOICE:MID, ABSNUM:NI	GPT_EX10___	* #Kapë'wa̠ #te̠
+Bribri0371	[Pûs kapë'wa̠]	VOICE:MID, ABSNUM:NI	GPT_EX20___	* #Kapë'wa̠ne̠
+Bribri0371	[Pûs kapë'wa̠]	VOICE:MID, ABSNUM:NI	GPT_EX10BGR	* #Kapë'wa̠
+Bribri0372	[Pûs kapë'wa̠]	TYPE:NEG, VOICE:MID, ABSNUM:NI	TARGET_____	Kë̀ kapë̀ne̠wa̠
+Bribri0372	[Pûs kapë'wa̠]	TYPE:NEG, VOICE:MID, ABSNUM:NI	GPT_EX3____	* #Kapë'wa̠ne̠
+Bribri0372	[Pûs kapë'wa̠]	TYPE:NEG, VOICE:MID, ABSNUM:NI	GPT_EX5____	* #Kapë'wa̠ne̠
+Bribri0372	[Pûs kapë'wa̠]	TYPE:NEG, VOICE:MID, ABSNUM:NI	GPT_EX10___	* #Kapë'wa̠ne̠
+Bribri0372	[Pûs kapë'wa̠]	TYPE:NEG, VOICE:MID, ABSNUM:NI	GPT_EX20___	* Kë̀ #kapë'wa̠ne̠
+Bribri0372	[Pûs kapë'wa̠]	TYPE:NEG, VOICE:MID, ABSNUM:NI	GPT_EX10BGR	* #Kapë'ne̠
+Bribri0373	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	TARGET_____	Kapë̀rwa̠
+Bribri0373	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	GPT_EX3____	* #Kapë'wakàrke̠
+Bribri0373	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	GPT_EX5____	* #Kapë'wa̠rke̠
+Bribri0373	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	GPT_EX10___	* #Kapë'wa̠r
+Bribri0373	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	GPT_EX20___	* #Kapë'wa̠r
+Bribri0373	[Pûs kapë'wa̠]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	GPT_EX10BGR	* #Kapë'war
+Bribri0386	[Chìchi dör sarûrû]	ABSNUM:PL	TARGET_____	Chìchi dör sarûrû sarûrû
+Bribri0386	[Chìchi dör sarûrû]	ABSNUM:PL	GPT_EX3____	* Chìchi dör #sarûrpa
+Bribri0386	[Chìchi dör sarûrû]	ABSNUM:PL	GPT_EX5____	* Chìchi dör #sarûrpa
+Bribri0386	[Chìchi dör sarûrû]	ABSNUM:PL	GPT_EX10___	* Chìchi dör #sarûrur
+Bribri0386	[Chìchi dör sarûrû]	ABSNUM:PL	GPT_EX20___	* Chìchi dör #sarûrpa
+Bribri0386	[Chìchi dör sarûrû]	ABSNUM:PL	GPT_EX10BGR	* Chìchi dör #sarûrûpa
+Bribri0387	[Chìchi dör bë̂rie]	ABSNUM:PL	TARGET_____	Chichi dör wî̠wî̠
+Bribri0387	[Chìchi dör bë̂rie]	ABSNUM:PL	GPT_EX3____	* #Chìchi dör #bë̂rien
+Bribri0387	[Chìchi dör bë̂rie]	ABSNUM:PL	GPT_EX5____	* #Chìchi dör #bë̂rien
+Bribri0387	[Chìchi dör bë̂rie]	ABSNUM:PL	GPT_EX10___	* #Chìchi dör #bë̂rien
+Bribri0387	[Chìchi dör bë̂rie]	ABSNUM:PL	GPT_EX20___	* #Chìchi dör #bë̂rien
+Bribri0387	[Chìchi dör bë̂rie]	ABSNUM:PL	GPT_EX10BGR	* #Chìchi dör #bë̂rpa
+Bribri0390	[Ie' stsë' bua']	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ie' stsö̀ bua'
+Bribri0390	[Ie' stsë' bua']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ie' stsö̀ #buö̀
+Bribri0390	[Ie' stsë' bua']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	Ie' stsö̀ bua'
+Bribri0390	[Ie' stsë' bua']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ie' #stsë' #buè
+Bribri0390	[Ie' stsë' bua']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ie' #stsë' #buè
+Bribri0390	[Ie' stsë' bua']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	Ie' stsö̀ bua'
+Bribri0391	[Ie' stsë' bua']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ie' kë̀ stsö bua'
+Bribri0391	[Ie' stsë' bua']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* #Kë̀ #ie' #stsë' #bue
+Bribri0391	[Ie' stsë' bua']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* #Kë̀ #ie' #stsë' #bue
+Bribri0391	[Ie' stsë' bua']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* #Kë̀ #ie' #stsë' #bue
+Bribri0391	[Ie' stsë' bua']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* #Kë̀ #ie' #stsë' #bue
+Bribri0391	[Ie' stsë' bua']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* #Kë̀ #ie' #stsë' #bue
+Bribri0395	[Ye' tö i kö́twa̠]	ABSNUM:PL	TARGET_____	Ye' tö i kö́tulur
+Bribri0395	[Ye' tö i kö́twa̠]	ABSNUM:PL	GPT_EX3____	Ye' tö i kö́tulur
+Bribri0395	[Ye' tö i kö́twa̠]	ABSNUM:PL	GPT_EX5____	Ye' tö i kö́tulur
+Bribri0395	[Ye' tö i kö́twa̠]	ABSNUM:PL	GPT_EX10___	Ye' tö i kö́tulur
+Bribri0395	[Ye' tö i kö́twa̠]	ABSNUM:PL	GPT_EX20___	Ye' tö i kö́tulur
+Bribri0395	[Ye' tö i kö́twa̠]	ABSNUM:PL	GPT_EX10BGR	Ye' tö i kö́tulur
+Bribri0396	[Ye' tö i kö́twa̠]	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ i kö̀te̠wa̠
+Bribri0396	[Ye' tö i kö́twa̠]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ wa̠ i #kö́twe̠
+Bribri0396	[Ye' tö i kö́twa̠]	TYPE:NEG	GPT_EX5____	* Ye' kë̀ wa̠ i #kö̀twa̠ne̠
+Bribri0396	[Ye' tö i kö́twa̠]	TYPE:NEG	GPT_EX10___	* Ye' kë̀ wa̠ i #kö́tne̠wa̠
+Bribri0396	[Ye' tö i kö́twa̠]	TYPE:NEG	GPT_EX20___	* Ye' kë̀ wa̠ i #kö́tne̠wa̠
+Bribri0396	[Ye' tö i kö́twa̠]	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ wa̠ i #kö́tne̠wa̠
+Bribri0397	[Ye' tö i kö́twa̠]	TENSE:PRF_REC	TARGET_____	Ye' tö i ujtéwa̠
+Bribri0397	[Ye' tö i kö́twa̠]	TENSE:PRF_REC	GPT_EX3____	* Ye' tö i #kuétwa̠
+Bribri0397	[Ye' tö i kö́twa̠]	TENSE:PRF_REC	GPT_EX5____	* Ye' tö i #kuétwa̠
+Bribri0397	[Ye' tö i kö́twa̠]	TENSE:PRF_REC	GPT_EX10___	* Ye' tö i #kué̠twa̠
+Bribri0397	[Ye' tö i kö́twa̠]	TENSE:PRF_REC	GPT_EX20___	* Ye' tö i #kué̠twa̠
+Bribri0397	[Ye' tö i kö́twa̠]	TENSE:PRF_REC	GPT_EX10BGR	* Ye' tö i #kué̠twa̠
+Bribri0398	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_REC	TARGET_____	Ye' kë̀ wa̠ i kö̀te̠wa̠
+Bribri0398	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX3____	* Ye' kë̀ wa̠ i #kö́twa̠ne̠
+Bribri0398	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX5____	* Ye' kë̀ wa̠ i #kö́twa̠ne̠
+Bribri0398	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX10___	* Ye' kë̀ wa̠ i #kö́twàne̠
+Bribri0398	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX20___	* Ye' kë̀ wa̠ i #kö́twàne̠
+Bribri0398	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_REC	GPT_EX10BGR	* Ye' kë̀ wa̠ i #kö́twàne̠
+Bribri0399	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' tö i ujtèwa̠
+Bribri0399	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' tö i #kotwè̠
+Bribri0399	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' tö i #ku̠twè̠
+Bribri0399	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' tö i #kö̀twè̠
+Bribri0399	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' tö i #kö́twè̠
+Bribri0399	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö i #kö̀twö̠
+Bribri0400	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	TARGET_____	Ye' tö i ujtèulur
+Bribri0400	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	GPT_EX3____	* #I #kö́twa̠
+Bribri0400	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	GPT_EX5____	* Ye' tö i #kö́twë̠
+Bribri0400	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	GPT_EX10___	* Ye' tö i #kö́twa̠kwe
+Bribri0400	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	GPT_EX20___	* Ye' tö i #kö́twe̠
+Bribri0400	[Ye' tö i kö́twa̠]	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	GPT_EX10BGR	* Ye' tö i #kö́twa̠pa
+Bribri0401	[Ye' tö i kö́twa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' tso i ujtö́kwa̠
+Bribri0401	[Ye' tö i kö́twa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' tso i #kö́twö̠k
+Bribri0401	[Ye' tö i kö́twa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' tso i #ku̠twa̠k
+Bribri0401	[Ye' tö i kö́twa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' tso i #kötwö́kwa̠
+Bribri0401	[Ye' tö i kö́twa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' tso i #kö́twö́k
+Bribri0401	[Ye' tö i kö́twa̠]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' tso i #kötwö́kwa̠
+Bribri0402	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' kë̀ ku̠ i ujtö́kwa̠
+Bribri0402	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' kë̀ ku̠ i #kötwö́k
+Bribri0402	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' kë̀ ku̠ i #kötwö́kwa̠
+Bribri0402	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' kë̀ ku̠ i #kötwö́kwa̠
+Bribri0402	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' kë̀ ku̠ i #kötwö́kwa̠
+Bribri0402	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' kë̀ ku̠ i #kö́twö̠k
+Bribri0403	[Ye' tö i kö́twa̠]	TENSE:PRF_PROG	TARGET_____	Ye' bák i ujtö́kwa̠
+Bribri0403	[Ye' tö i kö́twa̠]	TENSE:PRF_PROG	GPT_EX3____	* Ye' bák i #kuö́twa̠k
+Bribri0403	[Ye' tö i kö́twa̠]	TENSE:PRF_PROG	GPT_EX5____	* Ye' bák i #kö́twö́kwa̠
+Bribri0403	[Ye' tö i kö́twa̠]	TENSE:PRF_PROG	GPT_EX10___	* Ye' bák i #kö́twö́k
+Bribri0403	[Ye' tö i kö́twa̠]	TENSE:PRF_PROG	GPT_EX20___	* Ye' bák i #kö́twö́k
+Bribri0403	[Ye' tö i kö́twa̠]	TENSE:PRF_PROG	GPT_EX10BGR	* Ye' bák i #kö́twö́kwa̠
+Bribri0404	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_PROG	TARGET_____	Ye' kë̀ ku̠'bak i ujtö́kwa̠
+Bribri0404	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX3____	* Ye' kë̀ ku̠'bak i #kötwö́k
+Bribri0404	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX5____	* Ye' kë̀ ku̠'bak i #kö́twö̠k
+Bribri0404	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10___	* Ye' kë̀ ku̠'bak i #kötwö́k
+Bribri0404	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX20___	* Ye' kë̀ ku̠'bak i #kö́twö̠k
+Bribri0404	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10BGR	* Ye' kë̀ ku̠'bak i #kö́twö̠k
+Bribri0405	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	Kë̀ i ujtök
+Bribri0405	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* Kë̀ i #kö́twa̠ #tök
+Bribri0405	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* Kë̀ i #kö́twauk
+Bribri0405	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* Kë̀ i #kö́twa̠k
+Bribri0405	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* Kë̀ i #kö́twa̠k
+Bribri0405	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* Kë̀ i #kö́twa̠k
+Bribri0406	[Ye' tö i kö́twa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' é̠n a̠ i ujta'kwa̠
+Bribri0406	[Ye' tö i kö́twa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' é̠n a̠ i #kua'ku̠
+Bribri0406	[Ye' tö i kö́twa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' é̠n a̠ i #kö́twa̠'ku̠
+Bribri0406	[Ye' tö i kö́twa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' é̠n a̠ i #kö́twa̠ku̠
+Bribri0406	[Ye' tö i kö́twa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' é̠n a̠ i #kö́twa̠'ku̠
+Bribri0406	[Ye' tö i kö́twa̠]	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' é̠n a̠ i #kö́twa̠ku̠
+Bribri0407	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Kë̀ ye' é̠n a̠ i ujta'kwa̠
+Bribri0407	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' é̠n a̠ i #ta̠'ku̠ #kö́twa̠
+Bribri0407	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' é̠n a̠ i #kö́twa̠'ku̠
+Bribri0407	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' é̠n a̠ i #kö́twa̠ku̠
+Bribri0407	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' é̠n a̠ i #kö́twa̠ku̠
+Bribri0407	[Ye' tö i kö́twa̠]	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' é̠n a̠ i #kö́twa̠'ku̠
+Bribri0408	[Ye' tö i kö́twa̠]	MODE:ADVERS	TARGET_____	Ye' tö i ujta'wa̠
+Bribri0408	[Ye' tö i kö́twa̠]	MODE:ADVERS	GPT_EX3____	* Ye' #wa̠ i #kua'
+Bribri0408	[Ye' tö i kö́twa̠]	MODE:ADVERS	GPT_EX5____	* Ye' #wa̠ i #kua'
+Bribri0408	[Ye' tö i kö́twa̠]	MODE:ADVERS	GPT_EX10___	* Ye' #wa̠ i #kua̠twa̠
+Bribri0408	[Ye' tö i kö́twa̠]	MODE:ADVERS	GPT_EX20___	* Ye' #wa̠ i #kua'
+Bribri0408	[Ye' tö i kö́twa̠]	MODE:ADVERS	GPT_EX10BGR	* Ye' #wa̠ i #kua̠wa̠
+Bribri0409	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Ye' tö i ujtèke̠wa̠
+Bribri0409	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Ye' tö i #kö́twèke̠
+Bribri0409	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Ye' tö i #kö́twè̠ke̠
+Bribri0409	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Ye' tö i #kö́twè̠ke̠
+Bribri0409	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Ye' tö i #kö́twè̠ke̠
+Bribri0409	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö i #kö́twè̠ke̠
+Bribri0410	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	TARGET_____	Ye' tö i ujtèkè̠ulur
+Bribri0410	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	GPT_EX3____	* Ye' tö i #kö́twake̠
+Bribri0410	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	GPT_EX5____	* Ye' tö i #kö́twàke̠
+Bribri0410	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	GPT_EX10___	* Ye' tö i #kö́twa̠ke̠
+Bribri0410	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	GPT_EX20___	* Ye' tö i #kö́twö̀ke̠
+Bribri0410	[Ye' tö i kö́twa̠]	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	GPT_EX10BGR	* Ye' tö i #kö́twa̠ke̠pa
+Bribri0411	[Ye' tö i kö́twa̠]	TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Ye' tö i ujtèwa̠râ
+Bribri0411	[Ye' tö i kö́twa̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Ye' tö i #kuèrâ
+Bribri0411	[Ye' tö i kö́twa̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Ye' tö i #kuèrâwa̠
+Bribri0411	[Ye' tö i kö́twa̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Ye' tö i #kö́twèrâ
+Bribri0411	[Ye' tö i kö́twa̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Ye' tö i #kö́twèrâ
+Bribri0411	[Ye' tö i kö́twa̠]	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö i #kö́twèrâ
+Bribri0412	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Kë̀ ye' tö i ujtèpawa̠
+Bribri0412	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' tö i #ku̠twa̠pa
+Bribri0412	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' tö i #kö́twö̀pa̠
+Bribri0412	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' tö i #kö́twè̠pa
+Bribri0412	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' tö i #kö́twa̠pa
+Bribri0412	[Ye' tö i kö́twa̠]	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' tö i #kö́twö̀pawa̠
+Bribri0413	[Ye' tö i kö́twa̠]	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' a̠ i dawö
+Bribri0413	[Ye' tö i kö́twa̠]	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' a̠ i #kö́twa̠r
+Bribri0413	[Ye' tö i kö́twa̠]	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' a̠ i #kö́twár
+Bribri0413	[Ye' tö i kö́twa̠]	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' a̠ i #kö́twè
+Bribri0413	[Ye' tö i kö́twa̠]	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' a̠ i #kö́twa̠r
+Bribri0413	[Ye' tö i kö́twa̠]	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' a̠ i #kö́twè̠
+Bribri0414	[Ye' tö i kö́twa̠]	VOICE:MID, PERSON:3_SI	TARGET_____	I kö̀te̠wa̠
+Bribri0414	[Ye' tö i kö́twa̠]	VOICE:MID, PERSON:3_SI	GPT_EX3____	* I #kö́ne̠
+Bribri0414	[Ye' tö i kö́twa̠]	VOICE:MID, PERSON:3_SI	GPT_EX5____	* I #kö́ne̠
+Bribri0414	[Ye' tö i kö́twa̠]	VOICE:MID, PERSON:3_SI	GPT_EX10___	* I #kö́twa̠ne̠
+Bribri0414	[Ye' tö i kö́twa̠]	VOICE:MID, PERSON:3_SI	GPT_EX20___	* I #kö́twa̠ne̠
+Bribri0414	[Ye' tö i kö́twa̠]	VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* I #kö́tne̠
+Bribri0415	[Ye' tö i kö́twa̠]	TYPE:NEG, VOICE:MID, PERSON:3_SI	TARGET_____	Kë̀ i kö̀te̠wa̠
+Bribri0415	[Ye' tö i kö́twa̠]	TYPE:NEG, VOICE:MID, PERSON:3_SI	GPT_EX3____	* #Ie' #kë̀ #ku̠ i #kö́twa̠k
+Bribri0415	[Ye' tö i kö́twa̠]	TYPE:NEG, VOICE:MID, PERSON:3_SI	GPT_EX5____	* #Ie' #kë̀ #ku̠ i #kö́ne̠
+Bribri0415	[Ye' tö i kö́twa̠]	TYPE:NEG, VOICE:MID, PERSON:3_SI	GPT_EX10___	* #Ie' #kë̀ i #kö́tne̠
+Bribri0415	[Ye' tö i kö́twa̠]	TYPE:NEG, VOICE:MID, PERSON:3_SI	GPT_EX20___	* #Ie' #kë̀ #ku̠ i #kö́tne̠
+Bribri0415	[Ye' tö i kö́twa̠]	TYPE:NEG, VOICE:MID, PERSON:3_SI	GPT_EX10BGR	* #Ie' #kë̀ #ku̠ i #kö́tne̠
+Bribri0641	[Ye' tö dawà su']	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0641	[Ye' tö dawà su']	TYPE:NEG	GPT_EX3____	* Ye' kë̀ wa̠ dawà #sùne̠
+Bribri0641	[Ye' tö dawà su']	TYPE:NEG	GPT_EX5____	* Ye' kë̀ wa̠ dawà #sùne̠
+Bribri0641	[Ye' tö dawà su']	TYPE:NEG	GPT_EX10___	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0641	[Ye' tö dawà su']	TYPE:NEG	GPT_EX20___	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0641	[Ye' tö dawà su']	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ wa̠ dawà #sùne̠
+Bribri0642	[Ye' tö dawà su']	ASPECT:INC	TARGET_____	Ye' tö dawà su'mi̠
+Bribri0642	[Ye' tö dawà su']	ASPECT:INC	GPT_EX3____	Ye' tö dawà su'mi̠
+Bribri0642	[Ye' tö dawà su']	ASPECT:INC	GPT_EX5____	Ye' tö dawà su'mi̠
+Bribri0642	[Ye' tö dawà su']	ASPECT:INC	GPT_EX10___	Ye' tö dawà su'mi̠
+Bribri0642	[Ye' tö dawà su']	ASPECT:INC	GPT_EX20___	Ye' tö dawà su'mi̠
+Bribri0642	[Ye' tö dawà su']	ASPECT:INC	GPT_EX10BGR	Ye' tö dawà su'mi̠
+Bribri0643	[Ye' tö dawà su']	TENSE:PRF_REC	TARGET_____	Ye' tö dawà sawé
+Bribri0643	[Ye' tö dawà su']	TENSE:PRF_REC	GPT_EX3____	* Ye' tö dawà #sé
+Bribri0643	[Ye' tö dawà su']	TENSE:PRF_REC	GPT_EX5____	* Ye' tö dawà #sé
+Bribri0643	[Ye' tö dawà su']	TENSE:PRF_REC	GPT_EX10___	* Ye' tö dawà #sé
+Bribri0643	[Ye' tö dawà su']	TENSE:PRF_REC	GPT_EX20___	* Ye' tö dawà #sé
+Bribri0643	[Ye' tö dawà su']	TENSE:PRF_REC	GPT_EX10BGR	* Ye' tö dawà #sé
+Bribri0644	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC	TARGET_____	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0644	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC	GPT_EX3____	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0644	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC	GPT_EX5____	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0644	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC	GPT_EX10___	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0644	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC	GPT_EX20___	* Ye' kë̀ wa̠ dawà #súne̠
+Bribri0644	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC	GPT_EX10BGR	Ye' kë̀ wa̠ dawà sùne̠
+Bribri0645	[Ye' tö dawà su']	TENSE:PRF_REC, ASPECT:INC	TARGET_____	Ye' tö dawà sawémi̠
+Bribri0645	[Ye' tö dawà su']	TENSE:PRF_REC, ASPECT:INC	GPT_EX3____	* Ye' tö dawà #suémi̠
+Bribri0645	[Ye' tö dawà su']	TENSE:PRF_REC, ASPECT:INC	GPT_EX5____	* Ye' tö dawà #suémi̠
+Bribri0645	[Ye' tö dawà su']	TENSE:PRF_REC, ASPECT:INC	GPT_EX10___	* Ye' tö dawà #suémi̠
+Bribri0645	[Ye' tö dawà su']	TENSE:PRF_REC, ASPECT:INC	GPT_EX20___	* Ye' tö dawà #suémi̠
+Bribri0645	[Ye' tö dawà su']	TENSE:PRF_REC, ASPECT:INC	GPT_EX10BGR	* Ye' tö dawà #suémi̠
+Bribri0646	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' tö dawà sawè
+Bribri0646	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' tö dawà #sè
+Bribri0646	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' tö dawà #suè
+Bribri0646	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' tö dawà #suè
+Bribri0646	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' tö dawà #suè
+Bribri0646	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö dawà #suè
+Bribri0647	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Kë̀ ye' tö dawà sawe
+Bribri0647	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' tö dawà #se
+Bribri0647	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' tö dawà #sue
+Bribri0647	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' tö dawà #se
+Bribri0647	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' tö dawà #se
+Bribri0647	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' tö dawà #sue
+Bribri0648	[Ye' tö dawà su']	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' tso dawà sawö́k
+Bribri0648	[Ye' tö dawà su']	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' tso dawà #tö́k
+Bribri0648	[Ye' tö dawà su']	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' tso dawà #sukú̠k
+Bribri0648	[Ye' tö dawà su']	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' tso #dawö́k #su'
+Bribri0648	[Ye' tö dawà su']	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' tso #dawö́k #su'
+Bribri0648	[Ye' tö dawà su']	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' tso #dawö́k #su'
+Bribri0649	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' kë̀ ku̠ dawà sawö́k
+Bribri0649	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' kë̀ ku̠ dawà #tö́k
+Bribri0649	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' kë̀ ku̠ dawà #tö́k
+Bribri0649	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' kë̀ ku̠ #dawö́k #su'
+Bribri0649	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' kë̀ ku̠ #dawö́k #su'
+Bribri0649	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' kë̀ ku̠ #dawö́k #su'
+Bribri0650	[Ye' tö dawà su']	TENSE:PRF_PROG	TARGET_____	Ye' bák dawà sawö́k
+Bribri0650	[Ye' tö dawà su']	TENSE:PRF_PROG	GPT_EX3____	* Ye' bák dawà #tö́k
+Bribri0650	[Ye' tö dawà su']	TENSE:PRF_PROG	GPT_EX5____	* Ye' bák dawà #suö́k
+Bribri0650	[Ye' tö dawà su']	TENSE:PRF_PROG	GPT_EX10___	* Ye' bák dawà #suö́k
+Bribri0650	[Ye' tö dawà su']	TENSE:PRF_PROG	GPT_EX20___	* Ye' bák dawà #suö́k
+Bribri0650	[Ye' tö dawà su']	TENSE:PRF_PROG	GPT_EX10BGR	* Ye' bák dawà #suö́k
+Bribri0651	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_PROG	TARGET_____	Ye' kë̀ ku̠'bak dawà sawö́k
+Bribri0651	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_PROG	GPT_EX3____	* Ye' kë̀ ku̠'bak dawà #tö́k #su'
+Bribri0651	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_PROG	GPT_EX5____	* Ye' kë̀ ku̠'bak dawà #tö́k #su'
+Bribri0651	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10___	* Ye' kë̀ ku̠'bak #dawö́k #su'
+Bribri0651	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_PROG	GPT_EX20___	* Ye' kë̀ ku̠'bak dawà #suö́k
+Bribri0651	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10BGR	* Ye' kë̀ ku̠'bak dawà #suö́k
+Bribri0652	[Ye' tö dawà su']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	Dawà sawö́
+Bribri0652	[Ye' tö dawà su']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* #Dawá #su'
+Bribri0652	[Ye' tö dawà su']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* #Dawá #sú
+Bribri0652	[Ye' tö dawà su']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* #Dawá #sú̠
+Bribri0652	[Ye' tö dawà su']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* #Dawá #sú
+Bribri0652	[Ye' tö dawà su']	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* #Dawá #sú̠
+Bribri0653	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	Kë̀ dawà sawök
+Bribri0653	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* Kë̀ dawà #tök
+Bribri0653	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* Kë̀ dawà #tök
+Bribri0653	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* Kë̀ dawà #suök
+Bribri0653	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* Kë̀ dawà #suök
+Bribri0653	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* Kë̀ dawà #tuök
+Bribri0654	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sawar
+Bribri0654	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	* Kë̀ dawà #suar
+Bribri0654	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	* Kë̀ dawà #sur
+Bribri0654	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	* Kë̀ dawà #suar
+Bribri0654	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	* Kë̀ dawà #suar
+Bribri0654	[Ye' tö dawà su']	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	* Kë̀ dawà #sur
+Bribri0655	[Ye' tö dawà su']	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	TARGET_____	Dawà sawö̀ sö
+Bribri0655	[Ye' tö dawà su']	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX3____	* Dawà #tö̀ sö
+Bribri0655	[Ye' tö dawà su']	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX5____	* Dawà #tuö̀ sö
+Bribri0655	[Ye' tö dawà su']	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX10___	* Dawà #suö̀ sö
+Bribri0655	[Ye' tö dawà su']	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX20___	* Dawà #suö̀ sö
+Bribri0655	[Ye' tö dawà su']	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	GPT_EX10BGR	* Dawà #suö̀ sö
+Bribri0656	[Ye' tö dawà su']	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' é̠n a̠ dawà sawa'ku̠
+Bribri0656	[Ye' tö dawà su']	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Ye' é̠n a̠ dawà #sa'ku̠
+Bribri0656	[Ye' tö dawà su']	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Ye' é̠n a̠ dawà #sua'ku̠
+Bribri0656	[Ye' tö dawà su']	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Ye' é̠n a̠ dawà #sua'ku̠
+Bribri0656	[Ye' tö dawà su']	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Ye' é̠n a̠ dawà #sua'ku̠
+Bribri0656	[Ye' tö dawà su']	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Ye' é̠n a̠ dawà #su'ku̠
+Bribri0657	[Ye' tö dawà su']	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Kë̀ ye' é̠n a̠ dawà sawa'ku̠
+Bribri0657	[Ye' tö dawà su']	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' é̠n a̠ dawà #su̠ku̠
+Bribri0657	[Ye' tö dawà su']	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' é̠n a̠ dawà #sua'ku̠
+Bribri0657	[Ye' tö dawà su']	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' é̠n a̠ dawà #su'ku̠
+Bribri0657	[Ye' tö dawà su']	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' é̠n a̠ dawà #su'ku̠
+Bribri0657	[Ye' tö dawà su']	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' é̠n a̠ dawà #su'ku̠
+Bribri0658	[Ye' tö dawà su']	MODE:ADVERS	TARGET_____	Ye' wa̠ dawà sawa'
+Bribri0658	[Ye' tö dawà su']	MODE:ADVERS	GPT_EX3____	* Ye' wa̠ dawà #sa'
+Bribri0658	[Ye' tö dawà su']	MODE:ADVERS	GPT_EX5____	* Ye' wa̠ dawà #sa'
+Bribri0658	[Ye' tö dawà su']	MODE:ADVERS	GPT_EX10___	* Ye' wa̠ dawà #sa'
+Bribri0658	[Ye' tö dawà su']	MODE:ADVERS	GPT_EX20___	* Ye' wa̠ dawà #sa'
+Bribri0658	[Ye' tö dawà su']	MODE:ADVERS	GPT_EX10BGR	* Ye' wa̠ dawà #sa'
+Bribri0659	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Ye' tö dawà sawèke̠
+Bribri0659	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Ye' tö dawà #sèke̠
+Bribri0659	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Ye' tö dawà #suèke̠
+Bribri0659	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Ye' tö dawà #suèke̠
+Bribri0659	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Ye' tö dawà #suèke̠
+Bribri0659	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö dawà #suèke̠
+Bribri0660	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Kë̀ ye' tö dawà sawèku̠
+Bribri0660	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' tö dawà #suèku̠
+Bribri0660	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' tö dawà #suèku̠
+Bribri0660	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' tö dawà #suèku̠
+Bribri0660	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' tö dawà #suèku̠
+Bribri0660	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' tö dawà #suèku̠
+Bribri0661	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV	TARGET_____	Ye' tö dawà sawèmi̠
+Bribri0661	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX3____	* Ye' tö dawà #suèmi̠
+Bribri0661	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX5____	* Ye' tö dawà #suèmi̠
+Bribri0661	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10___	* Ye' tö dawà #suèmi̠
+Bribri0661	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX20___	* Ye' tö dawà #suèmi̠
+Bribri0661	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö dawà #suèmi̠
+Bribri0662	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	TARGET_____	Kë̀ ye' tö dawà sawök
+Bribri0662	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' tö dawà #tuk
+Bribri0662	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' tö dawà #suök
+Bribri0662	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' tö dawà #suök
+Bribri0662	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' tö dawà #suök
+Bribri0662	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' tö dawà #suök
+Bribri0663	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Ye' tö dawà sawèrâ
+Bribri0663	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Ye' tö dawà #suèrâ
+Bribri0663	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Ye' tö dawà #suèrâ
+Bribri0663	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Ye' tö dawà #suèrâ
+Bribri0663	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Ye' tö dawà #suèrâ
+Bribri0663	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö dawà #suèrâ
+Bribri0664	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	TARGET_____	Kë̀ ye' tö dawà sawèpa
+Bribri0664	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' tö dawà #suèpa
+Bribri0664	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX5____	* Kë̀ ye' tö dawà #suèpa
+Bribri0664	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10___	* Kë̀ ye' tö dawà #suèpa
+Bribri0664	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' tö dawà #suèpa
+Bribri0664	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' tö dawà #suèpa
+Bribri0665	[Ye' tö dawà su']	VOICE:MID, PERSON:NA	TARGET_____	Dawà sùne̠
+Bribri0665	[Ye' tö dawà su']	VOICE:MID, PERSON:NA	GPT_EX3____	Dawà sùne̠
+Bribri0665	[Ye' tö dawà su']	VOICE:MID, PERSON:NA	GPT_EX5____	Dawà sùne̠
+Bribri0665	[Ye' tö dawà su']	VOICE:MID, PERSON:NA	GPT_EX10___	Dawà sùne̠
+Bribri0665	[Ye' tö dawà su']	VOICE:MID, PERSON:NA	GPT_EX20___	Dawà sùne̠
+Bribri0665	[Ye' tö dawà su']	VOICE:MID, PERSON:NA	GPT_EX10BGR	Dawà sùne̠
+Bribri0666	[Ye' tö dawà su']	TYPE:NEG, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sùne̠
+Bribri0666	[Ye' tö dawà su']	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ dawà sùne̠
+Bribri0666	[Ye' tö dawà su']	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ dawà sùne̠
+Bribri0666	[Ye' tö dawà su']	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX10___	Kë̀ dawà sùne̠
+Bribri0666	[Ye' tö dawà su']	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX20___	Kë̀ dawà sùne̠
+Bribri0666	[Ye' tö dawà su']	TYPE:NEG, VOICE:MID, PERSON:NA	GPT_EX10BGR	Kë̀ dawà sùne̠
+Bribri0667	[Ye' tö dawà su']	TENSE:PRF_REC, VOICE:MID, PERSON:NA	TARGET_____	Dawà sùna̠
+Bribri0667	[Ye' tö dawà su']	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX3____	Dawà sùna̠
+Bribri0667	[Ye' tö dawà su']	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX5____	Dawà sùna̠
+Bribri0667	[Ye' tö dawà su']	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10___	Dawà sùna̠
+Bribri0667	[Ye' tö dawà su']	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX20___	Dawà sùna̠
+Bribri0667	[Ye' tö dawà su']	TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10BGR	Dawà sùna̠
+Bribri0668	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sùne̠
+Bribri0668	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ dawà sùne̠
+Bribri0668	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ dawà sùne̠
+Bribri0668	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10___	Kë̀ dawà sùne̠
+Bribri0668	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX20___	* Kë̀ dawà #sùne̠
+Bribri0668	[Ye' tö dawà su']	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	GPT_EX10BGR	Kë̀ dawà sùne̠
+Bribri0669	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Dawà sùr
+Bribri0669	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	* Dawà #sûr
+Bribri0669	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	* Dawà #sûr
+Bribri0669	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	* Dawà #sûr
+Bribri0669	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	* Dawà #súr
+Bribri0669	[Ye' tö dawà su']	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Dawà sùr
+Bribri0670	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sur
+Bribri0670	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ dawà sur
+Bribri0670	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ dawà sur
+Bribri0670	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Kë̀ dawà sur
+Bribri0670	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	Kë̀ dawà sur
+Bribri0670	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Kë̀ dawà sur
+Bribri0671	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Dawà sùrke̠
+Bribri0671	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Dawà sùrke̠
+Bribri0671	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Dawà sùrke̠
+Bribri0671	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Dawà sùrke̠
+Bribri0671	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	Dawà sùrke̠
+Bribri0671	[Ye' tö dawà su']	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Dawà sùrke̠
+Bribri0672	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sùrku̠
+Bribri0672	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ dawà sùrku̠
+Bribri0672	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ dawà sùrku̠
+Bribri0672	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Kë̀ dawà sùrku̠
+Bribri0672	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	* Kë̀ dawà #sùrku̠
+Bribri0672	[Ye' tö dawà su']	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Kë̀ dawà sùrku̠
+Bribri0673	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Dawà sùrmi̠
+Bribri0673	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Dawà sùrmi̠
+Bribri0673	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Dawà sùrmi̠
+Bribri0673	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Dawà sùrmi̠
+Bribri0673	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	Dawà sùrmi̠
+Bribri0673	[Ye' tö dawà su']	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Dawà sùrmi̠
+Bribri0674	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sùnu̠k
+Bribri0674	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ dawà sùnu̠k
+Bribri0674	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ dawà sùnu̠k
+Bribri0674	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Kë̀ dawà sùnu̠k
+Bribri0674	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	* Kë̀ dawà #sùnu̠k
+Bribri0674	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	* Kë̀ dawà #sunu̠k
+Bribri0675	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Dawà sùrdâ
+Bribri0675	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Dawà sùrdâ
+Bribri0675	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	* Dawà #surdâ
+Bribri0675	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	Dawà sùrdâ
+Bribri0675	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	Dawà sùrdâ
+Bribri0675	[Ye' tö dawà su']	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	Dawà sùrdâ
+Bribri0676	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	TARGET_____	Kë̀ dawà sùrpa
+Bribri0676	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX3____	Kë̀ dawà sùrpa
+Bribri0676	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX5____	Kë̀ dawà sùrpa
+Bribri0676	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10___	* Kë̀ dawà #surpa
+Bribri0676	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX20___	* Kë̀ dawà #sùrpa
+Bribri0676	[Ye' tö dawà su']	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	GPT_EX10BGR	* Kë̀ dawà #surpa
+Bribri0677	[Ye' tö dawà su']	TENSE:PAS_PLU	TARGET_____	Ye' wa̠ dawà súrule
+Bribri0677	[Ye' tö dawà su']	TENSE:PAS_PLU	GPT_EX3____	Ye' wa̠ dawà súrule
+Bribri0677	[Ye' tö dawà su']	TENSE:PAS_PLU	GPT_EX5____	Ye' wa̠ dawà súrule
+Bribri0677	[Ye' tö dawà su']	TENSE:PAS_PLU	GPT_EX10___	Ye' wa̠ dawà súrule
+Bribri0677	[Ye' tö dawà su']	TENSE:PAS_PLU	GPT_EX20___	Ye' wa̠ dawà súrule
+Bribri0677	[Ye' tö dawà su']	TENSE:PAS_PLU	GPT_EX10BGR	Ye' wa̠ dawà súrule
+Bribri0678	[Ye' tö dawà su']	TYPE:NEG, TENSE:PAS_PLU	TARGET_____	Ye' kë̀ wa̠ dawà súrule
+Bribri0678	[Ye' tö dawà su']	TYPE:NEG, TENSE:PAS_PLU	GPT_EX3____	Ye' kë̀ wa̠ dawà súrule
+Bribri0678	[Ye' tö dawà su']	TYPE:NEG, TENSE:PAS_PLU	GPT_EX5____	Ye' kë̀ wa̠ dawà súrule
+Bribri0678	[Ye' tö dawà su']	TYPE:NEG, TENSE:PAS_PLU	GPT_EX10___	Ye' kë̀ wa̠ dawà súrule
+Bribri0678	[Ye' tö dawà su']	TYPE:NEG, TENSE:PAS_PLU	GPT_EX20___	Ye' kë̀ wa̠ dawà súrule
+Bribri0678	[Ye' tö dawà su']	TYPE:NEG, TENSE:PAS_PLU	GPT_EX10BGR	Ye' kë̀ wa̠ dawà súrule
+Bribri0679	[Ye' tö dawà su']	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye' a̠ dawà súr
+Bribri0679	[Ye' tö dawà su']	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	Ye' a̠ dawà súr
+Bribri0679	[Ye' tö dawà su']	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	Ye' a̠ dawà súr
+Bribri0679	[Ye' tö dawà su']	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	Ye' a̠ dawà súr
+Bribri0679	[Ye' tö dawà su']	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	Ye' a̠ dawà súr
+Bribri0679	[Ye' tö dawà su']	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	Ye' a̠ dawà súr
+Bribri0680	[Ye' tö dawà su']	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Kë̀ ye' a̠ dawà súr
+Bribri0680	[Ye' tö dawà su']	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* Kë̀ ye' a̠ dawà #súr
+Bribri0680	[Ye' tö dawà su']	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	Kë̀ ye' a̠ dawà súr
+Bribri0680	[Ye' tö dawà su']	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	Kë̀ ye' a̠ dawà súr
+Bribri0680	[Ye' tö dawà su']	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* Kë̀ ye' a̠ dawà #sur
+Bribri0680	[Ye' tö dawà su']	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* Kë̀ ye' a̠ dawà #sur
+Bribri0862	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG	TARGET_____	Ye' diö́köl kë̀ ku̠ bàtsul ako̠' a̠'mi̠k
+Bribri0862	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ #wa̠ bàtsul ako̠' #a̠'mi̠ne̠
+Bribri0862	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG	GPT_EX5____	* Ye' kë̀ #wa̠ diö́köl bàtsul ako̠' #a̠'mi̠ne̠k
+Bribri0862	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG	GPT_EX10___	* Ye' kë̀ #wa̠ diö́köl bàtsul ako̠' #a̠'mìne̠k
+Bribri0862	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG	GPT_EX20___	* Ye' kë̀ #wa̠ diö́köl bàtsul ako̠' #a̠'mìne̠k
+Bribri0862	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG	GPT_EX10BGR	* Ye' kë̀ #wa̠ diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0863	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV	TARGET_____	Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k
+Bribri0863	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX3____	* Ye' bák diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0863	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX5____	* Ye' bák diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0863	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX10___	* Ye' bák diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0863	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX20___	* Ye' bák diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0863	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX10BGR	* Ye' bák diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0864	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	TARGET_____	Ye' diö́köl kë̀ ku̠'bak bàtsul ako̠' a̠'mi̠k
+Bribri0864	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX3____	* Ye' kë̀ ku̠'bak diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0864	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX5____	* Ye' kë̀ ku̠'bak diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0864	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX10___	* Ye' kë̀ ku̠'bak diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0864	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX20___	* Ye' kë̀ #wa̠ diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0864	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	GPT_EX10BGR	* Ye' kë̀ #bák diö́köl bàtsul ako̠' a̠'mi̠k
+Bribri0865	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	ABSNUM:PL	TARGET_____	Ye' diö́köl bàtsulur ako̠' a̠'mi̠k
+Bribri0865	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	ABSNUM:PL	GPT_EX3____	* Ye' diö́köl #bàtsul ako̠' #a̠'pa̠k
+Bribri0865	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	ABSNUM:PL	GPT_EX5____	* Ye' diö́köl #bàtsul ako̠' #a̠'pa̠k
+Bribri0865	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	ABSNUM:PL	GPT_EX10___	* Ye' diö́köl #bàtsul ako̠' #a̠'pa̠k
+Bribri0865	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	ABSNUM:PL	GPT_EX20___	* Ye' diö́köl #bàtsul ako̠' #a̠'pa̠k
+Bribri0865	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	ABSNUM:PL	GPT_EX10BGR	* Ye' diö́köl #bàtsul ako̠' #a̠'mi̠pa
+Bribri0866	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, ABSNUM:PL	TARGET_____	Ye' diö́köl kë̀ ku̠ bàtsulur ako̠' a̠'mi̠k
+Bribri0866	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, ABSNUM:PL	GPT_EX3____	* Ye' kë̀ ku̠ #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0866	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, ABSNUM:PL	GPT_EX5____	* Ye' kë̀ ku̠ #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0866	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, ABSNUM:PL	GPT_EX10___	* Ye' kë̀ ku̠ #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0866	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, ABSNUM:PL	GPT_EX20___	* Ye' kë̀ ku̠ diö́köl #bàtsul ako̠' a̠'mi̠k
+Bribri0866	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, ABSNUM:PL	GPT_EX10BGR	* Ye' kë̀ ku̠ diö́köl #bàtsul ako̠' a̠'mi̠k
+Bribri0867	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	TARGET_____	Ye' diö́köl bák bàtsulur ako̠' a̠'mi̠k
+Bribri0867	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX3____	* Ye' bák #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0867	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX5____	* Ye' bák #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0867	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX10___	* Ye' bák #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0867	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX20___	* Ye' bák diö́köl #bàtsul ako̠' a̠'mi̠k
+Bribri0867	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX10BGR	* #Ye'pa bák diö́köl #bàtsul ako̠' a̠'mi̠k
+Bribri0868	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	TARGET_____	Ye' diö́köl kë̀ ku̠'bak bàtsulur ako̠' a̠'mi̠k
+Bribri0868	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX3____	* Ye' kë̀ #ku'ba̠k #dapárke #bàtsul ako̠' a̠'mi̠k
+Bribri0868	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX5____	* Ye' kë̀ #ku'ba̠k #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0868	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX10___	* Ye' kë̀ #ku'ba̠k #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0868	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX20___	* Ye' kë̀ ku̠'bak diö́köl #bàtsul ako̠' a̠'mi̠k
+Bribri0868	[Ye' diö́köl bàtsul ako̠' a̠'mi̠k]	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	GPT_EX10BGR	* #Ye'pa kë̀ ku̠'bak #ië'te̠n #bàtsul ako̠' a̠'mi̠k
+Bribri0904	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REC, ASPECT:PFV	TARGET_____	Wé̠shke̠ alákölpaë̀ tká
+Bribri0904	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX3____	* #Wé̠shke̠pa alákölpaë̀ #tso
+Bribri0904	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX5____	* Wé̠shke̠ alákölpaë̀ #tsöpa
+Bribri0904	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX10___	* #Wé̠shké alákölpaë̀ #tso
+Bribri0904	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX20___	* Wé̠shke̠ #bák alákölpaë̀ #tso
+Bribri0904	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REC, ASPECT:PFV	GPT_EX10BGR	* #Wé̠shké alákölpaë̀ #tso
+Bribri0905	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REM, ASPECT:PFV	TARGET_____	Wé̠shke̠ alákölpaë̀ bák
+Bribri0905	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX3____	* Wé̠shke̠ bák alákölpaë̀ #tso
+Bribri0905	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX5____	* Wé̠shke̠ bák alákölpaë̀ #tso
+Bribri0905	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX10___	* Wé̠shke̠ bák alákölpaë̀ #tso
+Bribri0905	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX20___	* Wé̠shke̠ bák alákölpaë̀ #tso
+Bribri0905	[Wé̠shke̠ alákölpaë̀ tso]	TENSE:PRF_REM, ASPECT:PFV	GPT_EX10BGR	* Wé̠shke̠ bák alákölpaë̀ #tso
+Bribri0921	[Ye' tö i búk]	TYPE:NEG	TARGET_____	Ye' kë̀ wa̠ i bùne̠
+Bribri0921	[Ye' tö i búk]	TYPE:NEG	GPT_EX3____	* Ye' kë̀ wa̠ i #búne̠
+Bribri0921	[Ye' tö i búk]	TYPE:NEG	GPT_EX5____	* Ye' kë̀ wa̠ i #búne̠
+Bribri0921	[Ye' tö i búk]	TYPE:NEG	GPT_EX10___	Ye' kë̀ wa̠ i bùne̠
+Bribri0921	[Ye' tö i búk]	TYPE:NEG	GPT_EX20___	* Ye' kë̀ wa̠ i #bùkne̠
+Bribri0921	[Ye' tö i búk]	TYPE:NEG	GPT_EX10BGR	Ye' kë̀ wa̠ i bùne̠
+Bribri0922	[Ye' tö i búk]	TENSE:PRF_REC	TARGET_____	Ye' tö i ppé
+Bribri0922	[Ye' tö i búk]	TENSE:PRF_REC	GPT_EX3____	* Ye' tö i #bük
+Bribri0922	[Ye' tö i búk]	TENSE:PRF_REC	GPT_EX5____	* Ye' tö i #bük
+Bribri0922	[Ye' tö i búk]	TENSE:PRF_REC	GPT_EX10___	* Ye' tö i #búke
+Bribri0922	[Ye' tö i búk]	TENSE:PRF_REC	GPT_EX20___	* Ye' tö i #büké
+Bribri0922	[Ye' tö i búk]	TENSE:PRF_REC	GPT_EX10BGR	* Ye' tö i #bíké
+Bribri0923	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV	TARGET_____	Ye tö i ppè
+Bribri0923	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX3____	* #Ye' tö i #bùk
+Bribri0923	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX5____	* #Ye' tö i #bukè
+Bribri0923	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10___	* #Ye' tö i #bukè
+Bribri0923	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX20___	* #Ye' tö i #bukè
+Bribri0923	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV	GPT_EX10BGR	* #Ye' tö i #bökè
+Bribri0924	[Ye' tö i búk]	TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' tso i ppö́k
+Bribri0924	[Ye' tö i búk]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' tso i #búk
+Bribri0924	[Ye' tö i búk]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' tso i #búkök
+Bribri0924	[Ye' tö i búk]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' tso i #bökö́k
+Bribri0924	[Ye' tö i búk]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' tso i #bökö́k
+Bribri0924	[Ye' tö i búk]	TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' tso i #bökö́k
+Bribri0925	[Ye' tö i búk]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	TARGET_____	Ye' kë̀ ku̠ i ppö́k
+Bribri0925	[Ye' tö i búk]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX3____	* Ye' kë̀ ku̠ i #bök
+Bribri0925	[Ye' tö i búk]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX5____	* Ye' kë̀ ku̠ i #bök
+Bribri0925	[Ye' tö i búk]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10___	* Ye' kë̀ ku̠ i #bök
+Bribri0925	[Ye' tö i búk]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX20___	* Ye' kë̀ ku̠ i #bök
+Bribri0925	[Ye' tö i búk]	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	GPT_EX10BGR	* Ye' kë̀ ku̠ i #bök
+Bribri0926	[Ye' tö i búk]	TENSE:PRF_PROG	TARGET_____	Ye' bák i ppö́k
+Bribri0926	[Ye' tö i búk]	TENSE:PRF_PROG	GPT_EX3____	* Ye' bák i #buök
+Bribri0926	[Ye' tö i búk]	TENSE:PRF_PROG	GPT_EX5____	* Ye' bák i #buök
+Bribri0926	[Ye' tö i búk]	TENSE:PRF_PROG	GPT_EX10___	* Ye' bák i #bökö́k
+Bribri0926	[Ye' tö i búk]	TENSE:PRF_PROG	GPT_EX20___	* Ye' bák i #bükö́k
+Bribri0926	[Ye' tö i búk]	TENSE:PRF_PROG	GPT_EX10BGR	* Ye' bák i #bök
+Bribri0927	[Ye' tö i búk]	TYPE:NEG, TENSE:PRF_PROG	TARGET_____	Ye' kë̀ ku̠'bak i ppö́k
+Bribri0927	[Ye' tö i búk]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX3____	* Ye' kë̀ ku̠'bak i #bök
+Bribri0927	[Ye' tö i búk]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX5____	* Ye' kë̀ ku̠'bak i #bök
+Bribri0927	[Ye' tö i búk]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10___	* Ye' kë̀ ku̠'bak i #bök
+Bribri0927	[Ye' tö i búk]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX20___	* Ye' kë̀ ku̠'bak i #bök
+Bribri0927	[Ye' tö i búk]	TYPE:NEG, TENSE:PRF_PROG	GPT_EX10BGR	* Ye' kë̀ ku̠'bak i #bök
+Bribri0928	[Ye' tö i búk]	TENSE:IPFV_HAB, ASPECT:IPFV	TARGET_____	Ye' tö i ppèke̠
+Bribri0928	[Ye' tö i búk]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX3____	* Ye' tö i #búke̠
+Bribri0928	[Ye' tö i búk]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX5____	* Ye' tö i #búke̠
+Bribri0928	[Ye' tö i búk]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10___	* Ye' tö i #bùke̠
+Bribri0928	[Ye' tö i búk]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX20___	* Ye' tö i #bùke̠
+Bribri0928	[Ye' tö i búk]	TENSE:IPFV_HAB, ASPECT:IPFV	GPT_EX10BGR	* Ye' tö i #bùkè̠ke̠
+Bribri0929	[Ye' tö i búk]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	TARGET_____	I ppö́
+Bribri0929	[Ye' tö i búk]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX3____	* I #bukú̠
+Bribri0929	[Ye' tö i búk]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX5____	* I #búkú̠
+Bribri0929	[Ye' tö i búk]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10___	* I #búú̠
+Bribri0929	[Ye' tö i búk]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX20___	* I #bukú̠
+Bribri0929	[Ye' tö i búk]	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	GPT_EX10BGR	* I #bukú̠
+Bribri0930	[Ye' tö i búk]	VOICE:MID, ABSNUM:NI, PERSON:NA	TARGET_____	Bùne̠
+Bribri0930	[Ye' tö i búk]	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX3____	* #I #bùkne̠
+Bribri0930	[Ye' tö i búk]	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX5____	* #Búkne̠
+Bribri0930	[Ye' tö i búk]	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10___	* #Búkne̠
+Bribri0930	[Ye' tö i búk]	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX20___	* #I #bùkne̠
+Bribri0930	[Ye' tö i búk]	VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10BGR	* #Búkne̠
+Bribri0931	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	TARGET_____	Bùr
+Bribri0931	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX3____	* #Búkàr
+Bribri0931	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX5____	* #Búkàr
+Bribri0931	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10___	* #I #bùk
+Bribri0931	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX20___	* #I #bùkùr
+Bribri0931	[Ye' tö i búk]	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	GPT_EX10BGR	* #Búk #ìr

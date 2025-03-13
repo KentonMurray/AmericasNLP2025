@@ -1,0 +1,881 @@
+ID	Source	Change	System	Output
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #xoconouan #nimouan
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #xocualacan #timonahuan
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #xocualacan #nonahuan
+NahuatlOmitlan0001	[oualah nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #xoconouan #nimouan
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	TARGET_____	amo omococoh
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	GPT_EX3____	* #omococouh
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	GPT_EX5____	* amo #omococou
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	GPT_EX10___	* amo #ococouh
+NahuatlOmitlan0002	[amo mococoua]	ASPECT:PFV, TENSE:PAS_SIM	GPT_EX20___	* #ococouh
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo oualayah #nouan
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo oualayah #inouan
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo oualayah #inouan
+NahuatlOmitlan0003	[ualasqueh nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #ualayah #iuan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #xoconualacan #tinouan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #xocualacan #tinouan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #xocualacan #nonahuan
+NahuatlOmitlan0004	[ualasqueh nouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #xocualacan #tinouan
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	TARGET_____	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX3____	* #titechimauas
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX5____	* #titomauqueh
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX10___	* titomauaqueh
+NahuatlOmitlan0005	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX20___	* #titozqueh #amo #tomauac
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* amo #tictemoah
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* amo #tictemauac
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* amo #tehuatzin #ototomaueh
+NahuatlOmitlan0006	[neh amo nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* amo #tehuatzin #ototomauaya
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	TARGET_____	timococosqueh
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX3____	* #ticocouazqueh
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX5____	* #ticocouazqueh
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX10___	* #timococouazqueh
+NahuatlOmitlan0007	[nimococoua]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX20___	* #timococouas
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	TARGET_____	niinconeuan
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX3____	* #inconehuan
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX5____	* #inconehuan
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX10___	* #nimoconeuah
+NahuatlOmitlan0008	[timoconeuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX20___	* #nimoconeuah
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #quimotomaquih
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* amo #quitomauahqueh
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #amotomauaqueh
+NahuatlOmitlan0009	[neh amo nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #quitomauasqueh
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	TARGET_____	tiuitzeh mouan
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX3____	* #ticualah #mohuan
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX5____	* #ticualah #mohuan
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX10___	* #ticualah #toan
+NahuatlOmitlan0010	[oualah nouan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX20___	* #tiualah #motlacuaz
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	TARGET_____	uitzeh inuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	GPT_EX3____	* #ualayah inuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	GPT_EX5____	* #ualayah inuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	GPT_EX10___	* #ualayah inuan
+NahuatlOmitlan0011	[amo oualayah inuan]	TENSE:PRE_SIM, TYPE:AFF	GPT_EX20___	* #oualayah inuan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	TARGET_____	tiuitzeh mouan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX3____	* #timuiz #momistouan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX5____	* #tihuittih #momistouan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX10___	* #tihuetzi #momistouan
+NahuatlOmitlan0012	[tiuitz touan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX20___	* #tihuetzi #momistouan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	TARGET_____	oniualaya iuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	GPT_EX3____	* #oniualahki iuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	GPT_EX5____	* #niualah iuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	GPT_EX10___	* #niualah iuan
+NahuatlOmitlan0013	[oniualah iuan]	ASPECT:IPFV	GPT_EX20___	* #niualah iuan
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #xiwal
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #xihualla
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #tihuaz
+NahuatlOmitlan0014	[oualah nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #tihualla #nimochan
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* teh #otitomauac
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* #ticotomauayah
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* teh #otitomauaya
+NahuatlOmitlan0015	[neh nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* teh #otitomauaya
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	uitzeh inuan
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #iualatiuh #iuan
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #iualatiuh #iuan
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #iuatiuh #iuan
+NahuatlOmitlan0016	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #iuatiuh #iuan
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #nohuan #quiuitzqueh
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #nion #uitzqueh
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #yehuan #nimoitzqueh
+NahuatlOmitlan0017	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #yehuan #nictzazqueh #nomouan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX3____	* amo #nohuan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX5____	* amo #uitzeh #nohuan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX10___	* amo #nuitzeh #inuan
+NahuatlOmitlan0018	[uitzeh inuan]	PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX20___	* amo #nohuan
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	TARGET_____	nimoconeu
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	GPT_EX3____	* #niconeuan
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	GPT_EX5____	* #niconeuan
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	GPT_EX10___	* #niconeuan
+NahuatlOmitlan0019	[timoconeuan]	PERSON[SUBJ]:1_SI	GPT_EX20___	* #niconeuan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	TARGET_____	tiualas touan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	GPT_EX3____	* #tiuitzaz touan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	GPT_EX5____	* #tiuitzaz touan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	GPT_EX10___	* #tiuitzaz touan
+NahuatlOmitlan0020	[tiuitz touan]	TENSE:FUT_SIM	GPT_EX20___	* #tiuitzaz touan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	TARGET_____	tiualas touan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX3____	* #toanualas
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX5____	* #toalah #toan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX10___	* #tocualas #tonahuan
+NahuatlOmitlan0021	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX20___	* #tihuallaz #toan
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	GPT_EX3____	* #yehuan #oquinoconeuhqueh
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	GPT_EX5____	* #onoconeuhqueh
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	GPT_EX10___	* #yehuan #oquinoconeuyah
+NahuatlOmitlan0022	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	GPT_EX20___	* #amo #oquinoconeuyah
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	TARGET_____	uitzeh inuan
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX3____	* #yehuan #onuiqueh #imouan
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX5____	* #yehuan #quiquixtisqueh #tomahuan
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX10___	* #yehuan #xonuiqueh #touan
+NahuatlOmitlan0023	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX20___	* #yehuan #xonuiqueh #touan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #xicualah #nohuan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #xiualla #nohuan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #xicualah #nohuan
+NahuatlOmitlan0024	[oniualah iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #xitiualah #noiuan
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo omococoh
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ococoua
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #ococouac
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #ococoua
+NahuatlOmitlan0025	[mococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #ococouh
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo mococoua
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #quicoctoc
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #cocoh
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #cocotoc
+NahuatlOmitlan0026	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #quicocoh
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	TARGET_____	amo mococoua
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX3____	* amo #quicocoua
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX5____	* amo #quicocoua
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX10___	* amo #quimococoua
+NahuatlOmitlan0027	[nimococoua]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX20___	* amo #quimococoua
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	TARGET_____	nimehuan amo nitomauaqueh
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	GPT_EX3____	* #ameh amo #amotomauac
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	GPT_EX5____	* #ameh amo #anitomauac
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	GPT_EX10___	* #ameh amo #anitomauac
+NahuatlOmitlan0028	[neh amo nitomauac]	PERSON[SUBJ]:2_PL	GPT_EX20___	* #ameh amo #amotomauac
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	GPT_EX3____	* #nimehuantzitzin #xiquiuhtican #nimoan
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	GPT_EX5____	* #xihuetzcan touan
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	GPT_EX10___	* #nimehuantzitzin #xicuitz touan
+NahuatlOmitlan0029	[tiuitz touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	GPT_EX20___	* #xiuican touan
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX3____	* #yehuan #oquinconeuhqueh
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX5____	* #yehuan #otechmoconeuhqueh
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX10___	* #yehuan #otechmoconeuhqueh
+NahuatlOmitlan0030	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX20___	* #omoconeuyahqueh
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo omococoh
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ocococ
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #ococox
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #ococox
+NahuatlOmitlan0031	[timococosqueh]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #omococox
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #xiuallacan #notouan
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #xicualacan #notouan
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #xoconualacan touan
+NahuatlOmitlan0032	[tiualas touan]	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #tehuatzin #xicualacan touan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX3____	* amo #oiuquiyah #inouan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX5____	* #yehuan #ohuicayah #inouan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX10___	* amo #oiuquiyah #yehuan
+NahuatlOmitlan0033	[amo xiuiqui nouan]	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX20___	* amo #oiuquihqueh #inouan
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	TARGET_____	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX3____	* #titozcatzqueh
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX5____	* #titomauazqueh
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX10___	* #titozomauqueh
+NahuatlOmitlan0034	[neh nitomauac]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	GPT_EX20___	* #titozomauaskeh
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX3____	* #yehuan #ocomoconeuah
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX5____	* #yehuan #oconeuqueh
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX10___	* #yehuan #otechmoconeuyah
+NahuatlOmitlan0035	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX20___	* #yehuan #omoconeuyah
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #tictemauac
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #ticonitomauac
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #tehuatzin #otitomauaya
+NahuatlOmitlan0036	[neh nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #tehuatzin #otomauac
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	TARGET_____	neh niisqui nitomauac
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	GPT_EX3____	* neh #nitomauaz
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	GPT_EX5____	* neh #nitomauaz
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	GPT_EX10___	* neh #nitomauaz
+NahuatlOmitlan0037	[neh nitomauac]	TENSE:FUT_SIM	GPT_EX20___	* neh #nitomauaz
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	TARGET_____	onimococouaya
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX3____	* #onimococoyah
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX5____	* #onimococoyah
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX10___	* #onimococoyah
+NahuatlOmitlan0038	[nimococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX20___	* #onimococoyah
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	GPT_EX3____	* #mauiqueh nouan
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	GPT_EX5____	* amo #mauiqueh nouan
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	GPT_EX10___	* amo #mauiqueh nouan
+NahuatlOmitlan0039	[amo xiuiqui nouan]	MOOD:NA, PERSON[SUBJ]:3_PL	GPT_EX20___	* #mauiqueh nouan
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	TARGET_____	tehuan titomauaqueh
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX3____	* #teh #titomauac
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX5____	* #teh #titomauac
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX10___	* #teh #titomauac
+NahuatlOmitlan0040	[neh nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX20___	* #teh #titomauac
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	TARGET_____	uitzeh inuan
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	GPT_EX3____	* #yehuan #uiuiqui #inouan
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	GPT_EX5____	* #yehuan #uiuiqueh #inouan
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	GPT_EX10___	* #yehuan #xiuiqueh #inouan
+NahuatlOmitlan0041	[amo xiuiqui nouan]	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	GPT_EX20___	* #yehuan #uiuiqueh #inouan
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	TARGET_____	ocatca iconeu
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX3____	* #otininconeuan
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX5____	* #otinihniconetoyah #iconeuan
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX10___	* #oconeuan
+NahuatlOmitlan0042	[niinconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX20___	* #oquincochtitoya #iconeuan
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	GPT_EX3____	* #tehuatzin amo #onicatca #timomauac
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	GPT_EX5____	* #tehuatzin amo #oticatca #titomauac
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	GPT_EX10___	* #tehuatzin amo #oticatca #titomauac
+NahuatlOmitlan0043	[teh oticatca titomauac]	HON:1, TYPE:NEG	GPT_EX20___	* #tehuatzin amo #onicatca #titomauac
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #xiualla
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #xiualla
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #tihuallauh
+NahuatlOmitlan0044	[ualasqueh nouan]	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #xiualla #ninohuan
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	TARGET_____	onimococouaya
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX3____	* #onococouaya
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX5____	* #onococouaya
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX10___	* #onococouaya
+NahuatlOmitlan0045	[mococouah]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX20___	* #onicocouaya
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #uitzqueh #mouan
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* #yehuan amo #uitzqueh #mouan
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* #yehuan amo #ouitzqueh #imouan
+NahuatlOmitlan0046	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #ouitzqueh #imouan
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	TARGET_____	niinconeuan
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX3____	* #miconeuh
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX5____	* #quimoconeuh
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX10___	* #quimoconeuh
+NahuatlOmitlan0047	[nimoconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX20___	* #nimoconeuhqueh
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #ualtih nouan
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #ualahqueh nouan
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #ualatiaya nouan
+NahuatlOmitlan0048	[ualasqueh nouan]	TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #uala nouan
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	TARGET_____	tiuitzeh mouan
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX3____	* #tiauallauh #motzin
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX5____	* #tiauallo #mo
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX10___	* #tiauah #iuan
+NahuatlOmitlan0049	[oniualaya iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX20___	* #titiualah #toiuan
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	nimococouah
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #amicocoh
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #anicocohqueh
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #amicocoh
+NahuatlOmitlan0050	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #timococoh
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	TARGET_____	timoconeuan
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX3____	* #ticoneu
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX5____	* #ticonetl
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX10___	* #toconetl
+NahuatlOmitlan0051	[niiconeu]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	GPT_EX20___	* #ticonetl #moconetl
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* #yehuan amo #oualazqueh #iuan
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* amo #oualtiaya #imouan
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo oualayah #imouan
+NahuatlOmitlan0052	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo oualayah #inouan
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	TARGET_____	yeh iconeu
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX3____	* #iconeuan
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX5____	* iconeu
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX10___	* iconeu
+NahuatlOmitlan0053	[timoconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX20___	* iconeu
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	TARGET_____	oniualaya iuan
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX3____	* #ninoalah #icalihtic
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX5____	* #niualah iuan
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX10___	* #nioualayah iuan
+NahuatlOmitlan0054	[oualah nouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX20___	* #niualah iuan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #yehuan #quiuitzqueh #nohuan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #yehuan #techiuizqueh
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #yehuan #uiqueh #nohuan
+NahuatlOmitlan0055	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #yehuan #quiuitzazqueh nouan
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo tinoconeu
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #noconeuan
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #noconeu
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #noconeu
+NahuatlOmitlan0056	[nimoconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #noconeu
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* #yehuan amo #ualahqueh #iuan
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* #yehuan amo #ualisqueh #iuan
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo #niualayah #iuan
+NahuatlOmitlan0057	[oniualah iuan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo #oniualayah #iuan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #xoconualacan #niuan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #xoconualacan #tojuan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #xoconualacan #niuan
+NahuatlOmitlan0058	[oniualaya iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #xocniuallacan #toiuan
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	mococouah
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #mococoseh
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #timococoseh
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #mococohqueh
+NahuatlOmitlan0059	[timococosqueh]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #mococohqueh
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX3____	* teh #otitomauaya
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX5____	* teh #otitomauaya
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX10___	* teh #otitomauaya
+NahuatlOmitlan0060	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX20___	* teh #otitomauaya
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	TARGET_____	timococosquiah
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	GPT_EX3____	* #timococouazqueh
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	GPT_EX5____	* #timococouazqueh
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	GPT_EX10___	* #timococouazqueh
+NahuatlOmitlan0061	[nimococoua]	MOOD:COND, PERSON[SUBJ]:1_PL	GPT_EX20___	* #timococouasquia
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	TARGET_____	neh niisqui nitomauac
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	GPT_EX3____	* #nimehuan #nitomauaz
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	GPT_EX5____	* #nimitomauas
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	GPT_EX10___	* #nimitomauas
+NahuatlOmitlan0062	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	GPT_EX20___	* #nimitomauas
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #niualah #iuan
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #uiah #nohuan
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #niuaya #iuan
+NahuatlOmitlan0063	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #niuaya #iuan
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	TARGET_____	ocatca iconeu
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX3____	* #oconeuh iconeu
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX5____	* #oconeutiyah iconeu
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX10___	* #oconeuh iconeu
+NahuatlOmitlan0064	[nimoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX20___	* #oconeuyah iconeu
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	GPT_EX3____	* amo #nualayah #inuan
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	GPT_EX5____	* amo #nualayah #inuan
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	GPT_EX10___	* amo #nualayah #inuan
+NahuatlOmitlan0065	[amo oualayah inuan]	PERSON[POSS]:1_SI, TENSE:PRE_SIM	GPT_EX20___	* amo #nualayah #inuan
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	TARGET_____	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX3____	* #yehuan #amo #tiqueh #tomauaqueh
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX5____	* #yehuan #timois #tomauaqueh
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX10___	* #yehuan #timauaqueh
+NahuatlOmitlan0066	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX20___	* #yehuan #tomauaqueh
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	TARGET_____	neh amo nitomauac
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	GPT_EX3____	neh amo nitomauac
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	GPT_EX5____	neh amo nitomauac
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	GPT_EX10___	neh amo nitomauac
+NahuatlOmitlan0067	[neh nitomauac]	TYPE:NEG	GPT_EX20___	neh amo nitomauac
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #niuitzqueh #notouan
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #yehuan #techiuizqueh #touan
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #yehuan #uisqueh #nohuan
+NahuatlOmitlan0068	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #niuitz #nohuan
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX3____	* #xoconmouan #nimouan
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX5____	* #xocouican #tomouan
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX10___	* #xoconmouan #nimouan
+NahuatlOmitlan0069	[uitz mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX20___	* #xocouican #nimouan
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	TARGET_____	uitzeh inuan
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX3____	* #touanih
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX5____	* #touanmeh
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX10___	* #iniuitz #touan
+NahuatlOmitlan0070	[tiuitz touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX20___	* #tiuitz #touan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* amo #quiuican #noan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* amo #ouiqueh #noan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo #uiqueh #nonahuan
+NahuatlOmitlan0071	[tiuitz touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo #quiuitz #noan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	TARGET_____	tiuitzeh mouan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	GPT_EX3____	* #titz mouan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	GPT_EX5____	* #titz mouan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	GPT_EX10___	* #titz mouan
+NahuatlOmitlan0072	[uitz mouan]	PERSON[SUBJ]:1_PL	GPT_EX20___	* #titz mouan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	TARGET_____	oniualah iuan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX3____	* #nochi #nimoouh #iyolcauan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX5____	* #ouitz #ihuan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX10___	* #ouitz #in #mouan
+NahuatlOmitlan0073	[uitz mouan]	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX20___	* #ouitz #ihuan
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	TARGET_____	niinconeuan
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX3____	* #inehuan #coneuh
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX5____	* #niquimconeuh
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX10___	* #niquimoneuhqueh
+NahuatlOmitlan0074	[niiconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	GPT_EX20___	* #niquiconeuhqueh
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo omococoh
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ococouah
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #ococoua
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #omococouaj
+NahuatlOmitlan0075	[nimococouah]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #omococouah
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #xitlah #mouan
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #xitaz #nohuan
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #xicuitz #nohuan
+NahuatlOmitlan0076	[uitz mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #xicuitzqui #nohuan
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	TARGET_____	ocatca iconeu
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX3____	* #oconeu
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX5____	* #otinoconeuh iconeu
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX10___	* #oquinconeutoyah iconeu
+NahuatlOmitlan0077	[amo tinoconeu]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX20___	* #oticonconeuh iconeu
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	TARGET_____	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX3____	* #teh #tiisqui #titomauac
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX5____	* #teh #tiisqui #titomauac
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX10___	* #teh #tiisqui #titomauac
+NahuatlOmitlan0078	[neh niisqui nitomauac]	PERSON[SUBJ]:1_PL	GPT_EX20___	* #teh #tiisqui #titomauac
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo omococoh
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ococouh
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #omococouaj
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #ococoua
+NahuatlOmitlan0079	[nimococoua]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #occocouh
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #uiseh nouan
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #uiseh nouan
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #uiseh nouan
+NahuatlOmitlan0080	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #uiseh nouan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #niualaya #iuan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #uitiuh #nohuan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #tiualah #iuan
+NahuatlOmitlan0081	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #ueltiuh #iuan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #xonui #noan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #xonui #noan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #xonui #noan
+NahuatlOmitlan0082	[xonuiqueh touan]	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #xonui #nohuan
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	TARGET_____	ocatca iconeu
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX3____	* #iconeuhya
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX5____	* #oconeuh
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX10___	* #oconeutoya
+NahuatlOmitlan0083	[niiconeu]	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX20___	* #oconeu
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	TARGET_____	tiuitzeh mouan
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX3____	* #toconihualah #iuan
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX5____	* #toconihualah #iuan
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX10___	* #ticuizqueh #mohuan
+NahuatlOmitlan0084	[oniualah iuan]	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	GPT_EX20___	* #tohuallatoc #iuan
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	mococouah
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #cocohqueh
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #timococohqueh
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #cocohqueh
+NahuatlOmitlan0085	[timococosquiah]	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #cocohqueh
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	TARGET_____	neh niisqui nitomauac
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	GPT_EX3____	* #nitomauaz
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	GPT_EX5____	* #nitomauaz
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	GPT_EX10___	* #nicmauaz
+NahuatlOmitlan0086	[tehuan titomauaqueh]	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	GPT_EX20___	* #nehuatl #nitomauaz
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX3____	* teh #otitomauacaya
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX5____	* teh #otitomauaya
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX10___	* teh #otitomauaya
+NahuatlOmitlan0087	[neh amo nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX20___	* teh #otitomauaya
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	TARGET_____	amo mococoua
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX3____	* amo #quimococoua
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX5____	* amo #quimococoua
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX10___	* amo #quimococoua
+NahuatlOmitlan0088	[nimococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX20___	* amo #quicocoua
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #nimehuan amo #quitomauazqueh
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #nimehuan amo #quitomauaqueh
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #nimehuan #tomauazqueh
+NahuatlOmitlan0089	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #nimehuan amo #uitseh
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* teh #omotomauaya
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* teh #otitomauaya
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* teh #otomauaya
+NahuatlOmitlan0090	[tehuan titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* teh #otomauaya
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	TARGET_____	tiuitz touan
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX3____	* #tiauah #nouan
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX5____	* #toalato #nouan
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX10___	* #toalah #toan
+NahuatlOmitlan0091	[oualah nouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX20___	* #tualah #toan
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	TARGET_____	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX3____	* #titimehuaqueh
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX5____	* #titozomauaqueh
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX10___	* #titimehuasqueh
+NahuatlOmitlan0092	[nimehuan amo nitomauaqueh]	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	GPT_EX20___	* #titozomauaskeh
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #quiualahqueh #noan
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #ueltiuh #noan
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #ueltoqueh #nohuan
+NahuatlOmitlan0093	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #ueh #nohuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	TARGET_____	oniualah iuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX3____	* #niyolcuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX5____	* #niualah iuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX10___	* #nicualah iuan
+NahuatlOmitlan0094	[oualah nouan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	GPT_EX20___	* #nicualah iuan
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	TARGET_____	nimehuan amo nitomauaqueh
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX3____	* amo #anquemaua
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX5____	* amo #anquimauah
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX10___	* amo #anquimauah
+NahuatlOmitlan0095	[tehuan titomauaqueh]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX20___	* amo #anquimauahqueh
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	TARGET_____	tiualas touan
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX3____	* #tohuanualas #iuan
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX5____	* #tohuanualayas #iuan
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX10___	* #tiualayasqueh #iuan
+NahuatlOmitlan0096	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX20___	* tiualas #toan #iuan
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	TARGET_____	mococouah
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	GPT_EX3____	* #cocouaueh
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	GPT_EX5____	* #cocouaueh
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	GPT_EX10___	* #cocouaueh
+NahuatlOmitlan0097	[nimococoua]	PERSON[SUBJ]:3_PL	GPT_EX20___	* #cocouaueh
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	TARGET_____	ocatca iconeu
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX3____	* #otimoconeuah iconeu
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX5____	* #otimoconeuah iconeu
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX10___	* #oconeuan #iconeuan
+NahuatlOmitlan0098	[timoconeuan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	GPT_EX20___	* #omoconeuyah iconeu
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	TARGET_____	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX3____	* amo #quitomauqueh
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX5____	* amo #tomauqueh
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX10___	* amo #quitomauaqueh
+NahuatlOmitlan0099	[neh nitomauac]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX20___	* amo #quitomauaqueh
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* amo #oniualayah #iuan
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* amo #oniualaya #iuan
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo #oniualqueh #iuan
+NahuatlOmitlan0100	[oniualaya iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo #oniualayaqueh #iuan
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	TARGET_____	nimoconeu
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	GPT_EX3____	* #miiconeu
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	GPT_EX5____	* #miiconeu
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	GPT_EX10___	* #miiconeu
+NahuatlOmitlan0101	[niiconeu]	PERSON[POSS]:2_SI	GPT_EX20___	* #miiconeu
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	TARGET_____	tiualas touan
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX3____	* #tohuetzas #mohuan
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX5____	* #titouitzas touan
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX10___	* #tohuan #ticuizaz
+NahuatlOmitlan0102	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX20___	* #titechiuas #toan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #uiqueh #yehuan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #uaya #yehuan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #tiuitzqueh #touan
+NahuatlOmitlan0103	[tiuitz touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #tiuitzqueh #touan
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	oc tlatooctoqueh
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* oc #uitlatooc
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #uitlatoceh
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* oc #uitlatooc
+NahuatlOmitlan0104	[oc onitlatooctoyah]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* oc #tlatoctoqueh
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	TARGET_____	nimehuan amo nitomauaqueh
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX3____	* amo #anmotomauac
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX5____	* #amehuan #tomauacan
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX10___	* amo #anmotomauac
+NahuatlOmitlan0105	[neh nitomauac]	PERSON[SUBJ]:2_PL, TYPE:NEG	GPT_EX20___	* #ameh amo #tomauacan
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo mococoua
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #quicoa
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #quicoca
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #quicoca
+NahuatlOmitlan0106	[timococosqueh]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #quicocoa
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX3____	* #yehuan #oquichihuayah #in #iconeuh
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX5____	* #yehuan #oconeuhqueh
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX10___	* #yehuan #oconeuhqueh
+NahuatlOmitlan0107	[yeh iconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX20___	* #yehuan #oconeuhqueh
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	TARGET_____	onimococouaya
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX3____	* #onitococoyah
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX5____	* #onitococoyah
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX10___	* #onimococoya
+NahuatlOmitlan0108	[timococosqueh]	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX20___	* #onimococoya
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	TARGET_____	neh niisqui nitomauac
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	GPT_EX3____	* #nitomauaz
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	GPT_EX5____	* #nitomauaz
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	GPT_EX10___	* #nitomauaz
+NahuatlOmitlan0109	[neh amo nitomauac]	TENSE:FUT_SIM, TYPE:AFF	GPT_EX20___	* #nitomauas
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	TARGET_____	tehuan titomauaqueh
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX3____	* #titoauac
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX5____	* #titohtomauac
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX10___	* #titohtomauac
+NahuatlOmitlan0110	[neh amo nitomauac]	PERSON[SUBJ]:1_PL, TYPE:AFF	GPT_EX20___	* #tonitomauacah
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX3____	* #xoconhuican #toan
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX5____	* #xocouican #timouan
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX10___	* #xiconhuican #nimouan
+NahuatlOmitlan0111	[tiuitzeh mouan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	GPT_EX20___	* #xocuitzican touan
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	TARGET_____	tehuan tiisqueh titomauaqueh
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	GPT_EX3____	* tehuan #titomauazqueh
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	GPT_EX5____	* tehuan #titomauazqueh
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	GPT_EX10___	* tehuan #titomauazqueh
+NahuatlOmitlan0112	[tehuan titomauaqueh]	TENSE:FUT_SIM	GPT_EX20___	* tehuan #titomauazqueh
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	TARGET_____	yeh iconeu
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	GPT_EX3____	* #iiconeu
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	GPT_EX5____	* #iiconeu
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	GPT_EX10___	* #iiconeu
+NahuatlOmitlan0113	[niiconeu]	PERSON[SUBJ]:3_SI	GPT_EX20___	* #iiconeu
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	uitzeh inuan
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #uiuan
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #iualatiuh #iuan
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #iualatiuh #iuan
+NahuatlOmitlan0114	[oniualah iuan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #uitseh #iuan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	uitzeh inuan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #oualtih #yehuan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #oualtih #inouan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #oualtih #inouan
+NahuatlOmitlan0115	[oualah nouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #uiliah #inouan
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	TARGET_____	oc onitlatooctoyah
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	GPT_EX3____	* #amoc #onitlatooctoya
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	GPT_EX5____	* #amoc #onitlatooctoya
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	GPT_EX10___	* #amoc #onitlatooctoya
+NahuatlOmitlan0116	[oc onitlatooctoya]	PERSON[SUBJ]:2_PL	GPT_EX20___	* #amoc #onitlatooctoya
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo mococoua
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #quicocoa
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #quicocoa
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #quicocoua
+NahuatlOmitlan0117	[onimococouaya]	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #quimococoa
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* amo #nonhuiqueh
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* amo #onuiqueh #noan
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo #onuiqueh #noan
+NahuatlOmitlan0118	[xonuiqueh touan]	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo #quiquixtisqueh #notouan
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* #tihuallazqueh #titomauaqueh
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* #otimauaya #titomauaqueh
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* #otihtomauayah
+NahuatlOmitlan0119	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* teh #omauaya
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	TARGET_____	yehuan amo isqueh tomauaqueh
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX3____	* amo #timauaqueh
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX5____	* amo #quitomauaqueh
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX10___	* amo #quitomauaqueh
+NahuatlOmitlan0120	[tehuan titomauaqueh]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	GPT_EX20___	* amo #quitomauaqueh
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	TARGET_____	tiuitz touan
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX3____	* #tiualatoc #toian
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX5____	* #tiualatoc #iuan
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX10___	* #tiualah #toiuan
+NahuatlOmitlan0121	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX20___	* #tiualah #iuan
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	GPT_EX3____	* #niualas #touanih
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	GPT_EX5____	* #niualahqueh #noan
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	GPT_EX10___	* #nicchiuhti #nohuan
+NahuatlOmitlan0122	[tiualas touan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	GPT_EX20___	* #niualah #touan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* amo #uitzqueh #nonahuan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* amo #uitzqueh #nonan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo #uitzqueh #nomouan
+NahuatlOmitlan0123	[uitz mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo #uitzqueh #nohuan
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	TARGET_____	onimococouaya
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX3____	* #onimococoyah
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX5____	* #onimococoyah
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX10___	* #onimococoyah
+NahuatlOmitlan0124	[nimococoua]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX20___	* #onimococoyah
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo omococoh
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ococoto
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #omococo
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #omococo
+NahuatlOmitlan0125	[timococosquiah]	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #omococox
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	TARGET_____	amo omococoh
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX3____	* amo #ococouaya
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX5____	* amo #omococouaj
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX10___	* amo #quimococoua
+NahuatlOmitlan0126	[onimococouaya]	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX20___	* amo #quicocoua
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	TARGET_____	mococouah
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	GPT_EX3____	* #cocouahqueh
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	GPT_EX5____	* #mococouahqueh
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	GPT_EX10___	* #cocouahqueh
+NahuatlOmitlan0127	[nimococouah]	PERSON[SUBJ]:3_PL	GPT_EX20___	* #cocouahqueh
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #ualahqueh nouan
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #uitzazqueh nouan
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #uitzalahqueh nouan
+NahuatlOmitlan0128	[oualah nouan]	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #uitzazqueh nouan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ualaya #toan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #tiualaya #toan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #tiualayah #touan
+NahuatlOmitlan0129	[tiualas touan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #otihuallayah #touan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	TARGET_____	tiualas touan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX3____	* #tohuetzaz #mohuan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX5____	* #tochiuizqueh #mohuan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX10___	* #titechiuiz #tohuan
+NahuatlOmitlan0130	[tiuitzeh mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX20___	* #tihuallaz #toan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	TARGET_____	tiuitz touan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX3____	* #tiualatoc #tojuan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX5____	* #tiualah touan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX10___	* #tiualahqueh #iuan
+NahuatlOmitlan0131	[oniualaya iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX20___	* #tiualaya #toiuan
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	TARGET_____	oniualaya iuan
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX3____	* #ninohuetzcaya #mouan
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX5____	* #nimitzmouaya
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX10___	* #nican #ohuetz #mouan
+NahuatlOmitlan0132	[uitz mouan]	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX20___	* #nionitz #mouan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	uitzeh inuan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #tualas #intouan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #tiauas #intouan
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #tiualas #touanmeh
+NahuatlOmitlan0133	[tiualas touan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #ualas #intouan
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	nimococouah
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #amicocohqueh
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #amococohqueh
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #amicocohqueh
+NahuatlOmitlan0134	[timococosqueh]	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #amococohqueh
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #atotomauazqueh
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #tehuan #otomauaya
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #tehuatzin #otomauaya
+NahuatlOmitlan0135	[tehuan titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #tehuatzin #omauaya
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	TARGET_____	uitzeh inuan
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* #ualas #ininqueh
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* #ualah #ininqueh #nouan
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #ualah #inin
+NahuatlOmitlan0136	[ualasqueh nouan]	PERSON[POSS]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #ualas #incahuan
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	TARGET_____	amo mococoua
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX3____	* amo #quicocoua
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX5____	* amo #quicocoua
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX10___	* amo #quicocoua
+NahuatlOmitlan0137	[mococouah]	PERSON[SUBJ]:3_SI, TYPE:NEG	GPT_EX20___	* amo #quicocoua
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	TARGET_____	nimococouah
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	GPT_EX3____	* #amococoua
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	GPT_EX5____	* #amococoua
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	GPT_EX10___	* #amococoua
+NahuatlOmitlan0138	[nimococoua]	PERSON[SUBJ]:2_PL	GPT_EX20___	* #amococoua
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo tinoconeu
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #noconeuan
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #noconeuan
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #noconeuan
+NahuatlOmitlan0139	[timoconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #noconeuan
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	TARGET_____	uitzeh inuan
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX3____	* #quiuitzehqueh #mohuan
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX5____	* #moquihuetzqueh
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX10___	* #mouan #uitseh
+NahuatlOmitlan0140	[tiuitzeh mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX20___	* #intiuican #mouan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	TARGET_____	uitz mouan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	GPT_EX3____	* mouan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	GPT_EX5____	* mouan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	GPT_EX10___	* #moualtia #moan
+NahuatlOmitlan0141	[oualah nouan]	PERSON[POSS]:2_SI, TENSE:PRE_SIM	GPT_EX20___	* #tualah #moan
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #ticmauaya
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #simi #otoconmauaya
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #simi #otitomauaya
+NahuatlOmitlan0142	[tehuan tiisqueh titomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #tehuatzin #omomauaya
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* teh #titohtomauac
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* #tah #tiisquiyah titomauac
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* teh #otisquiyah #tomauac
+NahuatlOmitlan0143	[neh niisqui nitomauac]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* teh #otiisquiya #tomauac
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo tinoconeu
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #noconeu
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #noconeuan
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #ticonconeuan
+NahuatlOmitlan0144	[niiconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #ticoneu #noconeu
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	TARGET_____	uitzeh inuan
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX3____	* #uitzqueh #mohuan
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX5____	* #uitzqueh #mouan
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX10___	* #uitzqueh #mouan
+NahuatlOmitlan0145	[uitz mouan]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX20___	* #uitzqueh #mouan
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* #tehuatzin amo #isquix #tomauaqueh
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* amo #ticonis #tomauaqueh
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* amo #otoconis #tomauaqueh
+NahuatlOmitlan0146	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* #tehuatzin amo #otoconmauaya #tomauaqueh
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	TARGET_____	oc titlatooctoc
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX3____	* #tictlatoa
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX5____	* #tictoctoya
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX10___	* #ticlatoca
+NahuatlOmitlan0147	[oc onitlatooctoya]	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	GPT_EX20___	* #ticlatoc
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	TARGET_____	onimococouaya
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX3____	* #nicococaya
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX5____	* #nicococaya
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX10___	* #onimococoya
+NahuatlOmitlan0148	[timococosquiah]	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	GPT_EX20___	* #onicocoya
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	TARGET_____	timococosqueh
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	GPT_EX3____	* #ticocozqui
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	GPT_EX5____	* #ticocozqui
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	GPT_EX10___	* #timococoseh
+NahuatlOmitlan0149	[timococosquiah]	MOOD:NA, TENSE:FUT_SIM	GPT_EX20___	* #timococoseh
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	TARGET_____	neh niisqui nitomauac
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	GPT_EX3____	* #nehuatl #niquimauah
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	GPT_EX5____	* #yehuan #niquimauah
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	GPT_EX10___	* #nihuan #nimauah
+NahuatlOmitlan0150	[yehuan amo isqueh tomauaqueh]	PERSON[SUBJ]:1_SI, TYPE:AFF	GPT_EX20___	* #nihuan #is #tomauaqueh
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo tinoconeu
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #noconeu
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #noconeuan
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #noconeu
+NahuatlOmitlan0151	[yeh iconeu]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #noconeu
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	TARGET_____	xonuiqueh touan
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX3____	* #xoconualcan #niuan
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX5____	* #xoconualacan #niuan
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX10___	* #xocualacan #niuan
+NahuatlOmitlan0152	[oniualah iuan]	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	GPT_EX20___	* #xoconiualacan #niuan
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo tinoconeu
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #noconeuan
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #noconeuan
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #noconeuan
+NahuatlOmitlan0153	[niinconeuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #noconeuan
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	TARGET_____	teh oticatca titomauac
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX3____	* teh #onisqueh #tomauaqueh
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX5____	* teh #oisquiya #tomauaqueh
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX10___	* #yehuan #otisqueh #tomauaqueh
+NahuatlOmitlan0154	[yehuan amo isqueh tomauaqueh]	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	GPT_EX20___	* #yehuatl #otisquiyah #tomauaqueh
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX3____	* #oquinconehuayah
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX5____	* #oninconehuayah
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX10___	* #oninconehuayah
+NahuatlOmitlan0155	[niinconeuan]	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX20___	* #oninconehuayahqueh
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	TARGET_____	amo uitseh nouan
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX3____	* amo #quiuitzqueh #nohuan
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX5____	* amo #huitzqueh #nohuan
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX10___	* amo #huitzeh #nonan
+NahuatlOmitlan0156	[tiuitzeh mouan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	GPT_EX20___	* amo #ouihtiqueh #nohuan
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* #yehuan amo #ouitzqueh
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* #yehuan amo #ouitzqueh #mouan
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #yehuan #ouitizqueh
+NahuatlOmitlan0157	[tiuitzeh mouan]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #otiuhqueh #iuan
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	TARGET_____	ocatca iconeu
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX3____	* #oyeh iconeu
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX5____	* #oyeh iconeu
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX10___	* #yeh ocatca iconeu
+NahuatlOmitlan0158	[yeh iconeu]	ASPECT:IPFV, TENSE:PAS_SIM	GPT_EX20___	* #yeh #oconeuh
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	amo oualayah inuan
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #onuiqueh #yehuan
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #otonuiqueh #touan
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #otinhuiah #iplauan
+NahuatlOmitlan0159	[xonuiqueh touan]	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #otonuiyah #iuan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX3____	* amo #xiuican #noan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX5____	* amo #xiuican #nohuan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX10___	* amo #xiuica #nohuan
+NahuatlOmitlan0160	[tiuitz touan]	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	GPT_EX20___	* amo #xiuica #nohuan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #xicualaya #notlapan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #xicualaya #notlaxcal
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #xicualani #nonahuan
+NahuatlOmitlan0161	[oniualaya iuan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #xiualla #ninohuan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	TARGET_____	tiuitz touan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	GPT_EX3____	* #titz #mohuan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	GPT_EX5____	* #toitz #mouan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	GPT_EX10___	* #uitz #toan
+NahuatlOmitlan0162	[uitz mouan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	GPT_EX20___	* #titz #mouan
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	TARGET_____	oc tlatooctoqueh
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	GPT_EX3____	oc tlatooctoqueh
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	GPT_EX5____	oc tlatooctoqueh
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	GPT_EX10___	oc tlatooctoqueh
+NahuatlOmitlan0163	[oc titlatooctoc]	PERSON[SUBJ]:3_PL	GPT_EX20___	oc tlatooctoqueh
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX3____	* amo #ticonmauaya
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX5____	* amo #ticonmauaya
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX10___	* amo #tehuatzin #otoconmauaya
+NahuatlOmitlan0164	[nimehuan amo nitomauaqueh]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	GPT_EX20___	* #tehuatzin amo #otitomauaya
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	TARGET_____	tiualas touan
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX3____	* #ticualas #iuan
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX5____	* #titechiuaz #totonualah #iuan
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX10___	* #toconualas #iuan
+NahuatlOmitlan0165	[oniualah iuan]	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	GPT_EX20___	* tiualas #iuan #tojuan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX3____	* amo #xiualla #noan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX5____	* amo #xiualla #noan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX10___	* amo #xiualla #noan
+NahuatlOmitlan0166	[tiualas touan]	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	GPT_EX20___	* amo #xiualla #nohuan
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	TARGET_____	oc onitlatooctoyah
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	GPT_EX3____	* oc #anquimatoctoc
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	GPT_EX5____	* oc #anquiltatoctoc
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	GPT_EX10___	* #otitlatooctoqueh
+NahuatlOmitlan0167	[oc titlatooctoc]	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	GPT_EX20___	* #otitlatoqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	TARGET_____	oc tlatooctoqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX3____	* oc #uitlatoctohqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX5____	* oc #uitlatoctoc
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX10___	* #tlatoctoqueh
+NahuatlOmitlan0168	[oc onitlatooctoya]	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	GPT_EX20___	* #tlatoctoqueh
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	TARGET_____	touatzin amo otoncatca tontomauac
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX3____	* amo #tictemoa #tomauac
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX5____	* amo #tictemoa #titomauac
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX10___	* amo #tehuatzin #otiisquiya #titomauac
+NahuatlOmitlan0169	[neh niisqui nitomauac]	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	GPT_EX20___	* amo #tehuatzin #oisquiya #tomauac
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX3____	* #ocatca #iconeumeh
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX5____	* #ocatca #iconehuan
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX10___	* ocatcah #iconeumeh
+NahuatlOmitlan0170	[ocatca iconeu]	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	GPT_EX20___	* #ocatqueh #iniconeu
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	TARGET_____	ocatcah inconeuan
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX3____	* #yehuan #oquiconeuhqueh
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX5____	* #yehuan #oquiconeuhqueh
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX10___	* #yehuan #oquiconetoyah
+NahuatlOmitlan0171	[niiconeu]	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	GPT_EX20___	* #oniiconeuhqueh
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #niualazqueh #iuan
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #niualasqueh #niuan
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #niualasqueh #nohuan
+NahuatlOmitlan0172	[oniualah iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #niualas #nohuan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	TARGET_____	amo xiuiqui nouan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX3____	* amo #xiuhtze #nohuan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX5____	* amo #xiuhtin #nohuan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX10___	* amo #xiuhtze #nohuan
+NahuatlOmitlan0173	[tiuitzeh mouan]	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	GPT_EX20___	* amo #xiuhti #nohuan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	TARGET_____	ualasqueh nouan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX3____	* #niualazqueh #iuan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX5____	* #niualayazqueh #iuan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX10___	* #niualasqueh #nohuan
+NahuatlOmitlan0174	[oniualaya iuan]	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	GPT_EX20___	* #tocomonualas #nohuan
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	TARGET_____	yeh iconeu
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX3____	* #inconeuan
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX5____	* #inconeuan
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX10___	* #quinconeuan
+NahuatlOmitlan0175	[niinconeuan]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX20___	* iconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	TARGET_____	yeh iconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX3____	* #noconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX5____	* iconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX10___	* iconeu
+NahuatlOmitlan0176	[nimoconeu]	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	GPT_EX20___	* iconeu

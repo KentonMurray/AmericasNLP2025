@@ -1,0 +1,949 @@
+ID	Source	Change	System	Output
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	TARGET_____	Peteĩ ko’ẽme noñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX3____	Peteĩ ko’ẽme ndoñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX5____	Peteĩ ko’ẽme ndonombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX10__	Peteĩ ko’ẽme ndoñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX20__	Peteĩ ko’ẽme noñombohovairi rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX3_POS	Peteĩ ko’ẽme ndoñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX5_POS	Ndoñombohováiri rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX10POS	Peteĩ ko’ẽme ndoñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX20POS	Peteĩ ko’ẽme noñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	DSK_EX10___	Peteĩ ko’ẽme ndoñombohovaí rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	DSK_EX10POS	Peteĩ ko’ẽme ndoñombohovai rakúma hikuái
+Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	GPT_EX10BGR	Peteĩ ko’ẽme ndoñombohovai rakúma hikuái
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	TARGET_____	Peteĩ ko’ẽme nde reñombohovai rakúma
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX3____	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX5____	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX10__	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX20__	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX3_POS	Peteĩ ko’ẽme peñombohovai rakúma peẽnguéra
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX5_POS	Peë peñombohovai rakúma peteĩ ko’ẽme
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX10POS	Peẽ peñombohovai rakúma peteĩ ko’ẽme
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX20POS	Peẽ peñombohovai rakúma peteĩ ko’ẽme
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	DSK_EX10___	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	DSK_EX10POS	Peteĩ ko’ẽme peñombohovai rakúma peê
+Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	GPT_EX10BGR	Peteĩ ko’ẽme peñombohovai rakúma peẽ
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	TARGET_____	Peteĩ ko’ẽme ñande ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX3____	Peteĩ ko’ẽme ñañombohovái rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX5____	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX10__	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX20__	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX3_POS	Peteĩ ko’ẽme ñañombohovái rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX5_POS	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX10POS	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX20POS	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	DSK_EX10___	Peteĩ ko’ẽme ñande ñañombohovai rakúma
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	DSK_EX10POS	Ñande ñañombohovai rakúma hikuái
+Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	GPT_EX10BGR	Peteĩ ko’ẽme ñañombohovai rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	TARGET_____	Peteĩ ko’ẽme ore roñombohovai rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX3____	Ore roñombohovai rakúma peteĩ ko’ẽme
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX5____	Ore peteĩ ko’ẽme roñombohovai rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX10__	Ore peteĩ ko’ẽme roñombohovai rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX20__	Ore peteĩ ko’ẽme roñombohovai rakúma
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX3_POS	Ore roñombohovai rakúma ko’ẽme
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX5_POS	Ore ñañombohovai rakúma ko’ẽme
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX10POS	Ore ñañombohovai rakúma ko’ẽme
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX20POS	Ore roñombohovai rakúma ko’ẽme
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	DSK_EX10___	Peteĩ ko’ẽme ororoñombohovai rakúma ore
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	DSK_EX10POS	Peteĩ ko’ẽme norombohovai rakúma ore
+Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	GPT_EX10BGR	Ore roñombohovai rakúma peteĩ ko’ẽme
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	TARGET_____	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX3____	Ko’ã tembi’u ñande ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX5____	Ko’ã tembi’u ñande ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX10__	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX20__	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX3_POS	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX5_POS	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX10POS	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX20POS	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	DSK_EX10___	Ko’ã tembi’u ñambojejy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	DSK_EX10POS	Ko’ã tembi’u ñambojejy jepe’a tatarendýpe
+Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	GPT_EX10BGR	Ko’ã tembi’u ñambojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	TARGET_____	Ko’ã tembi’u rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX3____	Ore rombojy jepe’a tatarendýpe ko’ã tembi’u
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX5____	Ore rombojy jepe’a tatarendýpe ko’ã tembi’u
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX10__	Ore rombojy jepe’a tatarendýpe ko’ã tembi’u
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX20__	Ore rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX3_POS	Ko’ã tembi’u rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX5_POS	Ko’ã tembi’u rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX10POS	Ko’ã tembi’u rombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX20POS	Ore rombojy ko’ã tembi’u jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	DSK_EX10___	Ko’ã tembi’u norombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	DSK_EX10POS	Ko’ã tembi’u ororombojy jepe’a tatarendýpe
+Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	GPT_EX10BGR	Ore rombojy jepe’a tatarendýpe ko’ã tembi’u
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	TARGET_____	Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX3____	Ko’ã tembi’u ndombojyi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX5____	Ko’ã tembi’u ndombojyi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX10__	Ko’ã tembi’u ndombojyi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX20__	Ko’ã tembi’u ndombojy jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX3_POS	Ko’ã tembi’u ndombojyi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX5_POS	Ko’ã tembi’u ndombojyi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX10POS	Ko’ã tembi’u ndombojyi jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX20POS	Ko’ã tembi’u ndombojy jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	DSK_EX10___	Ko’ã tembi’u ndombojyjepe’ai tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	DSK_EX10POS	Ko’ã tembi’u ndombojy jepe’a tatarendýpe
+Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	GPT_EX10BGR	Ko’ã tembi’u ndombojy jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	TARGET_____	Ko’ã tembi’u oñembojýta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX3____	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX5____	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX10__	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX20__	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX3_POS	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX5_POS	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX10POS	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX20POS	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	DSK_EX10___	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	DSK_EX10POS	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	GPT_EX10BGR	Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	TARGET_____	Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX3____	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX5____	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX10__	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX20__	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX3_POS	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX5_POS	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX10POS	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX20POS	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	DSK_EX10___	Ko’ã tembi’u ombojy jepe’a tatarendýpe va’ekue
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	DSK_EX10POS	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	GPT_EX10BGR	Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	TARGET_____	Che ahechakuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX3____	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX5____	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX10__	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX20__	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX3_POS	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX5_POS	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX10POS	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX20POS	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	DSK_EX10___	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	DSK_EX10POS	Che ahecha kuri peteĩ óga
+Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	GPT_EX10BGR	Che ahecha kuri peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	TARGET_____	Che ndahecháihina kuri peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX3____	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX5____	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX10__	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX20__	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX3_POS	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX5_POS	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX10POS	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX20POS	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	DSK_EX10___	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	DSK_EX10POS	Che ndahechái kuri hína peteĩ óga
+Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	GPT_EX10BGR	Che ndahechái kuri hína peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	TARGET_____	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX3____	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX5____	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX10__	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX20__	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX3_POS	Che ndahecha peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX5_POS	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX10POS	Che ndahechai peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX20POS	Che ndahechai peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	DSK_EX10___	Che ndahechái peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	DSK_EX10POS	Che ndahecha peteĩ óga
+Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	GPT_EX10BGR	Che ndahechái peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	TARGET_____	Nde nderehechái peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX3____	Nde nderechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX5____	Nde nderechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX10__	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX20__	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX3_POS	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX5_POS	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX10POS	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX20POS	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	DSK_EX10___	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	DSK_EX10POS	Nde nderehechái kuri peteĩ óga
+Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	GPT_EX10BGR	Nde nderehechái kuri peteĩ óga
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	TARGET_____	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX3____	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX5____	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX10__	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX20__	Ha’ekuéra ndosãmbyhyai
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX3_POS	Ha’ekuéra ndosãmbyhyai
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX5_POS	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX10POS	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX20POS	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	DSK_EX10___	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	DSK_EX10POS	Ha’ekuéra ndosãmbyhyi
+Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	GPT_EX10BGR	Ha’ekuéra ndosãmbyhýi
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	TARGET_____	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX3____	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX5____	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX10__	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX20__	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX3_POS	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX5_POS	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX10POS	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX20POS	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	DSK_EX10___	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	DSK_EX10POS	Ha’ekuéra osãmbyhy hína
+Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	GPT_EX10BGR	Ha’ekuéra osãmbyhy hína
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	TARGET_____	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX3____	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX5____	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX10__	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX20__	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX3_POS	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX5_POS	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX10POS	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX20POS	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	DSK_EX10___	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	DSK_EX10POS	Ha’ekuéra osãmbyhyva’ekue
+Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	GPT_EX10BGR	Ha’ekuéra osãmbyhyva’ekue
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	TARGET_____	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX3____	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX5____	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX10__	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX20__	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX3_POS	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX5_POS	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX10POS	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX20POS	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	DSK_EX10___	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	DSK_EX10POS	Ha’ekuéra osãmbyhy ikóni
+Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	GPT_EX10BGR	Ha’ekuéra osãmbyhy ikóni
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	TARGET_____	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX3____	Ñande ñañangareko
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX5____	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX10__	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX20__	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX3_POS	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX5_POS	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX10POS	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX20POS	Ñande ñasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	DSK_EX10___	Ñande jasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	DSK_EX10POS	Ñande jasãmbyhy
+Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	GPT_EX10BGR	Ñande ñasãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	TARGET_____	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX3____	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX5____	Ore roñesãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX10__	Ore roñesãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX20__	Ore roñesãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX3_POS	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX5_POS	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX10POS	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX20POS	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	DSK_EX10___	Ore rosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	DSK_EX10POS	Ore orosãmbyhy
+Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	GPT_EX10BGR	Ore roñesãmbyhy
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	TARGET_____	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX3____	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX5____	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX10__	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX20__	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX3_POS	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX5_POS	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX10POS	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX20POS	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	DSK_EX10___	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	DSK_EX10POS	Peẽ peñanga’uta
+Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	GPT_EX10BGR	Peẽ peñanga’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	TARGET_____	Ha’ekuéra ndoñanga’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX3____	Ha’ekuéra nonangarekói
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX5____	Ha’ekuéra noñangarekói mo’ã
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX10__	Ha’ekuéra nonanga’úita
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX20__	Ha’ekuéra nonanga’úita
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX3_POS	Ha’ekuéra noñangare’umo’ãi
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX5_POS	Ha’ekuéra oñangare’óta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX10POS	Ha’ekuéra nonangare’imo’ãi
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX20POS	Ha’ekuéra noñangare’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	DSK_EX10___	Ha’ekuéra noñanga’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	DSK_EX10POS	Ha’ekuéra napeñanga’uta
+Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	GPT_EX10BGR	Ha’ekuéra nonanga’úita
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	TARGET_____	Che nañanga’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX3____	Che nañangareko mo’ãi
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX5____	Che nananga'uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX10__	Che nanangare’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX20__	Che nanangai'uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX3_POS	Che nañangare’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX5_POS	Che nanangauta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX10POS	Che nanangajuta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX20POS	Che ananga’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	DSK_EX10___	Che nañanga’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	DSK_EX10POS	Che napeñanga’uta
+Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	GPT_EX10BGR	Che nañangare'uta
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	TARGET_____	Peẽ napeñanga’ui kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX3____	Peẽ napeñangauí kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX5____	Peẽ napeñangau kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX10__	Peẽ napeñangau kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX20__	Peẽ napeñangau kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX3_POS	Peẽ napeñangái kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX5_POS	Peẽ napeñangái kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX10POS	Peẽ napeñangái kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX20POS	Peẽ napeñangái kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	DSK_EX10___	Peẽ napeñanga’u kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	DSK_EX10POS	Peẽ napeñanga’u kuri
+Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	GPT_EX10BGR	Peẽ napeñangau kuri
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	TARGET_____	Peẽ napeñanga’ui
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX3____	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX5____	Peẽ napeñanga’ui
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX10__	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX20__	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX3_POS	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX5_POS	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX10POS	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX20POS	Peẽ napeñangái
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	DSK_EX10___	Peẽ napeñanga’u
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	DSK_EX10POS	Peẽ napeñanga’u
+Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	GPT_EX10BGR	Peẽ napeñangái
+Guarani0093	Ore norokúita	TYPE:AFF	TARGET_____	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX3____	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX5____	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX10__	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX20__	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX3_POS	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX5_POS	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX10POS	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX20POS	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	DSK_EX10___	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	DSK_EX10POS	Ore rokúita
+Guarani0093	Ore norokúita	TYPE:AFF	GPT_EX10BGR	Ore rokúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	TARGET_____	Ñande nojakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX3____	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX5____	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX10__	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX20__	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX3_POS	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX5_POS	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX10POS	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX20POS	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	DSK_EX10___	Ñande ndañakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	DSK_EX10POS	Ñande ndajakúita
+Guarani0094	Ore norokúita	PERSON:1_PL_INC	GPT_EX10BGR	Ñande ndajakúita
+Guarani0095	Ore norokúita	PERSON:2_PL	TARGET_____	Peẽ napekúirita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX3____	Nde nderekúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX5____	Nde nderekúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX10__	Peẽ nderekúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX20__	Peẽ nderekúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX3_POS	Peẽ ndapeikúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX5_POS	Peẽ ndapeikúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX10POS	Peẽ ndapeikúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX20POS	Peẽ ndapejúita
+Guarani0095	Ore norokúita	PERSON:2_PL	DSK_EX10___	Nde nereikúita
+Guarani0095	Ore norokúita	PERSON:2_PL	DSK_EX10POS	Nde nerekúita
+Guarani0095	Ore norokúita	PERSON:2_PL	GPT_EX10BGR	Peẽ ndapeikúita
+Guarani0096	Ore norokúita	PERSON:2_SI	TARGET_____	Nde nerekúirita
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX3____	Nde nderokúi mo’ãi
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX5____	Nde narokúi mo’ãi
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX10__	Nde narokúita
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX20__	Nde nderekúita
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX3_POS	Nde nderokúi mo’ãi
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX5_POS	Nde nerekúi mo’ãi
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX10POS	Nde nderekúita
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX20POS	Nde nderekúita
+Guarani0096	Ore norokúita	PERSON:2_SI	DSK_EX10___	Nde nerokúita
+Guarani0096	Ore norokúita	PERSON:2_SI	DSK_EX10POS	Nde nerokúita
+Guarani0096	Ore norokúita	PERSON:2_SI	GPT_EX10BGR	Nde nerekúita
+Guarani0097	Ore norokúita	ASPECT:IPFV	TARGET_____	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX3____	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX5____	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX10__	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX20__	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX3_POS	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX5_POS	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX10POS	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX20POS	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	DSK_EX10___	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	DSK_EX10POS	Ore norokúita hína
+Guarani0097	Ore norokúita	ASPECT:IPFV	GPT_EX10BGR	Ore norokúita hína
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	TARGET_____	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX3____	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX5____	Umi kuaaukahárakuéra noñemongetai kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX10__	Umi kuaaukahárakuéra ndonemongetai kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX20__	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX3_POS	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX5_POS	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX10POS	Umi kuaaukahárakuéra ndoñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX20POS	Umi kuaaukahárakuéra noñemongetái kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	DSK_EX10___	Umi kuaaukahárakuéra ndoñemongetai kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	DSK_EX10POS	Umi kuaaukahárakuéra ndoñemongetai kuri
+Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	GPT_EX10BGR	Umi kuaaukahárakuéra ndoñemongetai kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	TARGET_____	Pe kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX3____	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX5____	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX10__	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX20__	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX3_POS	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX5_POS	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX10POS	Kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX20POS	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	DSK_EX10___	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	DSK_EX10POS	Umi kuaaukahára oñemongeta kuri
+Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	GPT_EX10BGR	Umi kuaaukahára oñemongeta kuri
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	TARGET_____	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX3____	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX5____	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX10__	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX20__	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX3_POS	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX5_POS	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX10POS	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX20POS	Umi kuaaukahárakuéra oñemongetáta
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	DSK_EX10___	Umi kuaaukahárakuéra oñemongetata
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	DSK_EX10POS	Umi kuaaukahárakuéra oñemongetata kuri
+Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	GPT_EX10BGR	Umi kuaaukahárakuéra oñemongetata
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	TARGET_____	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX3____	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX5____	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX10__	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX20__	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX3_POS	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX5_POS	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX10POS	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX20POS	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	DSK_EX10___	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	DSK_EX10POS	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	GPT_EX10BGR	Umi kuaaukahárakuéra oñemongeta kuri hína
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	TARGET_____	Umi kuaaukahárakuéra oñemongetami
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX3____	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX5____	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX10__	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX20__	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX3_POS	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX5_POS	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX10POS	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX20POS	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	DSK_EX10___	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	DSK_EX10POS	Umi kuaaukahárakuéra oñemongetami kuri
+Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	GPT_EX10BGR	Umi kuaaukahárakuéra oñemongetami
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	TARGET_____	Umi kuaaukahárakuéra oñemongeta ikóni kuri
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX3____	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX5____	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX10__	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX20__	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX3_POS	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX5_POS	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX10POS	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX20POS	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	DSK_EX10___	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	DSK_EX10POS	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	GPT_EX10BGR	Umi kuaaukahárakuéra oñemongeta kuri ikóni
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	TARGET_____	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX3____	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX5____	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX10__	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX20__	Ha’e oguerekomi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX3_POS	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX5_POS	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX10POS	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX20POS	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	DSK_EX10___	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	DSK_EX10POS	Ha’e oguerekómi
+Guarani0167	Ha’e noguerekómi	TYPE:AFF	GPT_EX10BGR	Ha’e oguerekómi
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	TARGET_____	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX3____	Ha’e noguerekóikuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX5____	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX10__	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX20__	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX3_POS	Ha’e noguerekokuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX5_POS	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX10POS	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX20POS	Ha’e noguereko kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	DSK_EX10___	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	DSK_EX10POS	Ha’e noguerekói kuri
+Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	GPT_EX10BGR	Ha’e noguerekói kuri
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	TARGET_____	Nde nereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX3____	Nde nderoguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX5____	Nde ndererekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX10__	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX20__	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX3_POS	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX5_POS	Nde ndereguerokói
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX10POS	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX20POS	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	DSK_EX10___	Nde ndererekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	DSK_EX10POS	Nde ndereguerekómi
+Guarani0169	Ha’e noguerekómi	PERSON:2_SI	GPT_EX10BGR	Nde ndereguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	TARGET_____	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX3____	Che ndaguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX5____	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX10__	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX20__	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX3_POS	Che ndaguerokómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX5_POS	Che ndarekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX10POS	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX20POS	Che naguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	DSK_EX10___	Che ndaiguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	DSK_EX10POS	Che ndaiguerekómi
+Guarani0170	Ha’e noguerekómi	PERSON:1_SI	GPT_EX10BGR	Che naguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	TARGET_____	Ñande nañaguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX3____	Ñande ndoroguerekóimi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX5____	Ñande ndajaikómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX10__	Ñande ndajaikómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX20__	Ñande ndoroguerokómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX3_POS	Ñande ndajaikómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX5_POS	Ñande ndorerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX10POS	Ñande ndorerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX20POS	Ñande ndorerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	DSK_EX10___	Ñande ndajaguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	DSK_EX10POS	Ñande ndajaguerekómi
+Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	GPT_EX10BGR	Ñande ndajaikómi
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	TARGET_____	Ha’e noguerekóita
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX3____	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX5____	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX10__	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX20__	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX3_POS	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX5_POS	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX10POS	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX20POS	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	DSK_EX10___	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	DSK_EX10POS	Ha’e oguerekóta
+Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	GPT_EX10BGR	Ha’e oguerekóta
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	TARGET_____	Ha’e ndomokañýi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX3____	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX5____	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX10__	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX20__	Ha’e ndomokañýi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX3_POS	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX5_POS	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX10POS	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX20POS	Ha’e ndomokañýi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	DSK_EX10___	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	DSK_EX10POS	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	GPT_EX10BGR	Ha’e ndomokañyi kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	TARGET_____	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX3____	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX5____	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX10__	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX20__	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX3_POS	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX5_POS	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX10POS	Nde remokañy kuri ne ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX20POS	Nde remokañy kuri ne ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	DSK_EX10___	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	DSK_EX10POS	Nde remokañy kuri pene ñemu potavéva
+Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	GPT_EX10BGR	Nde remokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	TARGET_____	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX3____	Peë pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX5____	Peë pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX10__	Peê pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX20__	Peê pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX3_POS	Peê pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX5_POS	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX10POS	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX20POS	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	DSK_EX10___	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	DSK_EX10POS	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	GPT_EX10BGR	Peẽ pemokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	TARGET_____	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX3____	Che amokañy kuri cheremu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX5____	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX10__	Che amokañy kuri che ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX20__	Che amokañy kuri che ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX3_POS	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX5_POS	Che amokañy kuri che ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX10POS	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX20POS	Che amokañy kuri che ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	DSK_EX10___	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	DSK_EX10POS	Che amokañy kuri pene ñemu potavéva
+Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	GPT_EX10BGR	Che amokañy kuri pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	TARGET_____	Ha’e omokañyta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX3____	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX5____	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX10__	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX20__	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX3_POS	Ha’e omokañyta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX5_POS	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX10POS	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX20POS	Ha’e omokañýta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	DSK_EX10___	Ha’e omokañyta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	DSK_EX10POS	Ha’e omokañyta pene ñemu potavéva
+Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	GPT_EX10BGR	Ha’e omokañýta pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	TARGET_____	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX3____	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX5____	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX10__	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX20__	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX3_POS	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX5_POS	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX10POS	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX20POS	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	DSK_EX10___	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	DSK_EX10POS	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	GPT_EX10BGR	Ha’e omokañy kuri hína pene ñemu potavéva
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	TARGET_____	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX3____	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX5____	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX10__	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX20__	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX3_POS	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX5_POS	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX10POS	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX20POS	Peẽ pemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	DSK_EX10___	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	DSK_EX10POS	Peẽ napemongyráita
+Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	GPT_EX10BGR	Peẽ napemongyráita
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	TARGET_____	Peẽ napemongyrá
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX3____	Peẽ ndamomongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX5____	Peẽ napemongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX10__	Peẽ ndamomongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX20__	Peẽ napemongyrai
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX3_POS	Peẽ ndamongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX5_POS	Peẽ ndapeñongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX10POS	Peẽ ndamomongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX20POS	Peẽ ndamongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	DSK_EX10___	Peẽ napemongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	DSK_EX10POS	Peẽ napemongyrái
+Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	GPT_EX10BGR	Peẽ napemongyrai
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	TARGET_____	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX3____	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX5____	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX10__	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX20__	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX3_POS	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX5_POS	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX10POS	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX20POS	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	DSK_EX10___	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	DSK_EX10POS	Ha’ekuéra nomongyrái kuri
+Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	GPT_EX10BGR	Ha’ekuéra nomongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	TARGET_____	Ñande nañamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX3____	Ñande ñamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX5____	Ñande namongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX10__	Ñande ndajamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX20__	Ñande namongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX3_POS	Ñande ñañamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX5_POS	Ñande namongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX10POS	Ñande namongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX20POS	Ñande namongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	DSK_EX10___	Ñande ñañamongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	DSK_EX10POS	Ñande ñapemongyrái kuri
+Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	GPT_EX10BGR	Ñande nañamongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	TARGET_____	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX3____	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX5____	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX10__	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX20__	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX3_POS	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX5_POS	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX10POS	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX20POS	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	DSK_EX10___	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	DSK_EX10POS	Ore noromongyrái kuri
+Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	GPT_EX10BGR	Ore noromongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	TARGET_____	Peẽ pemongyra kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX3____	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX5____	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX10__	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX20__	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX3_POS	Peẽ pemongyrá kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX5_POS	Peẽ pemongyrá kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX10POS	Peẽ pemongyrá kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX20POS	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	DSK_EX10___	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	DSK_EX10POS	Peẽ pemongyrái kuri
+Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	GPT_EX10BGR	Peẽ pemongyrái kuri
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	TARGET_____	Nde reko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX3____	Nde neko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX5____	Nde neko’õmi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX10__	Nde neko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX20__	Nde neko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX3_POS	Nde reko’õmi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX5_POS	Nde reko’õmi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX10POS	Nde reko’õmi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX20POS	Nde reko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	DSK_EX10___	Nde reko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	DSK_EX10POS	Nde reko’õimi
+Guarani0210	Peẽ peko’õimi	PERSON:2_SI	GPT_EX10BGR	Nde neko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	TARGET_____	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX3____	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX5____	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX10__	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX20__	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX3_POS	Ha’e oko’õmi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX5_POS	Ha’e oko’õmi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX10POS	Ha’e oko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX20POS	Ha’e oko’õmi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	DSK_EX10___	Ha’e ko’õimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	DSK_EX10POS	Ha’e oikoʼõimi
+Guarani0211	Peẽ peko’õimi	PERSON:3_SI	GPT_EX10BGR	Oko'õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	TARGET_____	Peẽ napeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX3____	Peẽ ndapeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX5____	Peẽ ndapeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX10__	Peẽ ndapeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX20__	Napeñeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX3_POS	Peẽ ndapejo’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX5_POS	Peẽ ndapejo’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX10POS	Ndapeko’õimi peẽ
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX20POS	Peẽ ndapeko’õimíri
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	DSK_EX10___	Peẽ ndeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	DSK_EX10POS	Peẽ ndeko’õimi
+Guarani0212	Peẽ peko’õimi	TYPE:NEG	GPT_EX10BGR	Peẽ ndapeko’õimi
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	TARGET_____	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX3____	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX5____	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX10__	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX20__	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX3_POS	Peẽ peko’õhina
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX5_POS	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX10POS	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX20POS	Peẽ peko’õimihína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	DSK_EX10___	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	DSK_EX10POS	Peẽ peko’õimi hína
+Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	GPT_EX10BGR	Peẽ peko’õimi hína
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	TARGET_____	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX3____	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX5____	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX10__	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX20__	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX3_POS	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX5_POS	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX10POS	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX20POS	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	DSK_EX10___	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	DSK_EX10POS	Peẽ peko’õimi ikóni
+Guarani0214	Peẽ peko’õimi	ASPECT:INM	GPT_EX10BGR	Peẽ peko’õimi ikóni
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	TARGET_____	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX3____	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX5____	Ore roko'õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX10__	Ore roko'õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX20__	Ore roko'õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX3_POS	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX5_POS	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX10POS	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX20POS	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	DSK_EX10___	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	DSK_EX10POS	Ore roko’õimi
+Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	GPT_EX10BGR	Ore roko'õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	TARGET_____	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX3____	Che ako’õmi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX5____	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX10__	Che ako'õmi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX20__	Che ako'õmi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX3_POS	Che ako’õmi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX5_POS	Che ako’õmi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX10POS	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX20POS	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	DSK_EX10___	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	DSK_EX10POS	Che ako’õimi
+Guarani0216	Peẽ peko’õimi	PERSON:1_SI	GPT_EX10BGR	Che ako'õimi
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	TARGET_____	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX3____	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX5____	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX10__	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX20__	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX3_POS	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX5_POS	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX10POS	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX20POS	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	DSK_EX10___	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	DSK_EX10POS	Ore rombyai kuri
+Guarani0232	Ore ndorombyai kuri	TYPE:AFF	GPT_EX10BGR	Ore rombyai kuri
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	TARGET_____	Ore ndorombyaita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX3____	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX5____	Ore ndorombyaíta
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX10__	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX20__	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX3_POS	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX5_POS	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX10POS	Ore rombyaíta
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX20POS	Ore ndorombyáita
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	DSK_EX10___	Ore ndorombyaíta
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	DSK_EX10POS	Ore ndorombyaíta
+Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	GPT_EX10BGR	Ore ndorombyáita
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	TARGET_____	Ñande nañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX3____	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX5____	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX10__	Ñande ndajaikuaai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX20__	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX3_POS	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX5_POS	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX10POS	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX20POS	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	DSK_EX10___	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	DSK_EX10POS	Ñande ndañambyai kuri
+Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	GPT_EX10BGR	Ñande ndañambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	TARGET_____	Che nambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX3____	Che ndambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX5____	Che ndaimbyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX10__	Che ndaikuaai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX20__	Che ndaimbyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX3_POS	Che ndambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX5_POS	Che nambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX10POS	Che ndambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX20POS	Che nambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	DSK_EX10___	Che ndambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	DSK_EX10POS	Che ndambyai kuri
+Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	GPT_EX10BGR	Che nambyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	TARGET_____	Peẽ napembyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX3____	Peë ndapeñembyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX5____	Nde ndereiporombyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX10__	Peẽ ndapeñembyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX20__	Peẽ ndapeñembyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX3_POS	Peë ndapeñembyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX5_POS	Peë ndapeiporombyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX10POS	Peẽ ndapeiporombyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX20POS	Peẽ ndapeiporombyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	DSK_EX10___	Nde ndereimbyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	DSK_EX10POS	Peë ndereimbyai kuri
+Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	GPT_EX10BGR	Peë ndapeñembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	TARGET_____	Nde nerembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX3____	Nde nderembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX5____	Nde nderembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX10__	Nde nderembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX20__	Nde nerembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX3_POS	Nde nembyaí kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX5_POS	Nde nembyaikuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX10POS	Nde nderembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX20POS	Nde nderembyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	DSK_EX10___	Nde nderembyaikuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	DSK_EX10POS	Nde nderemborombyai kuri
+Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	GPT_EX10BGR	Nde nderembyai kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	TARGET_____	Peẽ peñemongeta kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX3____	Peẽ peñemongetakuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX5____	Peẽ peñemongetakuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX10__	Peẽ peñemongetámi kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX20__	Peẽ peñemongetá kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX3_POS	Peẽ peñemongetakuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX5_POS	Peẽ peñemongetakuri hina
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX10POS	Peẽ peñemongetá kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX20POS	Peẽ peñemongetá kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	DSK_EX10___	Peẽ peñemongetái kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	DSK_EX10POS	Peẽ peñemongeta kuri
+Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	GPT_EX10BGR	Peẽ peñemongetakuri
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	TARGET_____	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX3____	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX5____	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX10__	Ñande ñañemongetámi
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX20__	Ñande ñañemongetámi
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX3_POS	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX5_POS	Ñande ñañemongetámi
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX10POS	Ñande ñañemongetámi
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX20POS	Ñande ñañemongetámi
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	DSK_EX10___	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	DSK_EX10POS	Ñande ñañemongetami
+Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	GPT_EX10BGR	Ñande ñañemongetámi
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	TARGET_____	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX3____	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX5____	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX10__	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX20__	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX3_POS	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX5_POS	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX10POS	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX20POS	Ore roñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	DSK_EX10___	Ore noroñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	DSK_EX10POS	Ore noroñemongetami
+Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	GPT_EX10BGR	Ore roñemongetami
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	TARGET_____	Peẽ peñemongetáta
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX3____	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX5____	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX10__	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX20__	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX3_POS	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX5_POS	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX10POS	Peẽ peñemongetáta
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX20POS	Peẽ peñemongetáta
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	DSK_EX10___	Peẽ peñemongetata
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	DSK_EX10POS	Peẽ peñemongetáta
+Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	GPT_EX10BGR	Peẽ peñemongetata
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	TARGET_____	Peẽ napeñemongetaimi
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX3____	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX5____	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX10__	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX20__	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX3_POS	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX5_POS	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX10POS	Peẽ ndapeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX20POS	Peẽ ndapeñemongetái
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	DSK_EX10___	Peẽ ndopeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	DSK_EX10POS	Peẽ ndopeñemongetami
+Guarani0242	Peẽ peñemongetami	TYPE:NEG	GPT_EX10BGR	Peẽ ndapeñemongetami
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	TARGET_____	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX3____	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX5____	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX10__	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX20__	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX3_POS	Peẽ peñemongetáma
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX5_POS	Peẽ peñemongetáma
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX10POS	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX20POS	Peẽ peñemongetáma
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	DSK_EX10___	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	DSK_EX10POS	Peẽ peñemongeta
+Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	GPT_EX10BGR	Peẽ peñemongeta
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	TARGET_____	Ha’e ndopovyvýi kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX3____	Ha’e ndopovyvyri kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX5____	Ha’e ndopovyvyí kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX10__	Ha’e ndopovyvy kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX20__	Ha’e ndopovyvíri kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX3_POS	Ha’e ndopovyvyí kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX5_POS	Ha’e ndopovyvyri kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX10POS	Ha’e ndopovyvy kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX20POS	Ha’e ndopovyvy kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	DSK_EX10___	Ha’e ndopovyvyi kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	DSK_EX10POS	Ha’e ndopovyvyi kuri
+Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	GPT_EX10BGR	Ha’e ndopovyvyí kuri
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	TARGET_____	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX3____	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX5____	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX10__	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX20__	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX3_POS	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX5_POS	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX10POS	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX20POS	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	DSK_EX10___	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	DSK_EX10POS	Ha’e opovyvy kuri hína
+Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	GPT_EX10BGR	Ha’e opovyvy kuri hína
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	TARGET_____	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX3____	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX5____	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX10__	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX20__	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX3_POS	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX5_POS	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX10POS	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX20POS	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	DSK_EX10___	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	DSK_EX10POS	Nde repovyvy kuri
+Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	GPT_EX10BGR	Nde repovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	TARGET_____	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX3____	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX5____	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX10__	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX20__	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX3_POS	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX5_POS	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX10POS	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX20POS	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	DSK_EX10___	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	DSK_EX10POS	Che apovyvy kuri
+Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	GPT_EX10BGR	Che apovyvy kuri
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	TARGET_____	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX3____	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX5____	Ha’e opovyvýta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX10__	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX20__	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX3_POS	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX5_POS	Ha’e opovyvýta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX10POS	Ha’e opovyvýta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX20POS	Ha’e opovyvýta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	DSK_EX10___	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	DSK_EX10POS	Ha’e opovyvyta
+Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	GPT_EX10BGR	Ha’e opovyvyta
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	TARGET_____	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX3____	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX5____	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX10__	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX20__	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX3_POS	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX5_POS	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX10POS	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX20POS	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	DSK_EX10___	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	DSK_EX10POS	Ha’e opovyvyva’ekue
+Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	GPT_EX10BGR	Ha’e opovyvyva’ekue
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	TARGET_____	Ha’e opovyvymi
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX3____	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX5____	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX10__	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX20__	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX3_POS	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX5_POS	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX10POS	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX20POS	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	DSK_EX10___	Ha’e opovyvykuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	DSK_EX10POS	Ha’e opovyvymi kuri
+Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	GPT_EX10BGR	Ha’e opovyvymi
