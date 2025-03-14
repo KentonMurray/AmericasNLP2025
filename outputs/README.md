@@ -23,7 +23,7 @@ We tested variations of the GPT-4 component of Teams Giving it a Shot (Haley, Am
 |--------------------------|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|
 |                          | **Acc.** | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |
 | Base prompt, 10 examples |          |          |          |   |          |          |          |   | 44.30    | 55.63    | 87.18    |   |          |          |          |
-| Base prompt, 10 examples |          |          |          |   |          |          |          |   | 41.77    | 51.59    | 86.45    |   |          |          |          |
+| POS, 10 examples |          |          |          |   |          |          |          |   | 41.77    | 51.59    | 86.45    |   |          |          |          |
 
 ####Other teams
 
