@@ -48,6 +48,19 @@ We tested variations of the GPT-4 component of Teams Giving it a Shot (Haley, Am
 
 
 
+| Model                      | Bribri   | ---      | ---      |   | Maya     | ---      | ---      |   | Guarani  | ---      | ---      |   | Nahuatl  | ---      | ---      |
+|----------------------------|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|---|----------|----------|----------|
+|                           | **Acc.** | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |   | **Acc**. | **BLEU** | **chrF** |
+| Original Meenser           | 8.96     | 35.65    | 58.01    |   | 41.61    | 70.75    | 86.63    |   | 27.85    | 41.76    | 81.35    |   | Error    | Error    | Error    |
+| Deepseek - COT             | 0.00     | 6.14     | 35.89    |   | 9.40     | 40.51    | 72.86    |   | 10.13    | 26.86    | 76.44    |   | 0.57     | 3.33     | 33.55    |
+| ChatGPT 4 - COT            | 0.00     | 5.70     | 32.01    |   | 8.72     | 33.71    | 60.54    |   | 21.52    | 31.49    | 64.81    |   | 0.00     | 0.89     | 28.35    |
+| ChatGPT 3 - COT + 15 examples | 5.19  | 35.58    | 54.58    |   | 34.90    | 65.14    | 83.91    |   | 26.58    | 39.21    | 80.04    |   | Error    | Error    | Error    |
+| ChatGPT 3 - COT + 20 examples | 8.49  | 34.53    | 55.10    |   | 32.21    | 65.81    | 84.00    |   | 22.78    | 40.31    | 79.08    |   | Error    | Error    | Error    |
+| ChatGPT 3 - COT + 25 examples | 8.49  | 36.43    | 56.43    |   | 33.56    | 64.81    | 83.92    |   | 21.52    | 33.59    | 79.54    |   | Error    | Error    | Error    |
+| Deepseek - COT + 25 examples  | 14.62 | 45.35    | 64.71    |   | 54.36    | 76.04    | 90.64    |   | 36.71    | 46.83    | 85.40    |   | 3.41     | 11.19    | 45.58    |
+
+
+
 ### System info
 **Giving it a Shot** includes training examples formatted as a csv completion task. Predictions are generated using temperature=0, contrastive to 0.1 as reported in (Haley, AmericasNLP 2024).\
 Examples used in the prompt are selected as follows:
