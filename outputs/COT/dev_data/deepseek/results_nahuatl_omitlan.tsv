@@ -1,0 +1,177 @@
+ID	Source	Change	Target	Predicted Target
+NahuatlOmitlan0001	oualah nouan	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	xonuiqueh touan	Xicmocuitlahui in totlahtol
+NahuatlOmitlan0002	amo mococoua	ASPECT:PFV, TENSE:PAS_SIM	amo omococoh	amo mococouac
+NahuatlOmitlan0003	ualasqueh nouan	ASPECT:IPFV, PERSON[POSS]:3_PL, TENSE:PAS_SIM, TYPE:NEG	amo oualayah inuan	amo ualasqueh nouan
+NahuatlOmitlan0004	ualasqueh nouan	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	xonuiqueh touan	xicalcan nouan
+NahuatlOmitlan0005	neh amo nitomauac	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	tehuan tiisqueh titomauaqueh	teh titomauazqueh
+NahuatlOmitlan0006	neh amo nitomauac	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	touatzin amo otoncatca tontomauac	
+NahuatlOmitlan0007	nimococoua	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	timococosqueh	timococouaz
+NahuatlOmitlan0008	timoconeuan	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	niinconeuan	anmoconeuan
+NahuatlOmitlan0009	neh amo nitomauac	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	yehuan amo isqueh tomauaqueh	yeh amo tomauazqueh
+NahuatlOmitlan0010	oualah nouan	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	tiuitzeh mouan	tioualah tinouan
+NahuatlOmitlan0011	amo oualayah inuan	TENSE:PRE_SIM, TYPE:AFF	uitzeh inuan	ouala inuan
+NahuatlOmitlan0012	tiuitz touan	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	tiuitzeh mouan	tihui towan
+NahuatlOmitlan0013	oniualah iuan	ASPECT:IPFV	oniualaya iuan	nihuālaya iuan
+NahuatlOmitlan0014	oualah nouan	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	amo xiuiqui nouan	amo xouala
+NahuatlOmitlan0015	neh nitomauac	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	teh oticatca titomauac	teh titomauacc
+NahuatlOmitlan0016	oniualaya iuan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	uitzeh inuan	oniuaya iuan
+NahuatlOmitlan0017	uitz mouan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	ualasqueh nouan	no uit mouan
+NahuatlOmitlan0018	uitzeh inuan	PERSON[POSS]:1_SI, TYPE:NEG	amo uitseh nouan	amo no-uitzeh
+NahuatlOmitlan0019	timoconeuan	PERSON[SUBJ]:1_SI	nimoconeu	nimoconeua
+NahuatlOmitlan0020	tiuitz touan	TENSE:FUT_SIM	tiualas touan	tiuitz touan
+NahuatlOmitlan0021	oualah nouan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tiualas touan	tiah ticoualah
+NahuatlOmitlan0022	amo tinoconeu	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:AFF	ocatcah inconeuan	conihqueh in
+NahuatlOmitlan0023	xonuiqueh touan	HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	uitzeh inuan	xonuiqueh touan
+NahuatlOmitlan0024	oniualah iuan	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	amo xiuiqui nouan	mā xicualah
+NahuatlOmitlan0025	mococouah	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	amo omococoh	amo mococouah
+NahuatlOmitlan0026	timococosquiah	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	amo mococoua	ahmo quimococosquiah
+NahuatlOmitlan0027	nimococoua	PERSON[SUBJ]:3_SI, TYPE:NEG	amo mococoua	amo quicocoua
+NahuatlOmitlan0028	neh amo nitomauac	PERSON[SUBJ]:2_PL	nimehuan amo nitomauaqueh	tehuan amo titomauacqueh
+NahuatlOmitlan0029	tiuitz touan	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL	xonuiqueh touan	xitiuitz touan
+NahuatlOmitlan0030	timoconeuan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	ocatcah inconeuan	quimoconeuaya
+NahuatlOmitlan0031	timococosqueh	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	amo omococoh	ahmo cococ
+NahuatlOmitlan0032	tiualas touan	HON:1, MOOD:IMP, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	xonuiqueh touan	xiualacan touan
+NahuatlOmitlan0033	amo xiuiqui nouan	ASPECT:IPFV, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	amo oualayah inuan	amo xiuiquihqueh inouan
+NahuatlOmitlan0034	neh nitomauac	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	tehuan tiisqueh titomauaqueh	tih tihtomauacz
+NahuatlOmitlan0035	nimoconeu	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	ocatcah inconeuan	quimconehqueh
+NahuatlOmitlan0036	neh nitomauac	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	touatzin amo otoncatca tontomauac	Amo titomauacah
+NahuatlOmitlan0037	neh nitomauac	TENSE:FUT_SIM	neh niisqui nitomauac	neh nitomauaz
+NahuatlOmitlan0038	nimococouah	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	onimococouaya	nimococouahya
+NahuatlOmitlan0039	amo xiuiqui nouan	MOOD:NA, PERSON[SUBJ]:3_PL	amo uitseh nouan	amo xiuiqui nouan
+NahuatlOmitlan0040	neh nitomauac	PERSON[SUBJ]:1_PL	tehuan titomauaqueh	teh titomauac
+NahuatlOmitlan0041	amo xiuiqui nouan	MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	uitzeh inuan	xiuiqui nouan
+NahuatlOmitlan0042	niinconeuan	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	ocatca iconeu	ōquinconeuh
+NahuatlOmitlan0043	teh oticatca titomauac	HON:1, TYPE:NEG	touatzin amo otoncatca tontomauac	neh amo oticatca titomauac
+NahuatlOmitlan0044	ualasqueh nouan	MOOD:IMP, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	amo xiuiqui nouan	xicala
+NahuatlOmitlan0045	mococouah	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	onimococouaya	nimococouahya
+NahuatlOmitlan0046	uitz mouan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	amo oualayah inuan	amo uitztiaya mouan
+NahuatlOmitlan0047	nimoconeu	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	niinconeuan	anmoconeu
+NahuatlOmitlan0048	ualasqueh nouan	TENSE:PRE_SIM, TYPE:NEG	amo uitseh nouan	amo ualati
+NahuatlOmitlan0049	oniualaya iuan	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	tiuitzeh mouan	tiualaya mo iuan
+NahuatlOmitlan0050	timococosquiah	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	nimococouah	timococosquiah
+NahuatlOmitlan0051	niiconeu	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL	timoconeuan	timiconeu
+NahuatlOmitlan0052	oualah nouan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	amo oualayah inuan	amo ouallah nouan
+NahuatlOmitlan0053	timoconeuan	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	yeh iconeu	quimoconeuan
+NahuatlOmitlan0054	oualah nouan	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	oniualaya iuan	nioualah nouan
+NahuatlOmitlan0055	tiuitzeh mouan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	ualasqueh nouan	niuitzeh moqueh
+NahuatlOmitlan0056	nimoconeu	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo tinoconeu	tinoconeuh amo
+NahuatlOmitlan0057	oniualah iuan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	amo oualayah inuan	amo oniualayah iuan
+NahuatlOmitlan0058	oniualaya iuan	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	xonuiqueh touan	Ticmocuitlahuican in tocnihuan
+NahuatlOmitlan0059	timococosqueh	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	mococouah	quimococoh
+NahuatlOmitlan0060	nimehuan amo nitomauaqueh	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	teh oticatca titomauac	titomauaya
+NahuatlOmitlan0061	nimococoua	MOOD:COND, PERSON[SUBJ]:1_PL	timococosquiah	timococouazque
+NahuatlOmitlan0062	nimehuan amo nitomauaqueh	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM, TYPE:AFF	neh niisqui nitomauac	nimehuan nitomauaqueh
+NahuatlOmitlan0063	oniualah iuan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	amo uitseh nouan	amo ualah nohuan
+NahuatlOmitlan0064	nimoconeu	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	ocatca iconeu	quiconēuh
+NahuatlOmitlan0065	amo oualayah inuan	PERSON[POSS]:1_SI, TENSE:PRE_SIM	amo uitseh nouan	amo niqui nohuan
+NahuatlOmitlan0066	yehuan amo isqueh tomauaqueh	PERSON[SUBJ]:1_PL, TYPE:AFF	tehuan tiisqueh titomauaqueh	tehuan isqueh tomauaqueh
+NahuatlOmitlan0067	neh nitomauac	TYPE:NEG	neh amo nitomauac	neh amo nitomauac
+NahuatlOmitlan0068	tiuitz touan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	ualasqueh nouan	notiuitz touan
+NahuatlOmitlan0069	uitz mouan	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	xonuiqueh touan	xictzacuican
+NahuatlOmitlan0070	tiuitz touan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	uitzeh inuan	intouan tiuitz
+NahuatlOmitlan0071	tiuitz touan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo uitseh nouan	amo nitiuitz touan no
+NahuatlOmitlan0072	uitz mouan	PERSON[SUBJ]:1_PL	tiuitzeh mouan	tiwitz tian
+NahuatlOmitlan0073	uitz mouan	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	oniualah iuan	oniuhtz i-mouan
+NahuatlOmitlan0074	niiconeu	PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL	niinconeuan	tiiconeu
+NahuatlOmitlan0075	nimococouah	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	amo omococoh	
+NahuatlOmitlan0076	uitz mouan	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo xiuiqui nouan	amo xi-no-uitz
+NahuatlOmitlan0077	amo tinoconeu	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:AFF	ocatca iconeu	conehua
+NahuatlOmitlan0078	neh niisqui nitomauac	PERSON[SUBJ]:1_PL	tehuan tiisqueh titomauaqueh	teh tiisqui titomauac
+NahuatlOmitlan0079	nimococoua	ASPECT:PFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	amo omococoh	amoquicocouac
+NahuatlOmitlan0080	oualah nouan	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	amo uitseh nouan	amo oualah nouan
+NahuatlOmitlan0081	oniualaya iuan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	amo uitseh nouan	quiyah ahmo yauh nochan
+NahuatlOmitlan0082	xonuiqueh touan	HON:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo xiuiqui nouan	amo nionuiqueh tinech
+NahuatlOmitlan0083	niiconeu	ASPECT:IPFV, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	ocatca iconeu	oconeu
+NahuatlOmitlan0084	oniualah iuan	PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	tiuitzeh mouan	tiualahqueh mouian
+NahuatlOmitlan0085	timococosquiah	MOOD:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	mococouah	quimococosquiah
+NahuatlOmitlan0086	tehuan titomauaqueh	PERSON[SUBJ]:1_SI, TENSE:FUT_SIM	neh niisqui nitomauac	ni tomauaz
+NahuatlOmitlan0087	neh amo nitomauac	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	teh oticatca titomauac	titomauacah
+NahuatlOmitlan0088	nimococouah	PERSON[SUBJ]:3_SI, TYPE:NEG	amo mococoua	amo quicocouah
+NahuatlOmitlan0089	nimehuan amo nitomauaqueh	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	yehuan amo isqueh tomauaqueh	quimehuazqueh amo tomauazqueh
+NahuatlOmitlan0090	tehuan titomauaqueh	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	teh oticatca titomauac	tehuan titomauaya
+NahuatlOmitlan0091	oualah nouan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tiuitz touan	toualah timouan
+NahuatlOmitlan0092	nimehuan amo nitomauaqueh	PERSON[SUBJ]:1_PL, TENSE:FUT_SIM, TYPE:AFF	tehuan tiisqueh titomauaqueh	nimehuan titomauazqueh
+NahuatlOmitlan0093	tiualas touan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:NEG	amo uitseh nouan	Amo tiualas no touan.
+NahuatlOmitlan0094	oualah nouan	PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI	oniualah iuan	nialah nouan
+NahuatlOmitlan0095	tehuan titomauaqueh	PERSON[SUBJ]:2_PL, TYPE:NEG	nimehuan amo nitomauaqueh	amo antomauaqueh
+NahuatlOmitlan0096	oniualaya iuan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tiualas touan	tiualaz iuan to-
+NahuatlOmitlan0097	nimococoua	PERSON[SUBJ]:3_PL	mococouah	quimococoua
+NahuatlOmitlan0098	timoconeuan	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	ocatca iconeu	moconeuaya
+NahuatlOmitlan0099	neh nitomauac	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	yehuan amo isqueh tomauaqueh	yehqueh amo tomauazqueh
+NahuatlOmitlan0100	oniualaya iuan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	amo oualayah inuan	amo oniualaya iuan
+NahuatlOmitlan0101	niiconeu	PERSON[POSS]:2_SI	nimoconeu	moiconeu
+NahuatlOmitlan0102	uitz mouan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tiualas touan	Tiuitzqueh
+NahuatlOmitlan0103	tiuitz touan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	amo oualayah inuan	ahmo tiuitzqueh touan
+NahuatlOmitlan0104	oc onitlatooctoyah	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	oc tlatooctoqueh	oc quitlatoah
+NahuatlOmitlan0105	neh nitomauac	PERSON[SUBJ]:2_PL, TYPE:NEG	nimehuan amo nitomauaqueh	
+NahuatlOmitlan0106	timococosqueh	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	amo mococoua	amo quicocos
+NahuatlOmitlan0107	yeh iconeu	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	ocatcah inconeuan	In iconeuh pīaya.
+NahuatlOmitlan0108	timococosqueh	ASPECT:IPFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	onimococouaya	nicocoa
+NahuatlOmitlan0109	neh amo nitomauac	TENSE:FUT_SIM, TYPE:AFF	neh niisqui nitomauac	neh nitomauaz
+NahuatlOmitlan0110	neh amo nitomauac	PERSON[SUBJ]:1_PL, TYPE:AFF	tehuan titomauaqueh	teh titomauac
+NahuatlOmitlan0111	tiuitzeh mouan	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	xonuiqueh touan	ticmouan tiuitzeh
+NahuatlOmitlan0112	tehuan titomauaqueh	TENSE:FUT_SIM	tehuan tiisqueh titomauaqueh	tehuan titomauazqueh
+NahuatlOmitlan0113	niiconeu	PERSON[SUBJ]:3_SI	yeh iconeu	quiconeu
+NahuatlOmitlan0114	oniualah iuan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	uitzeh inuan	oniuallah iuan
+NahuatlOmitlan0115	oualah nouan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	uitzeh inuan	oualah in nouan
+NahuatlOmitlan0116	oc onitlatooctoya	PERSON[SUBJ]:2_PL	oc onitlatooctoyah	oc ontlatoctoyan
+NahuatlOmitlan0117	onimococouaya	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	amo mococoua	amoquimococoua
+NahuatlOmitlan0118	xonuiqueh touan	HON:NA, MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo uitseh nouan	noxonuiqueh touan
+NahuatlOmitlan0119	tehuan tiisqueh titomauaqueh	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	teh oticatca titomauac	tehuan tiihtocah titomauaqueh
+NahuatlOmitlan0120	tehuan titomauaqueh	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	yehuan amo isqueh tomauaqueh	ahmo tomauazqueh
+NahuatlOmitlan0121	oniualah iuan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tiuitz touan	tiualah touan
+NahuatlOmitlan0122	tiualas touan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL	ualasqueh nouan	ualas nohuan
+NahuatlOmitlan0123	uitz mouan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo uitseh nouan	Amo uitzti mouan
+NahuatlOmitlan0124	nimococoua	ASPECT:IPFV, TENSE:PAS_SIM	onimococouaya	nicococouaya
+NahuatlOmitlan0125	timococosquiah	ASPECT:PFV, MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM, TYPE:NEG	amo omococoh	amo quimococosquiah
+NahuatlOmitlan0126	onimococouaya	ASPECT:PFV, PERSON[SUBJ]:3_SI, TYPE:NEG	amo omococoh	amo oquicocouaya
+NahuatlOmitlan0127	nimococouah	PERSON[SUBJ]:3_PL	mococouah	quimococouah
+NahuatlOmitlan0128	oualah nouan	PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	ualasqueh nouan	oualahzqueh nouan
+NahuatlOmitlan0129	tiualas touan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	amo oualayah inuan	amo tiualaya touan
+NahuatlOmitlan0130	tiuitzeh mouan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tiualas touan	touitzah mouan
+NahuatlOmitlan0131	oniualaya iuan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tiuitz touan	tiualaya iuan to
+NahuatlOmitlan0132	uitz mouan	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	oniualaya iuan	niquitza
+NahuatlOmitlan0133	tiualas touan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	uitzeh inuan	tiualaqueh touan
+NahuatlOmitlan0134	timococosqueh	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	nimococouah	ticocohqueh
+NahuatlOmitlan0135	tehuan titomauaqueh	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	touatzin amo otoncatca tontomauac	ahmo timauaqueh
+NahuatlOmitlan0136	ualasqueh nouan	PERSON[POSS]:3_PL, TENSE:PRE_SIM	uitzeh inuan	ualasqueh ihuan
+NahuatlOmitlan0137	mococouah	PERSON[SUBJ]:3_SI, TYPE:NEG	amo mococoua	ahmo mococouah
+NahuatlOmitlan0138	nimococoua	PERSON[SUBJ]:2_PL	nimococouah	amococoua
+NahuatlOmitlan0139	timoconeuan	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo tinoconeu	amo timonoconeuan
+NahuatlOmitlan0140	tiuitzeh mouan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	uitzeh inuan	tiuitzeh mouan
+NahuatlOmitlan0141	oualah nouan	PERSON[POSS]:2_SI, TENSE:PRE_SIM	uitz mouan	tiah mouan
+NahuatlOmitlan0142	tehuan tiisqueh titomauaqueh	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	touatzin amo otoncatca tontomauac	Timohtikah titehmauakah
+NahuatlOmitlan0143	neh niisqui nitomauac	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	teh oticatca titomauac	teh tiisqui titomauac
+NahuatlOmitlan0144	niiconeu	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo tinoconeu	amo ticoneu no
+NahuatlOmitlan0145	uitz mouan	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	uitzeh inuan	
+NahuatlOmitlan0146	yehuan amo isqueh tomauaqueh	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	touatzin amo otoncatca tontomauac	Tlaamo tiquittaqueh
+NahuatlOmitlan0147	oc onitlatooctoya	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	oc titlatooctoc	titlatoa
+NahuatlOmitlan0148	timococosquiah	ASPECT:IPFV, MOOD:NA, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	onimococouaya	nicococosquia
+NahuatlOmitlan0149	timococosquiah	MOOD:NA, TENSE:FUT_SIM	timococosqueh	timocosquiaz
+NahuatlOmitlan0150	yehuan amo isqueh tomauaqueh	PERSON[SUBJ]:1_SI, TYPE:AFF	neh niisqui nitomauac	ni niquitta tomauaqueh
+NahuatlOmitlan0151	yeh iconeu	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo tinoconeu	tla ticoneu no.
+NahuatlOmitlan0152	oniualah iuan	HON:1, MOOD:IMP, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	xonuiqueh touan	xihualacan toiuan
+NahuatlOmitlan0153	niinconeuan	PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo tinoconeu	amo ticoneuano
+NahuatlOmitlan0154	yehuan amo isqueh tomauaqueh	ASPECT:IPFV, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:AFF	teh oticatca titomauac	Tiquihtoh tomauaqueh
+NahuatlOmitlan0155	niinconeuan	ASPECT:IPFV, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	ocatcah inconeuan	quihconehuayah
+NahuatlOmitlan0156	tiuitzeh mouan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo uitseh nouan	amo tiuitzeh mouan
+NahuatlOmitlan0157	tiuitzeh mouan	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	amo oualayah inuan	amo tiuitzeh mouan
+NahuatlOmitlan0158	yeh iconeu	ASPECT:IPFV, TENSE:PAS_SIM	ocatca iconeu	yeh iconeuya
+NahuatlOmitlan0159	xonuiqueh touan	ASPECT:IPFV, HON:NA, MOOD:NA, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TYPE:NEG	amo oualayah inuan	ahmo xonuiyah touan
+NahuatlOmitlan0160	tiuitz touan	MOOD:IMP, PERSON[POSS]:1_SI, TYPE:NEG	amo xiuiqui nouan	Amo nitoui
+NahuatlOmitlan0161	oniualaya iuan	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM, TYPE:NEG	amo xiuiqui nouan	Amo xiualaya no-
+NahuatlOmitlan0162	uitz mouan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI	tiuitz touan	uitz moc
+NahuatlOmitlan0163	oc titlatooctoc	PERSON[SUBJ]:3_PL	oc tlatooctoqueh	oc titlatooctoc
+NahuatlOmitlan0164	nimehuan amo nitomauaqueh	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	touatzin amo otoncatca tontomauac	
+NahuatlOmitlan0165	oniualah iuan	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tiualas touan	tiualaz iuan
+NahuatlOmitlan0166	tiualas touan	MOOD:IMP, PERSON[POSS]:1_SI, TENSE:PRE_SIM, TYPE:NEG	amo xiuiqui nouan	Ma xinechpalehui nochan
+NahuatlOmitlan0167	oc titlatooctoc	PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	oc onitlatooctoyah	oc antlatoqueh
+NahuatlOmitlan0168	oc onitlatooctoya	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	oc tlatooctoqueh	oc quitlatoa
+NahuatlOmitlan0169	neh niisqui nitomauac	ASPECT:IPFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	touatzin amo otoncatca tontomauac	teh amo tiquisqui nitomauac
+NahuatlOmitlan0170	ocatca iconeu	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL	ocatcah inconeuan	ocatqueh inconeuh
+NahuatlOmitlan0171	niiconeu	ASPECT:IPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM	ocatcah inconeuan	quimiconeuhuānque
+NahuatlOmitlan0172	oniualah iuan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	ualasqueh nouan	quinequizqueh no
+NahuatlOmitlan0173	tiuitzeh mouan	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TYPE:NEG	amo xiuiqui nouan	amo tiuitzeh mouan
+NahuatlOmitlan0174	oniualaya iuan	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	ualasqueh nouan	quinequiaya nohuiyan
+NahuatlOmitlan0175	niinconeuan	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	yeh iconeu	quinconeuan
+NahuatlOmitlan0176	nimoconeu	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI	yeh iconeu	quiconeu
