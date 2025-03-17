@@ -1,0 +1,121 @@
+ID	Source	Change	Target
+NahuatlOmitlan0001	amo masectlali ipan mesa	ASPECT:PERFV, MOOD:NA, PERSON[OBJ]:3_PL, PERSON[SUBJ]:3_SI, TENSE:PAST, TYPE:AFF	oquinmasectlalih ipan mesa
+NahuatlOmitlan0002	in chilmeh isqueh chichiltiqueh	MOOD:COND, PERSON[SUBJ]:3_SI, TYPE:NEG	amo in chilmeh chichiltisquiah
+NahuatlOmitlan0003	ninqueh calmeh uehueyen	PERSON[SUBJ]:3_SI, TENSE:FUT	quinqueh calmeh uehueyen
+NahuatlOmitlan0004	nin cali isqui ueyi	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:NEG	amo caltihqueh isqui ueyi
+NahuatlOmitlan0005	¿mox ticchihchiuas yayamatzin?	ASPECT:IMPFV, MOOD:NA, PERSON[OBJ]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:NEG	¿amo quichihchiuayah yayamatzin?
+NahuatlOmitlan0006	tiyoueh in iluitl	MOOD:OPT, PERSON[SUBJ]:3_PL	ma yohuican in iluitl
+NahuatlOmitlan0007	nin cali amo ueyi	PERSON[SUBJ]:3_PL, TENSE:FUT, TYPE:AFF	in cali ueyisqueh
+NahuatlOmitlan0008	in chilmeh chichiltiqueh	MOOD:COND, PERSON[SUBJ]:3_SI, TYPE:NEG	amo in chilli chichiltisquia
+NahuatlOmitlan0009	amo niualasquiah nican	MOOD:OPT, PERSON[SUBJ]:3_SI, TYPE:AFF	ma ualas nican
+NahuatlOmitlan0010	in chili ocatca chichiltic	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_PL, TENSE:PRES, TYPE:NEG	in chili amo quichichilticah
+NahuatlOmitlan0011	nin cali amo ueyi	PERSON[SUBJ]:3_PL, TYPE:AFF	in cali ueyih
+NahuatlOmitlan0012	ninqueh calmeh ocatcah uehueyen	TENSE:FUT	ninqueh calmeh quicasqueh uehueyen
+NahuatlOmitlan0013	nicchihchiuas yayamatzin	ASPECT:DUR, PERSON[OBJ]:3_PL, TENSE:PRES	nicchihchiuhtoc yayamatzitzin
+NahuatlOmitlan0014	uitz nican	MOOD:COND, PERSON[SUBJ]:2_PL, TYPE:NEG	amo xihuallosquiah nican
+NahuatlOmitlan0015	niquinchihchiutoc yayamatzitzin	MOOD:INT, PERSON[OBJ]:3_SI, PERSON[SUBJ]:2_SI, TENSE:FUT	¿ticchihchiuas yayamatzitzin?
+NahuatlOmitlan0016	nicchihchiuas yayamatzin	MOOD:INT, PERSON[SUBJ]:2_SI	¿ticchihchiuas yayamatzin?
+NahuatlOmitlan0017	youi nochan yexpa	ASPECT:IMPFV, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PAST	youi tochan yexpa
+NahuatlOmitlan0018	in chili chichiltic	MOOD:COND, TYPE:NEG	in chili amo chichilticquiah
+NahuatlOmitlan0019	otoconchichiu yayamatzin	HON:NA, PERSON[SUBJ]:3_SI, TENSE:PRES	quichihchiua yayamatl
+NahuatlOmitlan0020	quichihchiua yayamatzin	ASPECT:DUR, PERSON[OBJ]:3_PL, PERSON[SUBJ]:1_SI	nicchihchiuhtoc yayamatzin
+NahuatlOmitlan0021	oniyah mochan yexpa	PERSON[POSS]:1_SI, PERSON[SUBJ]:3_SI, TENSE:PRES	yah nochan yexpa
+NahuatlOmitlan0022	quichihchiua yayamatzin	ASPECT:IMPFV, PERSON[OBJ]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:NEG	amo quichihchiuayah yayamatzin
+NahuatlOmitlan0023	amo niualasquiah nican	MOOD:OPT, PERSON[SUBJ]:3_PL	amo maualasquiah nican
+NahuatlOmitlan0024	in chili chichiltic	ASPECT:IMPFV, TENSE:PAST	in chili chichiltihcaya
+NahuatlOmitlan0025	tiuitzeh nican	MOOD:OPT, PERSON[SUBJ]:3_SI	xiuiqui nican
+NahuatlOmitlan0026	nin cali isqui ueyi	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST	nin cali isqui ueyi
+NahuatlOmitlan0027	amo youeh in iluitl	MOOD:OPT, TYPE:AFF	ma youeh in iluitl
+NahuatlOmitlan0028	in chili chichiltic	PERSON[SUBJ]:3_PL	in chili chichilticqueh
+NahuatlOmitlan0029	xiuiqui nican	PERSON[SUBJ]:2_PL	xiuiquih nican
+NahuatlOmitlan0030	xiuiqui nican	MOOD:OPT, PERSON[SUBJ]:3_SI	ma xiuican
+NahuatlOmitlan0031	tiyoueh in iluitl	PERSON[SUBJ]:3_PL, TYPE:NEG	amo yohuihqueh in iluitl
+NahuatlOmitlan0032	oniyah mochan yexpa	MOOD:COND, PERSON[POSS]:3_PL, PERSON[SUBJ]:1_PL	otihyasquiah incal yexpa
+NahuatlOmitlan0033	in chili chichiltic	PERSON[POSS]:3_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo in chili chichiltic
+NahuatlOmitlan0034	nin cali isqui ueyi	PERSON[SUBJ]:3_PL	cali isqui ueyiueh
+NahuatlOmitlan0035	amo mauiqueh nican	PERSON[SUBJ]:3_SI, TYPE:AFF	maui nican
+NahuatlOmitlan0036	ninqueh calmeh ocatcah uehueyen	TYPE:NEG	ninqueh calmeh amo ocatcah uehueyen
+NahuatlOmitlan0037	xiuiqueh nican	MOOD:OPT, PERSON[SUBJ]:3_SI	xiuiqui nican
+NahuatlOmitlan0038	neh nictzahtzilihtinimi moprimo	PERSON[OBJ]:3_PL, PERSON[SUBJ]:1_PL	teh tictzahtzilihtinimi in primohuan
+NahuatlOmitlan0039	oniyah in iluitl	PERSON[SUBJ]:3_PL, TENSE:PRES, TYPE:NEG	amo yahqueh in iluitl
+NahuatlOmitlan0040	nin cali ueyi	TENSE:FUT	nin cali ueyis
+NahuatlOmitlan0041	xiuiqueh nican	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRES	xiuia nican
+NahuatlOmitlan0042	oniyah in iluitl	PERSON[SUBJ]:1_PL, TENSE:PRES	tiyah in iluitl
+NahuatlOmitlan0043	tiyoueh in iluitl	PERSON[SUBJ]:3_SI	quioeh in iluitl
+NahuatlOmitlan0044	in chilmeh chichiltiqueh	TENSE:FUT	in chilmeh chichiltizqueh
+NahuatlOmitlan0045	in chili chichiltic	PERSON[SUBJ]:3_PL, TENSE:FUT	in chili chichilticqueh
+NahuatlOmitlan0046	otoconchichiu yayamatzin	ASPECT:IMPFV, HON:NA, PERSON[OBJ]:3_PL, PERSON[SUBJ]:3_PL, TYPE:NEG	amo quinchichiuh yayamatzin
+NahuatlOmitlan0047	nin cali ueyi	ASPECT:IMPFV, TENSE:PAST	nin cali ueyihtoc
+NahuatlOmitlan0048	ninqueh calmeh uehueyen	TENSE:FUT	ninqueh calmeh uehueyisqueh
+NahuatlOmitlan0049	tiyasquiah inchan yexpa	ASPECT:IMPFV, MOOD:NA, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PAST	tiyasquiah nocalihtic yexpa
+NahuatlOmitlan0050	nimehuan amo onictzahtzilitinimiyah inprimo	HON:1, PERSON[OBJ]:2_SI, PERSON[POSS]:NA, PERSON[SUBJ]:3_SI	yehuatl amo omitztzahtzilih inprimo
+NahuatlOmitlan0051	xiuiqui nican	MOOD:OPT, PERSON[SUBJ]:3_PL, TYPE:NEG	amo maquiuhcan nican
+NahuatlOmitlan0052	tiualasqueh nican	PERSON[SUBJ]:3_SI, TENSE:PRES	yehuatl uala nican
+NahuatlOmitlan0053	ninqueh calmeh uehueyen	ASPECT:IMPFV, TENSE:PAST, TYPE:NEG	amo ninqueh calmeh uehueyeya
+NahuatlOmitlan0054	ninqueh calmeh uehueyen	ASPECT:IMPFV, TENSE:PAST	ninqueh calmeh uehueyaya
+NahuatlOmitlan0055	xiuiqui nican	MOOD:NA, PERSON[SUBJ]:3_SI, TENSE:PRES	yauh nican
+NahuatlOmitlan0056	tiuitzeh nican	PERSON[SUBJ]:3_SI	yuitzeh nican
+NahuatlOmitlan0057	nin cali amo ueyi	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:AFF	yehuan calihticah amo ueyi
+NahuatlOmitlan0058	xiuiqueh nican	MOOD:OPT, PERSON[SUBJ]:3_PL, TYPE:NEG	amo maquiuhcan nican
+NahuatlOmitlan0059	nin cali ocatca ueyi	PERSON[SUBJ]:3_PL, TYPE:NEG	amo nin cali ocatcaqueh ueyi
+NahuatlOmitlan0060	neh nictzahtzilihtinimi moprimo	ASPECT:IMPFV, HON:1, PERSON[OBJ]:2_SI, PERSON[POSS]:NA, PERSON[SUBJ]:3_SI, TENSE:PAST, TYPE:NEG	amo yeh otzatzilihtinimi moprimo
+NahuatlOmitlan0061	nin cali ocatca ueyi	PERSON[SUBJ]:3_PL	cali ocatca ueyi
+NahuatlOmitlan0062	quichihchiua yayamatzin	MOOD:INT, PERSON[SUBJ]:2_SI, TENSE:FUT	¿ticchihchiuas yayamatzin?
+NahuatlOmitlan0063	oniyah in iluitl	TYPE:NEG	oniyah amo in iluitl
+NahuatlOmitlan0064	nin cali ueyi	PERSON[SUBJ]:3_PL, TENSE:FUT	cali ueyiueh
+NahuatlOmitlan0065	xiuiqui nican	MOOD:NA, PERSON[SUBJ]:1_PL, TENSE:FUT	tixiuiqueh nican
+NahuatlOmitlan0066	xiuiqueh nican	MOOD:COND, TYPE:NEG	amo xiuisquiah nican
+NahuatlOmitlan0067	uitz nican	MOOD:OPT, PERSON[SUBJ]:3_PL, TYPE:NEG	amo maquihuican
+NahuatlOmitlan0068	nicchihchiuas yayamatzin	PERSON[SUBJ]:3_SI, TENSE:PRES	quichihchiua yayamatzin
+NahuatlOmitlan0069	nin cali amo ueyi	ASPECT:IMPFV, TENSE:PAST, TYPE:AFF	nin cali ohuaya ueyi
+NahuatlOmitlan0070	oniyah mochan yexpa	ASPECT:IMPFV, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL	oniyah tochan yexpa
+NahuatlOmitlan0071	tiyoueh in iluitl	ASPECT:PERFV, PERSON[SUBJ]:1_SI, TENSE:PAST, TYPE:NEG	amo otitiyouh in iluitl
+NahuatlOmitlan0072	tiualasqueh nican	TENSE:PRES	tiualah nican
+NahuatlOmitlan0073	in chili amo isquia chichiltic	MOOD:NA, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_PL, TENSE:PRES	in chili amo ichichilticah
+NahuatlOmitlan0074	in chili ocatca chichiltic	MOOD:COND, TYPE:NEG	in chili amo ocasquiah chichiltic
+NahuatlOmitlan0075	oniyah in iluitl	PERSON[SUBJ]:3_SI, TENSE:PRES	yah in iluitl
+NahuatlOmitlan0076	tiualasqueh nican	MOOD:COND, PERSON[SUBJ]:2_PL, TYPE:NEG	amo tiualtisquiah nican
+NahuatlOmitlan0077	nimehuan amo onictzahtzilitinimiyah inprimo	PERSON[OBJ]:3_PL, PERSON[POSS]:2_SI, PERSON[SUBJ]:1_PL, TENSE:PRES, TYPE:AFF	tiquintzahtzilitinimiyah moprimomeh
+NahuatlOmitlan0078	youi in iluitl	MOOD:OPT, PERSON[SUBJ]:3_PL	ma youican in iluitl
+NahuatlOmitlan0079	amo oniyaca in iluitl 	PERSON[SUBJ]:3_PL, TENSE:PRES	amo yacah in iluitl
+NahuatlOmitlan0080	nin cali amo ueyi	TENSE:FUT, TYPE:AFF	nin cali ueyis
+NahuatlOmitlan0081	otoconchichiu yayamatzin	ASPECT:DUR, HON:NA, PERSON[OBJ]:3_PL, PERSON[SUBJ]:1_SI, TENSE:PRES	nicchichihtoc yayamatzin
+NahuatlOmitlan0082	amo oniyaca in iluitl 	PERSON[SUBJ]:3_SI, TENSE:PRES, TYPE:AFF	quica in iluitl
+NahuatlOmitlan0083	neh nictzahtzilihtinimi moprimo	ASPECT:IMPFV, PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PAST, TYPE:NEG	amo otitzatzilihqueh imprimo
+NahuatlOmitlan0084	nicchihchiuas yayamatzin	ASPECT:PERFV, HON:1, PERSON[SUBJ]:2_SI, TENSE:PAST	otoconchihchiuh yayamatzin
+NahuatlOmitlan0085	oniyah mochan yexpa	PERSON[POSS]:2_PL, PERSON[SUBJ]:3_SI, TYPE:NEG	amo oniyah nimochan yexpa
+NahuatlOmitlan0086	oniyah in iluitl	MOOD:OPT, PERSON[SUBJ]:3_PL	ma yahqueh in iluitl
+NahuatlOmitlan0087	nin cali ueyi	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST	cali ueyiaya
+NahuatlOmitlan0088	nin cali ueyi	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:NEG	amo caltihqueh ueyi
+NahuatlOmitlan0089	tiualasqueh nican	MOOD:OPT, PERSON[SUBJ]:3_PL, TYPE:NEG	amo maualacan nican
+NahuatlOmitlan0090	amo oyah nimochan yexpa	ASPECT:IMPFV, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TYPE:AFF	tiyah tochan yexpa
+NahuatlOmitlan0091	niquinchihchiutoc yayamatzitzin	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:NEG	amo quinchihchiutoyah yayamatzitzin
+NahuatlOmitlan0092	tiyasquiah inchan yexpa	ASPECT:PERFV, MOOD:NA, PERSON[POSS]:2_PL, PERSON[SUBJ]:3_SI, TENSE:PAST, TYPE:NEG	amo oyasqueh nimochan yexpa
+NahuatlOmitlan0093	amo masectlali ipan mesa	MOOD:IMP, PERSON[OBJ]:REFL, PERSON[SUBJ]:2_PL	amo ximocetlalican ipan mesa
+NahuatlOmitlan0094	ninqueh calmeh amo ocatcah uehueyen	TENSE:FUT, TYPE:AFF	ninqueh calmeh quicazqueh uehueyen
+NahuatlOmitlan0095	nin cali isqui ueyi	ASPECT:IMPFV, TENSE:PAST	nin cali isqui ueyi catca
+NahuatlOmitlan0096	nin cali ueyi	PERSON[SUBJ]:3_PL	cali ueyiueh
+NahuatlOmitlan0097	tiualasqueh nican	MOOD:OPT, PERSON[SUBJ]:3_SI	xiuiqui nican
+NahuatlOmitlan0098	xiuiqueh nican	MOOD:NA, PERSON[SUBJ]:1_PL, TENSE:FUT	tixiuisqueh nican
+NahuatlOmitlan0099	oquintlaleh ipan mesa	MOOD:IMP, PERSON[OBJ]:REFL, PERSON[SUBJ]:2_PL, TYPE:NEG	amo ximotlalican ipan mesa
+NahuatlOmitlan0100	nin cali ocatca ueyi	PERSON[SUBJ]:3_PL, TENSE:FUT	cali ocatqueh ueyi
+NahuatlOmitlan0101	in chilmeh isqueh chichiltiqueh	PERSON[POSS]:3_SI, TENSE:PRES, TYPE:NEG	in chilmeh amo ichichiltoc
+NahuatlOmitlan0102	tiyasquiah inchan yexpa	MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:3_SI, TENSE:PRES	quihyas nochan yexpa
+NahuatlOmitlan0103	youi nochan yexpa	ASPECT:PERFV, PERSON[POSS]:2_PL, TENSE:PAST, TYPE:NEG	amo oyui nimochanyexpa
+NahuatlOmitlan0104	in chilmeh chichiltiqueh	ASPECT:IMPFV, PERSON[SUBJ]:3_SI, TENSE:PAST	in chilmeh chichiltiaya
+NahuatlOmitlan0105	tiuitzeh nican	MOOD:COND, PERSON[SUBJ]:2_PL, TYPE:NEG	amo tihuitzquiah nican
+NahuatlOmitlan0106	in chilmeh chichiltiqueh	PERSON[POSS]:3_SI, TYPE:NEG	amo ichilmeh chichiltiqueh
+NahuatlOmitlan0107	xiuiqui nican	MOOD:COND, PERSON[SUBJ]:2_PL, TYPE:NEG	amo xiuisquiah nican
+NahuatlOmitlan0108	ninqueh calmeh uehueyen	ASPECT:IMPFV, PERSON[SUBJ]:3_SI, TENSE:PAST	oquinqueh calmeh uehueyen
+NahuatlOmitlan0109	nin cali amo ueyi	ASPECT:IMPFV, PERSON[SUBJ]:3_PL, TENSE:PAST	nin cali amo ueyiaya
+NahuatlOmitlan0110	nin cali ueyi	TYPE:NEG	amo nin cali ueyi
+NahuatlOmitlan0111	tehuan tiquintzahtzilitinimeh moprimos	ASPECT:IMPFV, HON:1, PERSON[OBJ]:2_SI, PERSON[POSS]:NA, PERSON[SUBJ]:3_SI, TENSE:PAST, TYPE:NEG	amo yeh otimitzzahtziliah primos
+NahuatlOmitlan0112	nicchihchiuas yayamatzin	ASPECT:IMPFV, PERSON[OBJ]:3_PL, PERSON[SUBJ]:3_PL, TENSE:PAST, TYPE:NEG	amo quichihchiuayah yayamatzin
+NahuatlOmitlan0113	xiuiqui nican	MOOD:NA, PERSON[SUBJ]:1_PL, TENSE:PRES	tixiuiqueh nican
+NahuatlOmitlan0114	amo oniyaca in iluitl 	MOOD:OPT, PERSON[SUBJ]:3_PL, TYPE:AFF	ma yacacan in iluitl
+NahuatlOmitlan0115	xiuiqueh nican	MOOD:NA, PERSON[SUBJ]:1_PL, TENSE:PRES	tihuiyah nican
+NahuatlOmitlan0116	youi in iluitl	PERSON[SUBJ]:3_PL, TYPE:NEG	amo youih in iluitl
+NahuatlOmitlan0117	uitz nican	MOOD:OPT	ma huitz nican
+NahuatlOmitlan0118	in chili ocatca chichiltic	PERSON[SUBJ]:3_PL, TENSE:FUT	in chili chichilticqueh
+NahuatlOmitlan0119	otoconchichiu yayamatzin	HON:NA, MOOD:INT, TENSE:FUT	¿quichichiuas yayamat?
+NahuatlOmitlan0120	tiuitzeh nican	MOOD:OPT, PERSON[SUBJ]:3_PL, TYPE:NEG	amo maquiuican nican
